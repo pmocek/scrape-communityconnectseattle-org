@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ !github.event.repository.is_template }}
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
     - name: Create scrape.sh if it doesn't exist
       run: |
         if [ ! -f "scrape.sh" ]; then
@@ -44,7 +44,7 @@ jobs:
     #     pip install -r requirements.txt
     # Uncomment to use Playwright via shot-scraper (put shot-scraper in requirements.txt):
     # - name: Cache Playwright browsers
-    #   uses: actions/cache@v4
+    #   uses: actions/cache@v5
     #   with:
     #     path: ~/.cache/ms-playwright/
     #     key: ${{ runner.os }}-browsers
