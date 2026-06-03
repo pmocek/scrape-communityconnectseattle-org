@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "scrape_communityconnectseattle_org",
+  "project_id": "7a596b5f-8e56-44f8-afed-44b3265bc130"
+}
