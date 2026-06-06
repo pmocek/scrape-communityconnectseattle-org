@@ -1,3 +1,3 @@
-# Scheduled scraper
+# Scheduled scraper: communityconnectseattle.org
 
-For Track changes to communityconnectseattle.org
+Track changes to [communityconnectseattle.org](https://communityconnectseattle.org)
