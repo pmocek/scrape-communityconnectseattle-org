@@ -49,13 +49,26 @@ fi
 # Create temporary file
 TEMP_FILE=$(mktemp)
 
-# Download the file
-echo "Downloading $URL"
-curl -s -L "$URL" -o "$TEMP_FILE" || {
+# Download and render the file
+echo "Downloading and rendering $URL"
+
+if command -v shot-scraper &> /dev/null; then
+  shot-scraper html "$URL" --wait 3000 -o "$TEMP_FILE" || rm -f "$TEMP_FILE"
+elif command -v uvx &> /dev/null; then
+  uvx shot-scraper html "$URL" --wait 3000 -o "$TEMP_FILE" || rm -f "$TEMP_FILE"
+elif [ -x "$HOME/.local/bin/uvx" ]; then
+  "$HOME/.local/bin/uvx" shot-scraper html "$URL" --wait 3000 -o "$TEMP_FILE" || rm -f "$TEMP_FILE"
+elif [ -x "$HOME/.local/bin/shot-scraper" ]; then
+  "$HOME/.local/bin/shot-scraper" html "$URL" --wait 3000 -o "$TEMP_FILE" || rm -f "$TEMP_FILE"
+else
+  echo "Warning: shot-scraper or uvx not found. Falling back to curl (dynamic content may be missed)."
+  curl -s -L "$URL" -o "$TEMP_FILE" || rm -f "$TEMP_FILE"
+fi
+
+if [ ! -f "$TEMP_FILE" ] || [ ! -s "$TEMP_FILE" ]; then
   echo "Error: Failed to download $URL"
-  rm -f "$TEMP_FILE"
   exit 1
-}
+fi
 
 # Get file extension based on MIME type
 EXTENSION=$(get_file_extension "$TEMP_FILE")
