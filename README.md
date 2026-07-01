@@ -10,7 +10,7 @@ It monitors:
 
 ## How It Works
 
-This project uses **Git Scraping**—popularized by Simon Willison—to pull updates on a schedule and commit any changes back to the repository.
+This project uses [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)—a technique popularized by Simon Willison—to pull updates on a schedule and commit any changes back to the repository.
 
 1.  **GitHub Actions Workflow**: A scheduled workflow (`.github/workflows/scrape.yml`) runs daily.
 2.  **Master Community List**: The file `fusus-communities.json` serves as the list of monitored agencies.
