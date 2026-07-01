@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Config
 PROJECT_DIR = Path(__file__).parent.resolve()
-COMMUNITIES_FILE = PROJECT_DIR / "fusus-communities.json"
+PORTALS_FILE = PROJECT_DIR / "fusus-portals.json"
 DATA_DIR = PROJECT_DIR / "data"
 
 MAX_WORKERS = 10
@@ -74,21 +74,21 @@ def scrape_one(loc):
         return {"slug": slug, "success": False, "error": str(e)}
 
 def main():
-    if not COMMUNITIES_FILE.exists():
-        print(f"ERROR: {COMMUNITIES_FILE} not found. Run update-communities.py first.")
+    if not PORTALS_FILE.exists():
+        print(f"ERROR: {PORTALS_FILE} not found. Run update-portals.py first.")
         sys.exit(1)
         
-    with open(COMMUNITIES_FILE) as f:
-        communities = json.load(f)
+    with open(PORTALS_FILE) as f:
+        portals = json.load(f)
         
-    print(f"Loaded {len(communities)} communities. Scraping stats with {MAX_WORKERS} workers...")
+    print(f"Loaded {len(portals)} portals. Scraping stats with {MAX_WORKERS} workers...")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     
     start_time = time.time()
     results = []
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(scrape_one, loc): loc for loc in communities}
+        futures = {executor.submit(scrape_one, loc): loc for loc in portals}
         
         for future in as_completed(futures):
             loc = futures[future]
@@ -106,7 +106,7 @@ def main():
                 
     elapsed = time.time() - start_time
     success_count = sum(1 for r in results if r["success"])
-    print(f"\nDone. Successfully scraped {success_count}/{len(communities)} Fusus communities in {elapsed:.1f}s.")
+    print(f"\nDone. Successfully scraped {success_count}/{len(portals)} Fusus portals in {elapsed:.1f}s.")
 
 if __name__ == "__main__":
     main()

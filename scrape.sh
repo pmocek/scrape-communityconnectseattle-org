@@ -1,6 +1,7 @@
 #!/bin/bash
-# Fetch camera stats for all Fusus communities
+# Fetch camera stats for all Fusus portals
 ./scrape-fusus.py
+
 
 # Download Seattle specific web pages for page diff tracking
 ./download.sh 'https://communityconnectseattle.org/'
