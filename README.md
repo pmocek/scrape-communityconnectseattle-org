@@ -1,10 +1,10 @@
-# Scheduled scraper: Fusus Community Connect
+# Scheduled scraper: Fusus Surveillance Registries
 
-This repository automatically scrapes and tracks camera statistics across all participating communities hosted on the **Axon Fusus** platform nationwide, alongside HTML snapshot differences for [communityconnectseattle.org](https://communityconnectseattle.org).
+This repository automatically scrapes and tracks camera statistics across all subscriber portals hosted on the **Axon Fusus** platform (marketed as "Community Connect") nationwide, alongside HTML snapshot differences for [communityconnectseattle.org](https://communityconnectseattle.org).
 
 It monitors:
 *   **Seattle-specific Pages**: Full HTML snapshots (home page, camera registration, integration, join, and privacy policy) to track layout or policy modifications.
-*   **Nationwide Community Connect Portals**: Camera metrics (registered, integrated, owned, shared, and subscribed counts) for **300+ participating agencies** across dozens of states.
+*   **Nationwide Surveillance Registries**: Camera metrics (registered, integrated, owned, shared, and subscribed counts) for **300+ subscriber portals** across dozens of states.
 
 ---
 
@@ -13,10 +13,10 @@ It monitors:
 This project uses [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)—a technique popularized by Simon Willison—to pull updates on a schedule and commit any changes back to the repository.
 
 1.  **GitHub Actions Workflow**: A scheduled workflow (`.github/workflows/scrape.yml`) runs daily.
-2.  **Master Community List**: The file `fusus-communities.json` serves as the list of monitored agencies.
+2.  **Master Portals List**: The file `fusus-portals.json` serves as the list of monitored portals.
 3.  **Concurrent API Stats Scraper**:
     *   Fusus hosts a public JSON endpoint for organization stats: `https://api.fususone.com/api/public/organizations/{org}/stats/`
-    *   The `scrape-fusus.py` script queries this API concurrently for all 300+ agencies using a thread pool, finishing in under 5 seconds.
+    *   The `scrape-fusus.py` script queries this API concurrently for all 300+ portals using a thread pool, finishing in under 5 seconds.
     *   Metrics are appended as time-staged lines to `data/{slug}/stats.jsonl`.
     *   Network timeouts or failures are logged to `data/{slug}/blocked.jsonl` without corrupting the clean stats log.
 4.  **Seattle Browser Render**:
@@ -29,7 +29,7 @@ This project uses [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scrapi
 
 ## Directory Structure
 
-*   `fusus-communities.json`: Master database containing metadata (city, state, coordinates, url, registry link, organization code) for all Fusus communities.
+*   `fusus-portals.json`: Master database containing metadata (city, state, coordinates, url, registry link, organization code) for all Fusus portals.
 *   `data/{slug}/stats.jsonl`: Time-stamped JSON records tracking camera statistics over time.
     ```json
     {"ts": "2026-06-30T22:13:36Z", "totalRegisteredCameras": 844, "totalIntegratedCameras": 709, "totalOwnedCameras": 692, "totalSharedCameras": 0, "totalMaxCameras": 5000, "subscribedCameras": 689}
@@ -40,14 +40,14 @@ This project uses [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scrapi
 
 ## Scripts & Tools
 
-### Update the Master Community List
-Downloads the latest list of communities from the official map database on `axoncommunityconnect.com` and formats them alphabetically by state and city:
+### Update the Master Portals List
+Downloads the latest list of portals from the database on `axoncommunityconnect.com` and formats them alphabetically by state and city:
 ```bash
-./update-communities.py
+./update-portals.py
 ```
 
 ### Scrape Camera Statistics
-Triggers the concurrent stats collector for all listed communities:
+Triggers the concurrent stats collector for all listed portals:
 ```bash
 ./scrape-fusus.py
 ```
