@@ -150,9 +150,8 @@ def main():
                 body_lines.append("New Portals:")
                 for slug, desc in new:
                     body_lines.append(f"  {slug}")
-        else:
-            # All changes were "no change" or "still blocked"
-            print("data: periodic check (no count changes)")
+        elif has_non_data:
+            print("chore: update source files")
     else:
         if has_non_data:
             print("chore: update source files")

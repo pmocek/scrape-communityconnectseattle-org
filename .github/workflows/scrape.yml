@@ -59,7 +59,8 @@ jobs:
         fi
         MSG=$(python3 scripts/describe-diff.py)
         if [ -z "$MSG" ]; then
-          MSG="data: periodic check (no count changes)"
+          echo "Nothing meaningful changed — skipping commit"
+          exit 0
         fi
         git commit -m "$MSG"
         git pull --rebase
