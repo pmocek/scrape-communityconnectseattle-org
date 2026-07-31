@@ -1,0 +1,6285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.89637,
+          61.21836
+        ]
+      },
+      "properties": {
+        "id": "anchorage",
+        "title": "Safe Anchorage",
+        "url": "https://safeanchorage.org",
+        "city": "Anchorage",
+        "state": "AK",
+        "registry": "https://anchoragepdak.fususregistry.com/camera-registry",
+        "org": "anchoragepdak",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c2963ec34b3d0012df542e/25e5aae6cf5e767b584ad67294e551ee?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.834166,
+          33.2743809
+        ]
+      },
+      "properties": {
+        "id": "ashland",
+        "title": "Connect Ashland",
+        "url": "https://connectashland.org",
+        "city": "Ashland",
+        "state": "AL",
+        "registry": "https://ashlandpdal.fususregistry.com/camera-registry",
+        "org": "ashlandpdal",
+        "image": "https://cdn.swell.store/fusus-atlanta/66212b1f28218c00124ea2e1/3c02bdeb8d0f30fc8290835cc4ae5c7f/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80953769999999,
+          33.51278
+        ]
+      },
+      "properties": {
+        "id": "birmingham",
+        "title": "Connect Birmingham",
+        "url": "https://connectbirmingham.org",
+        "city": "Birmingham",
+        "state": "AL",
+        "registry": "https://birminghampd.fususregistry.com/camera-registry",
+        "org": "birminghampd",
+        "image": "https://cdn.swell.store/fusus-atlanta/669ff1372ca5860012bc1c61/a17dd2e6d57bf171a593bae79ee56132/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8631771,
+          33.5995165
+        ]
+      },
+      "properties": {
+        "id": "oxford",
+        "title": "Connect Oxford",
+        "url": "https://connectoxford.org",
+        "city": "City of Oxford",
+        "state": "AL",
+        "registry": "https://cityofoxford.fususregistry.com/camera-registry",
+        "org": "cityofoxford",
+        "image": "https://cdn.swell.store/fusus-atlanta/67af9df2717e0c001209d704/ccd12106ae2e9f1dab257c3a85abf0d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.39064,
+          31.22621
+        ]
+      },
+      "properties": {
+        "id": "dothan",
+        "title": "Connect Dothan",
+        "url": "https://connectdothanpd.org",
+        "city": "Dothan",
+        "state": "AL",
+        "registry": "https://dothanpd.fususregistry.com/camera-registry",
+        "org": "dothanpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/69dd1a3e87d5f9001318bddf/113e51131d8b17b7245e49d7d58928f8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80567810000001,
+          33.3872798
+        ]
+      },
+      "properties": {
+        "id": "hoover",
+        "title": "Connect Hoover",
+        "url": "https://connecthoover.org",
+        "city": "Hoover",
+        "state": "AL",
+        "registry": "https://hooverpd.fususregistry.com/camera-registry",
+        "org": "hooverpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/67129cc945d68e001248356b/c37bbafa37846fd94ea2a0bc9f7ecad7/background.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8075008,
+          33.523177
+        ]
+      },
+      "properties": {
+        "id": "jefferson-co",
+        "title": "Connect Jefferson County",
+        "url": "https://connectjeffersoncounty.org",
+        "city": "Jefferson County",
+        "state": "AL",
+        "registry": "https://jeffersoncountysheriff.fususregistry.com/camera-registry",
+        "org": "jeffersoncountysheriff",
+        "image": "https://cdn.schema.io/fusus-atlanta/62c85f2cff93d40012c3ca31/28b70a53345d4db7ce77a00eca157c45?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09809,
+          30.67418
+        ]
+      },
+      "properties": {
+        "id": "mobile",
+        "title": "Connect Mobile",
+        "url": "https://communityconnectmobile.org",
+        "city": "Mobile",
+        "state": "AL",
+        "registry": "https://mobilepdal.fususregistry.com/camera-registry",
+        "org": "mobilepdal",
+        "image": "https://cdn.swell.store/fusus-atlanta/68f8d27650f8a3001275496b/6778d9ea7e40d7b76019eb66a0280529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2979896,
+          32.3819047
+        ]
+      },
+      "properties": {
+        "id": "montgomery",
+        "title": "STAR Watch Program",
+        "url": "https://mpdstarwatch.org",
+        "city": "Montgomery",
+        "state": "AL",
+        "registry": "https://montgomerypd-al.fususregistry.com/camera-registry/",
+        "org": "montgomerypd-al",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f729d9234c900127becd7/0efdee5cc55dd6961d5acb99fedd339d/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3067027,
+          32.3760259
+        ]
+      },
+      "properties": {
+        "id": "montgomery-county-so",
+        "title": "Connect Montgomery County",
+        "url": "https://connectmontgomerycounty.org",
+        "city": "Montgomery County",
+        "state": "AL",
+        "registry": "https://montgomeryso-al.fususregistry.com/camera-registry",
+        "org": "montgomeryso-al",
+        "image": "https://cdn.swell.store/fusus-atlanta/66955dda39c2f700137c1b2b/0a2ca3c829ac0b3fc53c0ceeb75ae684/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2961133,
+          33.5872798
+        ]
+      },
+      "properties": {
+        "id": "pell-city",
+        "title": "Connect Pell City",
+        "url": "https://connectpellcity.org",
+        "city": "Pell City",
+        "state": "AL",
+        "registry": "https://pellcitypd.fususregistry.com/camera-registry",
+        "org": "pellcitypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66ab9967c1db9700128df434/5d6a500a8b7c203f9ae89b2202d6ba5d/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5560209,
+          33.17234
+        ]
+      },
+      "properties": {
+        "id": "tuscaloosa",
+        "title": "Safeguard Tuscaloosa",
+        "url": "https://safeguardtuscaloosa.org",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "registry": "https://tuscaloosapd.fususregistry.com/camera-registry",
+        "org": "tuscaloosapd",
+        "image": "https://cdn.schema.io/fusus-atlanta/63c6c4364872b70012f0b0ed/36861cbb9d56c6e96ba7d6d0cc4194d6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.27708779999999,
+          34.7487808
+        ]
+      },
+      "properties": {
+        "id": "little-rock",
+        "title": "Connect Little Rock",
+        "url": "https://connectlittlerock.org",
+        "city": "Little Rock",
+        "state": "AR",
+        "registry": "https://littlerockpd.fususregistry.com/camera-registry",
+        "org": "littlerockpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/666c7cd2a4510c001203d095/6cc8d4f69787215d5483beac81254d2a/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.26419399999999,
+          34.778778
+        ]
+      },
+      "properties": {
+        "id": "no-li-rock",
+        "title": "Connect North Little Rock",
+        "url": "https://connectnorthlittlerock.org",
+        "city": "North Little Rock",
+        "state": "AR",
+        "registry": "https://northlittlerock.fususregistry.com/camera-registry",
+        "org": "northlittlerock",
+        "image": "https://cdn.swell.store/fusus-atlanta/670015e2b4307e001201fd52/ab26d569f3c6ca61d5ba0d26f0806e0c/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.14306,
+          36.31147
+        ]
+      },
+      "properties": {
+        "id": "rogers",
+        "title": "Connect Rogers",
+        "url": "https://connectrogers.org",
+        "city": "Rogers",
+        "state": "AR",
+        "registry": "https://rogerspdar.fususregistry.com/camera-registry",
+        "org": "rogerspdar",
+        "image": "https://cdn.swell.store/fusus-atlanta/6945a5de7bea6f00128d4aba/5dd02276d004d7babb4e048a8aab21f5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2385345,
+          33.5747747
+        ]
+      },
+      "properties": {
+        "id": "peoria-az",
+        "title": "Connect Peoria",
+        "url": "https://connectpeoriaaz.org",
+        "city": "Peoria",
+        "state": "AZ",
+        "registry": "https://peoriapdaz.fususregistry.com/camera-registry",
+        "org": "peoriapdaz",
+        "image": "https://cdn.swell.store/fusus-atlanta/67d03bd0e9cab20012df163a/f86850eb235c5ef9f63098434f4c45c6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6364414,
+          33.2436121
+        ]
+      },
+      "properties": {
+        "id": "queen-creek",
+        "title": "Connect Queen Creek",
+        "url": "https://connectqueencreek.org",
+        "city": "Queen Creek",
+        "state": "AZ",
+        "registry": "https://queencreekaz.fususregistry.com/camera-registry",
+        "org": "queencreekaz",
+        "image": "https://cdn.swell.store/fusus-atlanta/679286a5cc16db00121f52c2/c54bd45cf4e165a5717457c994625834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9375354,
+          33.4258991
+        ]
+      },
+      "properties": {
+        "id": "tempe",
+        "title": "Connect Tempe",
+        "url": "https://connecttempe.org",
+        "city": "Tempe",
+        "state": "AZ",
+        "registry": "https://tempepd.fususregistry.com/camera-registry",
+        "org": "tempepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66e06f5bf4472f00118fbe9a/a84e1527c8920557bc065e8f48770d0c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.97135,
+          32.21758
+        ]
+      },
+      "properties": {
+        "id": "tucson",
+        "title": "Connect Tucson",
+        "url": "https://connecttucson.org",
+        "city": "Tucson",
+        "state": "AZ",
+        "registry": "https://tucsonpd.fususregistry.com/camera-registry",
+        "org": "tucsonpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/681b589ad4707a0012564f1a/18d8e4e39344fe5b011c70a70bd35585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.94443,
+          32.23475
+        ]
+      },
+      "properties": {
+        "id": "uni-arizona",
+        "title": "Connect University of Arizona",
+        "url": "https://connectuniversityofarizona.org",
+        "city": "University of Arizona",
+        "state": "AZ",
+        "registry": "https://uarizonapdaz.fususregistry.com/camera-registry",
+        "org": "uarizonapdaz",
+        "image": "https://cdn.swell.store/fusus-atlanta/68ee4c779b0891001167101c/2cf7751fb0c3ee70402ad6d491dcded4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92017,
+          33.83067
+        ]
+      },
+      "properties": {
+        "id": "anaheim",
+        "title": "Connect Anaheim",
+        "url": "https://connectanaheim.org",
+        "city": "Anaheim",
+        "state": "CA",
+        "registry": "https://anaheim.fususregistry.com/camera-registry",
+        "org": "anaheim",
+        "image": "https://cdn.swell.store/fusus-atlanta/663cd08946f8210012b43434/786b5bca3e69caf3c364f08ad7216478/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3999238,
+          34.0736396
+        ]
+      },
+      "properties": {
+        "id": "beverly-hills",
+        "title": "Beverly Hills Connect",
+        "url": "https://beverlyhillsconnect.org",
+        "city": "Beverly Hills",
+        "state": "CA",
+        "registry": "https://beverlyhillspd.fususregistry.com/camera-registry",
+        "org": "beverlyhillspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/679005084d3f460012903ddc/000bac2bbfcc24c1ca46bc65c2af0adb?width=1800&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9441557,
+          37.28832690000001
+        ]
+      },
+      "properties": {
+        "id": "campbell",
+        "title": "Connect Campbell",
+        "url": "https://campbellpdconnect.org",
+        "city": "Campbell",
+        "state": "CA",
+        "registry": "https://campbellpd.fususregistry.com/camera-registry",
+        "org": "campbellpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66aa47a43558ce0013db4d99/0a4a29c6ac53a322773677333a163428/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32258,
+          34.07188
+        ]
+      },
+      "properties": {
+        "id": "colton",
+        "title": "Connect Colton",
+        "url": "https://connectcolton.org",
+        "city": "Colton",
+        "state": "CA",
+        "registry": "https://coltonpdca.fususregistry.com/camera-registry",
+        "org": "coltonpdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a07274f81082b001387451c/75a16a6cce454eb8bfe75e545fab6712?width=1800&height=600&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88871,
+          34.0901
+        ]
+      },
+      "properties": {
+        "id": "covina",
+        "title": "SaferCovina",
+        "url": "https://safercovina.org",
+        "city": "Covina",
+        "state": "CA",
+        "registry": "https://covinapdca.fususregistry.com/camera-registry",
+        "org": "covinapdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/698a1eeb3ad7900012486a47/039efb615400dd935ef564fc7d3f96b1?width=1600&height=600&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47318,
+          37.69092
+        ]
+      },
+      "properties": {
+        "id": "daly-city",
+        "title": "Connect Daly City",
+        "url": "https://connectdalycity.org",
+        "city": "Daly City",
+        "state": "CA",
+        "registry": "https://dalycitypdca.fususregistry.com/camera-registry",
+        "org": "dalycitypdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/69124285b10f380012bc9b0e/dd7149ad3a7553dc2b99c98441e1de37?width=1200&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.96094,
+          32.79717
+        ]
+      },
+      "properties": {
+        "id": "el-cajon",
+        "title": "Connect El Cajon",
+        "url": "https://connectelcajon.org",
+        "city": "El Cajon",
+        "state": "CA",
+        "registry": "https://elcajonpdca.fususregistry.com/camera-registry",
+        "org": "elcajonpdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/6925d72b2ca2da001280cddf/1a19a8b7b485eaabde2e159b401f2eaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86531,
+          34.13505
+        ]
+      },
+      "properties": {
+        "id": "glendora",
+        "title": "Connect Glendora",
+        "url": "https://connectglendora.org",
+        "city": "Glendora",
+        "state": "CA",
+        "registry": "https://glendorapdca.fususregistry.com/camera-registry",
+        "org": "glendorapdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/69dcfb1fdda687001298c272/a79ce567393a64532001036f27f7457f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3532716,
+          33.9196428
+        ]
+      },
+      "properties": {
+        "id": "hawthorne",
+        "title": "Connect Hawthorne",
+        "url": "https://connecthawthorne.org",
+        "city": "Hawthorne",
+        "state": "CA",
+        "registry": "https://cityofhawthorne.fususregistry.com/camera-registry",
+        "org": "cityofhawthorne",
+        "image": "https://cdn.swell.store/fusus-atlanta/66db1b1194179300125c889f/f7a7f379816321762346ce82e90be37d/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.75593,
+          33.52151
+        ]
+      },
+      "properties": {
+        "id": "laguna-beach",
+        "title": "Connect Laguna Beach",
+        "url": "https://connectlagunabeach.org",
+        "city": "Laguna Beach",
+        "state": "CA",
+        "registry": "https://lagunabeachpd.fususregistry.com/camera-registry",
+        "org": "lagunabeachpd",
+        "image": "https://d33wubrfki0l68.cloudfront.net/804b10b4961006a993e64fe98e5a84ef5814a652/5f4c9/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24454,
+          34.05217
+        ]
+      },
+      "properties": {
+        "id": "los-angeles",
+        "title": "Connect Los Angeles",
+        "url": "https://connectprotectla.org",
+        "city": "Los Angeles",
+        "state": "CA",
+        "registry": "https://lapd.fususregistry.com/camera-registry",
+        "org": "lapd",
+        "image": "https://cdn.swell.store/fusus-atlanta/68efc2d35746af0012b13589/f3fedaece3556065347a29bc9d6807ea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2425089,
+          34.055938
+        ]
+      },
+      "properties": {
+        "id": "la-county",
+        "title": "Connect Los Angeles County",
+        "url": "https://connectlosangelescounty.org",
+        "city": "Los Angeles County",
+        "state": "CA",
+        "registry": "https://lasd.fususregistry.com/camera-registry",
+        "org": "lasd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66297a066439250012d20317/aa99fa9347103bdfcfb194c81be10898/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4094153,
+          33.8872637
+        ]
+      },
+      "properties": {
+        "id": "manhattan-beach",
+        "title": "Connect Manhattan Beach",
+        "url": "https://connectmanhattanbeach.org",
+        "city": "Manhattan Beach",
+        "state": "CA",
+        "registry": "https://manhattanbeach.fususregistry.com/camera-registry",
+        "org": "manhattanbeach",
+        "image": "https://cdn.swell.store/fusus-atlanta/663a64f112915f0012e9f98c/74cce8a3c55eb3d1cd477ab1f4c211e3/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.48211,
+          37.30756
+        ]
+      },
+      "properties": {
+        "id": "merced",
+        "title": "Merced Community Camera Program",
+        "url": "https://mercedcommunitycameraprogram.org",
+        "city": "Merced",
+        "state": "CA",
+        "registry": "https://mercedpdca.fususregistry.com/camera-registry",
+        "org": "mercedpdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/692efdc2307c2e0011affff5/03396c21d3e15130d4f8fbb963df7700?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0001459,
+          37.6412366
+        ]
+      },
+      "properties": {
+        "id": "modesto",
+        "title": "Connect Modesto",
+        "url": "https://connectmodesto.org",
+        "city": "Modesto",
+        "state": "CA",
+        "registry": "https://modestopd.fususregistry.com/camera-registry",
+        "org": "modestopd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f44c9aa208e500125e711f/586a2359257e4c49a351e10a2b91ac88/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88067,
+          33.62354
+        ]
+      },
+      "properties": {
+        "id": "newport-beach",
+        "title": "Connect Newport Beach",
+        "url": "https://connectnewportbeach.org",
+        "city": "Newport Beach",
+        "state": "CA",
+        "registry": "https://newportbeachpdca.fususregistry.com/camera-registry",
+        "org": "newportbeachpdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/682f24ad015bfa00124baab1/edc53003e6d33f5dd8c5c7c8abc16d02?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.56945,
+          38.10672
+        ]
+      },
+      "properties": {
+        "id": "novato",
+        "title": "Connect Novato",
+        "url": "https://connect.novato.gov",
+        "city": "Novato",
+        "state": "CA",
+        "registry": "https://novatopdca.fususregistry.com/camera-registry",
+        "org": "novatopdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/69ea6bb6628aaf0012653b72/d62c6a866d9abf3afb1c5ecbd093352d?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8490807,
+          37.7685344
+        ]
+      },
+      "properties": {
+        "id": "oakdale",
+        "title": "Connect Oakdale",
+        "url": "https://oakdaleconnect.org",
+        "city": "Oakdale",
+        "state": "CA",
+        "registry": "https://oakdaleca.fususregistry.com/camera-registry",
+        "org": "oakdaleca",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f5a43c0079280011315626/8efbbaef2bb10929184d12235b10dff0/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32898,
+          33.22611
+        ]
+      },
+      "properties": {
+        "id": "oceanside",
+        "title": "Connect Oceanside",
+        "url": "https://connect-oceanside-18896b36.netlify.app",
+        "city": "Oceanside",
+        "state": "CA",
+        "registry": "https://oceansidepdca.fususregistry.com/camera-registry",
+        "org": "oceansidepdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/689e21a708710400128e9c63/0014944d36ac194156efcb47328f5a24?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5962163,
+          34.0290421
+        ]
+      },
+      "properties": {
+        "id": "ontario",
+        "title": "Connect Ontario",
+        "url": "https://ontarioconnect.org",
+        "city": "Ontario",
+        "state": "CA",
+        "registry": "https://ontariopolice.fususregistry.com/camera-registry",
+        "org": "ontariopolice",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f59d76e0ee3500120af700/b0ee1579ee4c4c7d4772f2016c08a064/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.877167,
+          33.748935
+        ]
+      },
+      "properties": {
+        "id": "orange-county-ca",
+        "title": "Connect Orange County",
+        "url": "https://connectorangecountyca.org",
+        "city": "Orange County",
+        "state": "CA",
+        "registry": "https://ocsdca.fususregistry.com/camera-registry",
+        "org": "ocsdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f5408aa865e0012fe13c3/bc50bf0788566aaf17390de83a702254/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1076946,
+          38.9372848
+        ]
+      },
+      "properties": {
+        "id": "placer-co",
+        "title": "Connect Placer County",
+        "url": "https://connectplacercounty.org",
+        "city": "Placer County",
+        "state": "CA",
+        "registry": "https://placerca.fususregistry.com/camera-registry",
+        "org": "placerca",
+        "image": "https://cdn.swell.store/fusus-atlanta/66c89c744e989c0012a611c0/47c8b52a8661b0945c866c6233452879/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7539275,
+          34.0544968
+        ]
+      },
+      "properties": {
+        "id": "pomona",
+        "title": "Pomona Safe Communities",
+        "url": "https://pomonasafecommunities.org",
+        "city": "Pomona",
+        "state": "CA",
+        "registry": "https://pomonapd.fususregistry.com/camera-registry",
+        "org": "pomonapd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66588c11334f4b001246e512/f1f52b654e125f793815736f77bbbf7c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3880502,
+          33.8446511
+        ]
+      },
+      "properties": {
+        "id": "redondo",
+        "title": "Connect Redondo Beach",
+        "url": "https://connectredondobeach.org",
+        "city": "Redondo Beach",
+        "state": "CA",
+        "registry": "https://redondobchpd.fususregistry.com/camera-registry",
+        "org": "redondobchpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/636d3bd5b3ca4d00130dc156/994d31dd41583a0252553e5efe1c5161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3750644,
+          34.1000062
+        ]
+      },
+      "properties": {
+        "id": "rialto",
+        "title": "Connect Rialto",
+        "url": "https://connectrialto.org",
+        "city": "Rialto",
+        "state": "CA",
+        "registry": "https://rialtopd.fususregistry.com/camera-registry",
+        "org": "rialtopd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f404faaa2fa0012a69164/cb764aacd38025662200c2df0fc7dc52/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2330697,
+          38.7877829
+        ]
+      },
+      "properties": {
+        "id": "rocklin",
+        "title": "Rocklin on Watch",
+        "url": "https://connectrocklin.org",
+        "city": "Rocklin",
+        "state": "CA",
+        "registry": "https://rocklinpd.fususregistry.com/camera-registry",
+        "org": "rocklinpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fea38d435aa60011d16ea5/3e019d533d5be60e4afecc1f3babbc87/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4990158,
+          38.5216336
+        ]
+      },
+      "properties": {
+        "id": "sacramento",
+        "title": "Sacramento PD Connect",
+        "url": "https://connectsacramento.org",
+        "city": "Sacramento",
+        "state": "CA",
+        "registry": "https://sacramentopd.fususregistry.com/camera-registry",
+        "org": "sacramentopd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66c895a7fec5d000119bfa45/857f68631ccb9a49dee53f0e6ecd0d40/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.35943,
+          38.64683
+        ]
+      },
+      "properties": {
+        "id": "sacramento-co",
+        "title": "Connect Sacramento County",
+        "url": "https://connectsacramentocounty.org",
+        "city": "Sacramento County",
+        "state": "CA",
+        "registry": "https://sacramentocoso.fususregistry.com/camera-registry",
+        "org": "sacramentocoso",
+        "image": "https://cdn.swell.store/fusus-atlanta/669a70720a8f7600136d5145/efacbeea72e2bc38639305fbc9482976/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6449314,
+          36.6739519
+        ]
+      },
+      "properties": {
+        "id": "salinas",
+        "title": "Connect Salinas",
+        "url": "https://connectsalinas.org",
+        "city": "Salinas",
+        "state": "CA",
+        "registry": "https://salinaspd.fususregistry.com/camera-registry",
+        "org": "salinaspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/662287b242400c001257952b/5b767a2bb3528c57bf119ada879d12e8/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29232,
+          34.11256
+        ]
+      },
+      "properties": {
+        "id": "san-bernardino",
+        "title": "Connect San Bernardino",
+        "url": "https://connectsbpd.org",
+        "city": "San Bernardino",
+        "state": "CA",
+        "registry": "https://sanbernardinopdca.fususregistry.com/camera-registry",
+        "org": "sanbernardinopdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/6967d215b0c84900129aa61c/917cbb5593178edbe22ee9d835a08789?width=1600&height=550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29631,
+          37.88636
+        ]
+      },
+      "properties": {
+        "id": "san-joaquin-co",
+        "title": "ConnectSJSO",
+        "url": "https://connectsjso.org",
+        "city": "San Joaquin County",
+        "state": "CA",
+        "registry": "https://sanjoaquincsoca.fususregistry.com/camera-registry",
+        "org": "sanjoaquincsoca",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a0c6f7ca06b660012a6defb/af15ba184333d0bf34254427097b182c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9057198,
+          37.3495467
+        ]
+      },
+      "properties": {
+        "id": "san-jose",
+        "title": "Connect San Jose",
+        "url": "https://connectsanjose.org",
+        "city": "San Jose",
+        "state": "CA",
+        "registry": "https://sanjose.fususregistry.com/camera-registry",
+        "org": "sanjose",
+        "image": "https://cdn.swell.store/fusus-atlanta/67d1916f9d60130012667763/3779704363684fa5f7b2763d09f30a19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29183,
+          37.54253
+        ]
+      },
+      "properties": {
+        "id": "san-mateo",
+        "title": "Connect San Mateo",
+        "url": "https://sanmateoconnect.org",
+        "city": "San Mateo",
+        "state": "CA",
+        "registry": "https://sanmateopd.fususregistry.com/camera-registry",
+        "org": "sanmateopd",
+        "image": "https://cdn.swell.store/fusus-atlanta/68385648218e700011f968e0/8e66f9a060d0510952670fc9458dc5c3?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29005,
+          37.95138
+        ]
+      },
+      "properties": {
+        "id": "stockton",
+        "title": "SaferStockton",
+        "url": "https://saferstockton.org",
+        "city": "Stockton",
+        "state": "CA",
+        "registry": "https://stocktonpdca.fususregistry.com/camera-registry",
+        "org": "stocktonpdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/69d7c1330f587300128660f4/4269bbe2b2df76a80cd0e0c59935b3bc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3425,
+          33.83997
+        ]
+      },
+      "properties": {
+        "id": "torrance",
+        "title": "Secure Torrance",
+        "url": "https://securetorrance.org",
+        "city": "Torrance",
+        "state": "CA",
+        "registry": "https://torrancepd.fususregistry.com/camera-registry",
+        "org": "torrancepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/68ed21d769729300127dc51c/5e05a987eac59af53e2489fd6d168425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8497785,
+          37.4942915
+        ]
+      },
+      "properties": {
+        "id": "turlock",
+        "title": "Connect Turlock",
+        "url": "https://connectturlock.org",
+        "city": "Turlock",
+        "state": "CA",
+        "registry": "https://turlockpd.fususregistry.com/camera-registry",
+        "org": "turlockpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66faed5d8c7ae40012ee6f94/f488d87f3015bcaf96b185aae09a0936/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5275412,
+          38.58628179999999
+        ]
+      },
+      "properties": {
+        "id": "west-sac",
+        "title": "West Sacramento Safe and Secure",
+        "url": "https://westsacsafeandsecure.org",
+        "city": "West Sacramento",
+        "state": "CA",
+        "registry": "https://westsacramento.fususregistry.com/camera-registry",
+        "org": "westsacramento",
+        "image": "https://cdn.swell.store/fusus-atlanta/670013068ca49f0012aa1b93/1d46755ee9bc5fdfa42d4e4cc6f806c9/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.81276,
+          39.92375
+        ]
+      },
+      "properties": {
+        "id": "adams-co",
+        "title": "Connect Adams County",
+        "url": "https://connectadamscounty.org",
+        "city": "Adams County",
+        "state": "CO",
+        "registry": "https://adamscsoco.fususregistry.com/camera-registry",
+        "org": "adamscsoco",
+        "image": "https://cdn.swell.store/fusus-atlanta/699c771d4bc2bb0012e0e6c4/40ebd293558eb7f1d0ccc98d6e55816f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.81339,
+          39.71195
+        ]
+      },
+      "properties": {
+        "id": "aurora",
+        "title": "Connect Aurora",
+        "url": "https://communityconnectaurora.org",
+        "city": "Aurora",
+        "state": "CO",
+        "registry": "https://auroragov.fususregistry.com/camera-registry",
+        "org": "auroragov",
+        "image": "https://cdn.swell.store/fusus-atlanta/669ea678055c31001200f70f/de7b540a8b81f708a03ffcd9a3a37136/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8218762,
+          38.8242393
+        ]
+      },
+      "properties": {
+        "id": "colorado-springs",
+        "title": "Together COS",
+        "url": "https://togethercos.org",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "registry": "https://coloradospringspd.fususregistry.com/camera-registry",
+        "org": "coloradospringspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665a16fb7329a60012ca38fc/4c554540f9ee4484c202005f134c8139/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7272573,
+          40.4235618
+        ]
+      },
+      "properties": {
+        "id": "greeley",
+        "title": "Connect Greeley",
+        "url": "https://connectgreeley.org",
+        "city": "Greeley",
+        "state": "CO",
+        "registry": "https://greeleypd.fususregistry.com/camera-registry",
+        "org": "greeleypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6733796c0dff3100121af687/421ec676bcdeb31cdf7ab13f34f57696/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.08605,
+          39.70795
+        ]
+      },
+      "properties": {
+        "id": "lakewood",
+        "title": "Connect Lakewood",
+        "url": "https://connectlakewood.org",
+        "city": "Lakewood",
+        "state": "CO",
+        "registry": "https://lakewoodpdco.fususregistry.com/camera-registry",
+        "org": "lakewoodpdco",
+        "image": "https://cdn.swell.store/fusus-atlanta/68937087d6c4e80011601752/510931cc9b00aa55dfb2c9ff402eec5e?width=1200&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.87478,
+          38.47924
+        ]
+      },
+      "properties": {
+        "id": "montrose",
+        "title": "Connect Montrose",
+        "url": "https://connectmontrose.org",
+        "city": "Montrose",
+        "state": "CO",
+        "registry": "https://montrosepdco.fususregistry.com/camera-registry",
+        "org": "montrosepdco",
+        "image": "https://cdn.swell.store/fusus-atlanta/6931cd93a25276001281f055/82c7493143f336007b632d728e268a1b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67807739999999,
+          41.7725836
+        ]
+      },
+      "properties": {
+        "id": "hartford",
+        "title": "Connect Hartford",
+        "url": "https://connecthartford.org",
+        "city": "Hartford",
+        "state": "CT",
+        "registry": "https://hartfordpd.fususregistry.com/camera-registry",
+        "org": "hartfordpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f1c0335c47c60012531377/44c5aca3f51839ac0d44c58f12f7bb4c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9255221,
+          41.2999306
+        ]
+      },
+      "properties": {
+        "id": "new-haven",
+        "title": "Connect New Haven",
+        "url": "https://connectnewhaven.org",
+        "city": "New Haven",
+        "state": "CT",
+        "registry": "https://newhavenct.fususregistry.com/camera-registry",
+        "org": "newhavenct",
+        "image": "https://cdn.swell.store/fusus-atlanta/6671c3d57e7f870011297e3f/a96abbb518ef5c2f2a7cdf9aa63a4c6a/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01286220000001,
+          38.8769075
+        ]
+      },
+      "properties": {
+        "id": "metro-dc",
+        "title": "CameraConnectDC",
+        "url": "https://cameraconnectdc.org",
+        "city": "Washington DC",
+        "state": "DC",
+        "registry": "https://dcmetro.fususregistry.com/camera-registry",
+        "org": "dcmetro",
+        "image": "https://cdn.swell.store/fusus-atlanta/67c62487e62e0d00113bf6f1/55019d4f6f0b49bc816e9c6186f0978a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56701,
+          39.70964
+        ]
+      },
+      "properties": {
+        "id": "new-castle-co",
+        "title": "Connect New Castle County",
+        "url": "https://nccpdconnect.org",
+        "city": "New Castle County",
+        "state": "DE",
+        "registry": "https://newcastlede.fususregistry.com/camera-registry",
+        "org": "newcastlede",
+        "image": "https://cdn.swell.store/fusus-atlanta/69de5cc5942b490012197a0b/db9f08a625f2a5b43c7be464d85d14ad?width=1800&height=800&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29076,
+          29.6425
+        ]
+      },
+      "properties": {
+        "id": "alachua-co",
+        "title": "Connect Alachua County",
+        "url": "https://keepalachuasafe.org",
+        "city": "Alachua County",
+        "state": "FL",
+        "registry": "https://alachuasheriff.fususregistry.com/camera-registry",
+        "org": "alachuasheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a33e871ae2513001260fd38/c4292d8b7d775c563cd42d09f107a744?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.50913779999999,
+          28.670436
+        ]
+      },
+      "properties": {
+        "id": "apopka",
+        "title": "Connect Apopka",
+        "url": "https://apopkaconnect.org",
+        "city": "Apopka",
+        "state": "FL",
+        "registry": "https://apopkapd.fususregistry.com/camera-registry",
+        "org": "apopkapd",
+        "image": "https://cdn.swell.store/fusus-atlanta/668d75395ac46a001253c47d/d69b0bd85ed26ab6755f002a9372fd57/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8429,
+          27.89876
+        ]
+      },
+      "properties": {
+        "id": "bartow",
+        "title": "Connect Bartow",
+        "url": "https://connectbartowfl.org",
+        "city": "Bartow",
+        "state": "FL",
+        "registry": "https://bartowfl.fususregistry.com/camera-registry",
+        "org": "bartowfl",
+        "image": "https://cdn.swell.store/fusus-atlanta/69ea3bd291e05b00126185a6/0fa5a5a8b68d318cdb6b57f0bb09cabb?width=1400&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6508419,
+          30.2104789
+        ]
+      },
+      "properties": {
+        "id": "bayroc",
+        "title": "Connect Bay County",
+        "url": "https://connectbaycounty.org",
+        "city": "Bay County",
+        "state": "FL",
+        "registry": "https://baycounty.fususregistry.com/camera-registry/",
+        "org": "baycounty",
+        "image": "https://cdn.schema.io/fusus-atlanta/63a09029f999ba0012536443/95c9ed17a2d3140d8801a235d09c0408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08903,
+          26.35219
+        ]
+      },
+      "properties": {
+        "id": "boca-raton",
+        "title": "Connect BRPD",
+        "url": "https://connectbrpd.org",
+        "city": "Boca Raton",
+        "state": "FL",
+        "registry": "https://bocaratonpdfl.fususregistry.com/camera-registry",
+        "org": "bocaratonpdfl",
+        "image": "https://cdn.swell.store/fusus-atlanta/6893541c38df6c001268b385/6ddff855733a75f8aba7bf9785df9abb?width=1600&height=650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5723378,
+          27.4986917
+        ]
+      },
+      "properties": {
+        "id": "bradenton",
+        "title": "Connect Bradenton",
+        "url": "https://bradentonconnect.org",
+        "city": "Bradenton",
+        "state": "FL",
+        "registry": "https://bradentonfl.fususregistry.com/camera-registry",
+        "org": "bradentonfl",
+        "image": "https://cdn.swell.store/fusus-atlanta/669ff30aebbe4e0012e54bae/a46d12ffda6cc2809d610f3c9b91d711/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00349150000001,
+          26.9215725
+        ]
+      },
+      "properties": {
+        "id": "charlotte-co",
+        "title": "Connect Charlotte County",
+        "url": "https://connectcharlottecounty.org",
+        "city": "Charlotte County",
+        "state": "FL",
+        "registry": "https://charlottecounty.fususregistry.com/camera-registry",
+        "org": "charlottecounty",
+        "image": "https://cdn.swell.store/fusus-atlanta/66aa534bd5af0000129192f3/cc7ecfdeb3a0773d5f5d453f04cf3d7d/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6870974,
+          30.0036813
+        ]
+      },
+      "properties": {
+        "id": "clay-county",
+        "title": "Connect Clay County",
+        "url": "https://connectclaycountyso.org",
+        "city": "Clay County",
+        "state": "FL",
+        "registry": "https://claycountysheriff.fususregistry.com/camera-registry",
+        "org": "claycountysheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/665a0d3c467c3f0012046188/076d1af6b523fe290e0ffd032c0438dd/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7973026,
+          27.9631529
+        ]
+      },
+      "properties": {
+        "id": "clearwater",
+        "title": "Clearwater Camera Sharing",
+        "url": "https://connectclearwater.org",
+        "city": "Clearwater",
+        "state": "FL",
+        "registry": "https://clearwaterpd.fususregistry.com/camera-registry",
+        "org": "clearwaterpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66799cef76c4dd0012a69913/2f065dbe6b44b4891b2a987571961f34/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7247725,
+          28.512831
+        ]
+      },
+      "properties": {
+        "id": "clermont",
+        "title": "Connect Clermont",
+        "url": "https://keepclermontsafe.org",
+        "city": "Clermont",
+        "state": "FL",
+        "registry": "https://clermontpd.fususregistry.com/camera-registry",
+        "org": "clermontpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d0b41daad95000122b2bf2/70d2f4673d5a154a0b1adbd55dad244d/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.97754,
+          29.1661
+        ]
+      },
+      "properties": {
+        "id": "daytona-beach",
+        "title": "Connect Daytona Beach Shores",
+        "url": "https://connectdbs.org",
+        "city": "Daytona Beach Shores",
+        "state": "FL",
+        "registry": "https://dbsfl.fususregistry.com/camera-registry",
+        "org": "dbsfl",
+        "image": "https://cdn.swell.store/fusus-atlanta/69bc102850a47a0012a231d4/c4ff9fe246226be22613ebff7ba87341?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07645360000001,
+          26.4609043
+        ]
+      },
+      "properties": {
+        "id": "delray-beach",
+        "title": "Connect Delray Beach",
+        "url": "https://connectdelraybeach.org",
+        "city": "Delray Beach",
+        "state": "FL",
+        "registry": "https://delraybeach.fususregistry.com/camera-registry",
+        "org": "delraybeach",
+        "image": "https://cdn.swell.store/fusus-atlanta/6639362073024a00121b9af2/5bd0ccf3b254d889a41fe84440eb6442/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3587764,
+          25.8292043
+        ]
+      },
+      "properties": {
+        "id": "doral",
+        "title": "Connect Doral",
+        "url": "http://connectdoralpd.com",
+        "city": "Doral",
+        "state": "FL",
+        "registry": "https://cityofdoralpd.fususregistry.com/camera-registry",
+        "org": "cityofdoralpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/635c0e9a30eadd0012672ea6/c29fd180fbce3faed1f1d99596c6b480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6517372,
+          30.3252829
+        ]
+      },
+      "properties": {
+        "id": "duval",
+        "title": "ConnectDuval",
+        "url": "https://connectduval.org",
+        "city": "Duval County",
+        "state": "FL",
+        "registry": "https://jacksonvillesheriff.fususregistry.com/camera-registry",
+        "org": "jacksonvillesheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f6df125516e0012cc7793/34275f8d7a33fe2ac605fb3c7fa07d45/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2351474,
+          30.4421118
+        ]
+      },
+      "properties": {
+        "id": "escambia",
+        "title": "Star Network",
+        "url": "https://connectescambia.org",
+        "city": "Escambia County",
+        "state": "FL",
+        "registry": "https://escambiafl.fususregistry.com/camera-registry",
+        "org": "escambiafl",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fef842703a3600125c503c/cd0100b223c7500f037687368020a162/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.241441,
+          29.47037
+        ]
+      },
+      "properties": {
+        "id": "flagler-co",
+        "title": "Connect Flagler County",
+        "url": "https://connectflaglercounty.org",
+        "city": "Flagler County",
+        "state": "FL",
+        "registry": "https://flaglercountysheriff.fususregistry.com/camera-registry/",
+        "org": "flaglercountysheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fc2d6fb550f20012610165/c2bf53831744873bb85c84802bc83a74/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6108816,
+          30.4133386
+        ]
+      },
+      "properties": {
+        "id": "walton-beach",
+        "title": "Connect Fort Walton Beach",
+        "url": "https://connectfortwaltonbeach.org",
+        "city": "Fort Walton Beach",
+        "state": "FL",
+        "registry": "https://fortwaltonbeachpd.fususregistry.com/camera-registry",
+        "org": "fortwaltonbeachpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66edc32010ad760012bd5b3e/8b1a1e7274b39a0d156b09a817d15c6c/background.jpg?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64076,
+          28.11462
+        ]
+      },
+      "properties": {
+        "id": "haines-city",
+        "title": "Connect Haines City",
+        "url": "https://keephainescitysafe.org",
+        "city": "Haines City",
+        "state": "FL",
+        "registry": "https://hainescitypdfl.fususregistry.com/camera-registry",
+        "org": "hainescitypdfl",
+        "image": "https://cdn.swell.store/fusus-atlanta/69987a3559d3db00126f5208/295d10eb58dec458cd97ffce019476b1?width=1400&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4359197,
+          27.9616993
+        ]
+      },
+      "properties": {
+        "id": "hillsborough",
+        "title": "Connect Hillsborough",
+        "url": "https://connecthillsboroughcounty.org",
+        "city": "Hillsborough County",
+        "state": "FL",
+        "registry": "https://hcso.fususregistry.com/camera-registry",
+        "org": "hcso",
+        "image": "https://cdn.schema.io/fusus-atlanta/62ffd7167885f40012dcd3b9/bf8979faa2d133b8361743938109e8ca?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4281041,
+          27.6659573
+        ]
+      },
+      "properties": {
+        "id": "indian-river",
+        "title": "Connect Indian River County",
+        "url": "https://connectindianrivercounty.org",
+        "city": "Indian River County",
+        "state": "FL",
+        "registry": "https://indianriversheriff.fususregistry.com/camera-registry/",
+        "org": "indianriversheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/66ace6bec259b00012cb039a/d96451b8baabc458bbd965d321b9f384/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7306089,
+          28.8014428
+        ]
+      },
+      "properties": {
+        "id": "lake-co",
+        "title": "Connect Lake County",
+        "url": "https://connectlakecounty.org",
+        "city": "Lake County",
+        "state": "FL",
+        "registry": "https://lakecountysheriff.fususregistry.com/camera-registry",
+        "org": "lakecountysheriff",
+        "image": "https://cdn.schema.io/fusus-atlanta/636e794da29dfe0012fa3232/7d08b18f70d224342f9eeb068cde2185?width=1600&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2419354,
+          27.1719387
+        ]
+      },
+      "properties": {
+        "id": "martin-co",
+        "title": "Connect Martin County",
+        "url": "https://martinconnect.org",
+        "city": "Martin County",
+        "state": "FL",
+        "registry": "https://martincountyso.fususregistry.com/camera-registry",
+        "org": "martincountyso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f32329bd349000124b8f2e/9adf72d16629f7ee20c9e55ffc5b4c9c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2419354,
+          27.1719387
+        ]
+      },
+      "properties": {
+        "id": "martin-co-reg",
+        "title": "Connect Martin County",
+        "url": "https://martinconnectregistry.org",
+        "city": "Martin County",
+        "state": "FL",
+        "registry": "https://martincountyso.fususregistry.com/camera-registry",
+        "org": "martincountyso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f32329bd349000124b8f2e/9adf72d16629f7ee20c9e55ffc5b4c9c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19840339999999,
+          25.7781926
+        ]
+      },
+      "properties": {
+        "id": "miami",
+        "title": "Connect Miami",
+        "url": "https://connectmiamipd.org",
+        "city": "Miami",
+        "state": "FL",
+        "registry": "https://cityofmiamipd.fususregistry.com/camera-registry",
+        "org": "cityofmiamipd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f3980a91a1200121ee16c/4fa0ae0748535c5297fd79f978cb0eec/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13327,
+          25.78254
+        ]
+      },
+      "properties": {
+        "id": "miami-beach",
+        "title": "Connect Miami Beach",
+        "url": "https://connectmiamibeachpd.org",
+        "city": "Miami Beach",
+        "state": "FL",
+        "registry": "https://miamibeachpdfl.fususregistry.com/camera-registry",
+        "org": "miamibeachpdfl",
+        "image": "https://cdn.swell.store/fusus-atlanta/69b2d57cf4c5ec00128463ea/635b984e3c211f101b545583f33bc890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34402419999999,
+          25.7983536
+        ]
+      },
+      "properties": {
+        "id": "miami-dade",
+        "title": "Connect Miami-Dade",
+        "url": "https://connectmiamidade.org",
+        "city": "Miami-Dade",
+        "state": "FL",
+        "registry": "https://miamidadepd.fususregistry.com/camera-registry",
+        "org": "miamidadepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/664794ab861edf0012479771/23f479f99036c9eecc87de90343a0144/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71919,
+          28.25572
+        ]
+      },
+      "properties": {
+        "id": "new-port-ri",
+        "title": "Connect New Port Richey",
+        "url": "https://connectnewportrichey.org",
+        "city": "New Port Richey",
+        "state": "FL",
+        "registry": "https://connectnewportrichey.fususregistry.com/camera-registry",
+        "org": "connectnewportrichey",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a3d2501747df70012d62c4d/a7543d0802ad99aa142f939f4e76a3b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20802250000001,
+          27.0756837
+        ]
+      },
+      "properties": {
+        "id": "north-port",
+        "title": "Connect North Port",
+        "url": "https://connectnorthport.org",
+        "city": "North Port",
+        "state": "FL",
+        "registry": "https://northport.fususregistry.com/camera-registry",
+        "org": "northport",
+        "image": "https://cdn.swell.store/fusus-atlanta/67af9947e0c9e300125b6ec8/846962ca15e62118653273a0281afc63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5791071,
+          30.4421383
+        ]
+      },
+      "properties": {
+        "id": "okaloosa",
+        "title": "Connect Okaloosa County",
+        "url": "https://connectokaloosacounty.org",
+        "city": "Okaloosa County",
+        "state": "FL",
+        "registry": "https://okaloosacounty.fususregistry.com/camera-registry",
+        "org": "okaloosacounty",
+        "image": "https://cdn.schema.io/fusus-atlanta/63dbff0b064d48001252f8da/924baff7da1d142ff6fc3a60a3f44ea7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.41138889999999,
+          28.551383
+        ]
+      },
+      "properties": {
+        "id": "orange-county",
+        "title": "Connect Orange County",
+        "url": "https://connectorangecounty.org",
+        "city": "Orange County",
+        "state": "FL",
+        "registry": "https://orangecofl.fususregistry.com/camera-registry",
+        "org": "orangecofl",
+        "image": "https://cdn.schema.io/fusus-atlanta/63cff6a92ac11500138d696c/07d25a6a34bd048097ad44ce21b9da07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.395957,
+          28.5375247
+        ]
+      },
+      "properties": {
+        "id": "orlando",
+        "title": "Orlando Connect",
+        "url": "https://orlandoconnect.orlando.gov",
+        "city": "Orlando",
+        "state": "FL",
+        "registry": "https://orlando.fususregistry.com/camera-registry",
+        "org": "orlando",
+        "image": "https://cdn.swell.store/fusus-atlanta/695ec87ffba83400117c67bf/94ac17a966bbc7b39a8bd2715d94bb95?width=1600&height=600&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09253,
+          26.67118
+        ]
+      },
+      "properties": {
+        "id": "palm-beach-co",
+        "title": "Keep Palm Beach County Safe",
+        "url": "https://connectpbso.org",
+        "city": "Palm Beach County",
+        "state": "FL",
+        "registry": "https://pbso.fususregistry.com/camera-registry",
+        "org": "pbso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66bf798f8ca28f00126aed7a/fc30aeceffd0565f3fc66217689cf84b/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44919,
+          27.305772
+        ]
+      },
+      "properties": {
+        "id": "sarasota-co",
+        "title": "Connect Sarasota County",
+        "url": "https://connectsarasotacounty.org",
+        "city": "Sarasota County",
+        "state": "FL",
+        "registry": "https://sarasotacsofl.fususregistry.com/camera-registry",
+        "org": "sarasotacsofl",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c298a62865a100129ecc28/f73e3c091a2cdd5298fb00b90de361ed?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2946439,
+          28.7480015
+        ]
+      },
+      "properties": {
+        "id": "seminole",
+        "title": "Connect Seminole",
+        "url": "https://connectseminolecounty.org",
+        "city": "Seminole County",
+        "state": "FL",
+        "registry": "https://seminolecountyso.fususregistry.com/camera-registry",
+        "org": "seminolecountyso",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f634b1b611a0012ed91b6/83aa9a9a6459726185ce2b29c11f05fd/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3184108,
+          28.2502363
+        ]
+      },
+      "properties": {
+        "id": "st-cloud",
+        "title": "Connect St. Cloud",
+        "url": "https://connectstcloud.org",
+        "city": "St. Cloud",
+        "state": "FL",
+        "registry": "https://stcloud.fususregistry.com/camera-registry",
+        "org": "stcloud",
+        "image": "https://cdn.swell.store/fusus-atlanta/6675ac3b9806590012e560d1/b3a3043f8b07c369bb4f16c062763feb/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3365895,
+          29.9409433
+        ]
+      },
+      "properties": {
+        "id": "st-john",
+        "title": "Connect St. Johns",
+        "url": "https://connectstjohns.org",
+        "city": "St. Johns County",
+        "state": "FL",
+        "registry": "https://stjohnscountyso.fususregistry.com/camera-registry",
+        "org": "stjohnscountyso",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f5f1ff1ded00012815d00/0fe5c7ead0bb27c5319fa1ddd5ae4431/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3729644,
+          27.375372
+        ]
+      },
+      "properties": {
+        "id": "st-lucie",
+        "title": "Connect St Lucie County",
+        "url": "https://connectstlucie.org",
+        "city": "St. Lucie County",
+        "state": "FL",
+        "registry": "https://stluciesheriff.fususregistry.com/camera-registry",
+        "org": "stluciesheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/663a7ca2c6181e00127f6b3a/3a66aac32ebe65233468293e93d580e0/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.27912,
+          30.4584
+        ]
+      },
+      "properties": {
+        "id": "tallahassee",
+        "title": "Connect Tallahassee",
+        "url": "https://connecttallahassee.org",
+        "city": "Tallahassee",
+        "state": "FL",
+        "registry": "https://connecttallahassee.fususregistry.com/camera-registry",
+        "org": "connecttallahassee",
+        "image": "https://cdn.swell.store/fusus-atlanta/664def5c43aba80012eb5494/aff1ddf6b9c4794ac747df3a7adcc8a5/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3049556,
+          29.0294556
+        ]
+      },
+      "properties": {
+        "id": "volusia",
+        "title": "Connect Volusia",
+        "url": "https://connect.volusiasheriff.gov",
+        "city": "Volusia",
+        "state": "FL",
+        "registry": "https://volusiasheriff.fususregistry.com/camera-registry",
+        "org": "volusiasheriff",
+        "image": "https://cdn.schema.io/fusus-atlanta/63286a98c531cb0012edf9a6/989a2e989ec2a034020fc18d3ff62ea3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0574271,
+          26.714148
+        ]
+      },
+      "properties": {
+        "id": "west-palm-be",
+        "title": "CityWatch Connect",
+        "url": "https://citywatchconnect.com",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "registry": "https://wpb.fususregistry.com/camera-registry",
+        "org": "wpb",
+        "image": "https://cdn.schema.io/fusus-atlanta/62dff7cb230fa800126782bc/5157f74cffe571b34fc84df9536ae313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5884398,
+          28.5655498
+        ]
+      },
+      "properties": {
+        "id": "winter-garden",
+        "title": "Connect Winter Garden",
+        "url": "https://connectwintergarden.org",
+        "city": "Winter Garden",
+        "state": "FL",
+        "registry": "https://wintergarden.fususregistry.com/camera-registry",
+        "org": "wintergarden",
+        "image": "https://cdn.swell.store/fusus-atlanta/66ff01be703a3600125c60bd/e0202fc7f751ca03ce1c9813faa9ef14/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3545535,
+          28.6006762
+        ]
+      },
+      "properties": {
+        "id": "winter-park",
+        "title": "Connect Winter Park",
+        "url": "https://connectwinterpark.org",
+        "city": "Winter Park",
+        "state": "FL",
+        "registry": "https://winterpark.fususregistry.com/camera-registry",
+        "org": "winterpark",
+        "image": "https://cdn.swell.store/fusus-atlanta/6679cc5a068cc40012a0cd77/bb84d18d3147a3be00165d61b11d5f03/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6604529,
+          34.0613031
+        ]
+      },
+      "properties": {
+        "id": "acworth",
+        "title": "Connect Acworth",
+        "url": "https://connectacworth.org",
+        "city": "Acworth",
+        "state": "GA",
+        "registry": "https://acworthga.fususregistry.com/camera-registry",
+        "org": "acworthga",
+        "image": "https://cdn.swell.store/fusus-atlanta/667ac5325038270012218e6c/5ee14576a9059ab305df5533bf3623a5/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1520261,
+          31.5757838
+        ]
+      },
+      "properties": {
+        "id": "albany-ga",
+        "title": "Connect Albany",
+        "url": "https://connectalbanyga.org",
+        "city": "Albany",
+        "state": "GA",
+        "registry": "https://albanypolice.fususregistry.com/camera-registry",
+        "org": "albanypolice",
+        "image": "https://cdn.swell.store/fusus-atlanta/66982b7578bf13001181f0e4/b8d4f98ba24b25585ba450ca274a2aeb/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2840769,
+          34.0682923
+        ]
+      },
+      "properties": {
+        "id": "alpharetta",
+        "title": "Connect Alpharetta",
+        "url": "https://alpharetta.fusus.org",
+        "city": "Alpharetta",
+        "state": "GA",
+        "registry": "https://alpharetta.fususregistry.com/camera-registry",
+        "org": "alpharetta",
+        "image": "https://cdn.schema.io/fusus-atlanta/6356b6e7b27d310012981bb9/1bb11e30fbf1c6c8cb95dd845e0ed1dc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3282952,
+          33.9423346
+        ]
+      },
+      "properties": {
+        "id": "athensclarke",
+        "title": "Connect Athens-Clarke County",
+        "url": "https://connectathens-clarkecounty.org",
+        "city": "Athens-Clarke County",
+        "state": "GA",
+        "registry": "https://accpd.fususregistry.com/camera-registry",
+        "org": "accpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f78a4700cc30013f0165b/5fcf26d356088f8a48fb4a8645c86765/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3872591,
+          33.7590381
+        ]
+      },
+      "properties": {
+        "id": "atlanta",
+        "title": "Connect Atlanta",
+        "url": "https://connectatlanta.org",
+        "city": "Atlanta",
+        "state": "GA",
+        "registry": "https://cityofatlanta.fususregistry.com/camera-registry",
+        "org": "cityofatlanta",
+        "image": "https://cdn.schema.io/fusus-atlanta/6230c4c0281b2601326736ac/5fdc67a55ea768134b7ff17169af7c09?width=1600&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49278869999999,
+          34.1952972
+        ]
+      },
+      "properties": {
+        "id": "cherokee",
+        "title": "Connect Cherokee",
+        "url": "https://safecherokee.org",
+        "city": "Cherokee County",
+        "state": "GA",
+        "registry": "https://cherokeega.fususregistry.com/camera-registry",
+        "org": "cherokeega",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d08b5fce7c3d0012561cd7/7e03a182bbadcc94a919eca2407505e5/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34703999999999,
+          33.5387745
+        ]
+      },
+      "properties": {
+        "id": "clayton-co",
+        "title": "Connect Clayton County",
+        "url": "https://connectclayton.org",
+        "city": "Clayton County",
+        "state": "GA",
+        "registry": "https://claytoncountypd.fususregistry.com/camera-registry",
+        "org": "claytoncountypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d095201d4fb80012626385/8052b32d126f96113556ea600f0f9c8a/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5343458,
+          33.9409808
+        ]
+      },
+      "properties": {
+        "id": "cobb",
+        "title": "Connect Cobb ",
+        "url": "https://connectcobbcounty.org",
+        "city": "Cobb County",
+        "state": "GA",
+        "registry": "https://cobbcountypd.fususregistry.com/camera-registry",
+        "org": "cobbcountypd",
+        "image": "https://cdn.schema.io/fusus-atlanta/6297c1dd37440100128f8d95/34dbddd409df0c437af60805f090255a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45161,
+          33.6541975
+        ]
+      },
+      "properties": {
+        "id": "college-park",
+        "title": "Connect College Park",
+        "url": "https://connectcollegepark.org",
+        "city": "College Park",
+        "state": "GA",
+        "registry": "https://collegeparkga.fususregistry.com/camera-registry",
+        "org": "collegeparkga",
+        "image": "https://cdn.swell.store/fusus-atlanta/6660a0d83f5e060012829281/caca8816ffdc405c7ccbd7c65419a9d9/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9855583,
+          32.4632615
+        ]
+      },
+      "properties": {
+        "id": "columbus-ga",
+        "title": "Connect Columbus",
+        "url": "https://connectcolumbus.org",
+        "city": "Columbus, Georgia",
+        "state": "GA",
+        "registry": "https://columbuspdga.fususregistry.com/camera-registry",
+        "org": "columbuspdga",
+        "image": "https://cdn.swell.store/fusus-atlanta/66cdd890dd412000113f97b7/36e295b39cff4b0ef6492ad3c6bb47d4/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14069,
+          34.20352
+        ]
+      },
+      "properties": {
+        "id": "cumming",
+        "title": "Connect Cumming",
+        "url": "https://connectcumming.org",
+        "city": "Cumming",
+        "state": "GA",
+        "registry": "https://cummingpdga.fususregistry.com/camera-registry",
+        "org": "cummingpdga",
+        "image": "https://cdn.swell.store/fusus-atlanta/6967cfeae018d50012dd9460/714946060a958b0107bfd6e5ec4f9f76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2456125,
+          33.8408483
+        ]
+      },
+      "properties": {
+        "id": "dekalb-county",
+        "title": "Connect DeKalb County",
+        "url": "https://connectdekalbcounty.org",
+        "city": "DeKalb County",
+        "state": "GA",
+        "registry": "https://dekalbcountyga.fususregistry.com/camera-registry",
+        "org": "dekalbcountyga",
+        "image": "https://cdn.schema.io/fusus-atlanta/63b5cd2d690ccc0012eefe5b/378e7ac23a858b445f71ce4e0e7d5299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7055744,
+          33.7468805
+        ]
+      },
+      "properties": {
+        "id": "douglasville",
+        "title": "Connect Douglasville",
+        "url": "https://connectdouglasville.org",
+        "city": "Douglasville ",
+        "state": "GA",
+        "registry": "https://douglasvillepolice.fususregistry.com/camera-registry",
+        "org": "douglasvillepolice",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d09ba0c6a5b7001139aab7/ff5978f4791ea75212ba19cd5dec1fc5/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44194929999999,
+          33.6806015
+        ]
+      },
+      "properties": {
+        "id": "east-point",
+        "title": "Connect East Point",
+        "url": "https://connecteastpoint.org",
+        "city": "East Point",
+        "state": "GA",
+        "registry": "https://eastpointpdga.fususregistry.com/camera-registry",
+        "org": "eastpointpdga",
+        "image": "https://cdn.swell.store/fusus-atlanta/6630fa8484c63c001263b8e1/36055acdda352465392c445d0800dbc2/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37393809999999,
+          33.6092786
+        ]
+      },
+      "properties": {
+        "id": "forest-park",
+        "title": "Connect Forest Park",
+        "url": "https://connectforestpark.org",
+        "city": "Forest Park",
+        "state": "GA",
+        "registry": "https://forestparkpd.fususregistry.com/camera-registry",
+        "org": "forestparkpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66db15574f42b2001278e849/6e0d84b4d32324fb6ec3d85d5694ca15/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1392608,
+          34.2063901
+        ]
+      },
+      "properties": {
+        "id": "forsyth-co-so",
+        "title": "Connect Forsyth County",
+        "url": "https://connectforsythsheriff.org",
+        "city": "Forsyth County",
+        "state": "GA",
+        "registry": "https://forsythcosoga.fususregistry.com/camera-registry",
+        "org": "forsythcosoga",
+        "image": "https://cdn.swell.store/fusus-atlanta/66be3cd78d53a3001284e5f3/8e7fc62a848314b05cd3ebcb06df26a3/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13722279999999,
+          33.4439086
+        ]
+      },
+      "properties": {
+        "id": "henry-co",
+        "title": "Henry Safer Together",
+        "url": "https://henrysafertogether.org",
+        "city": "Henry County",
+        "state": "GA",
+        "registry": "https://henrycountypd.fususregistry.com/camera-registry",
+        "org": "henrycountypd",
+        "image": "https://cdn.schema.io/fusus-atlanta/62d1ae4174c02500127efa7a/2e3c96529d3f05b7966cb57821d66a1e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6168008,
+          34.02317560000001
+        ]
+      },
+      "properties": {
+        "id": "kennesaw",
+        "title": "Connect Kennesaw",
+        "url": "https://keepkennesawsafe.org",
+        "city": "Kennesaw",
+        "state": "GA",
+        "registry": "https://kennesawpd.fususregistry.com/camera-registry",
+        "org": "kennesawpd",
+        "image": "https://d33wubrfki0l68.cloudfront.net/38e8deb9aedcedc18bf1dc58321b467491b6245a/0fd6e/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.03029,
+          33.04116
+        ]
+      },
+      "properties": {
+        "id": "lagrange",
+        "title": "Connect Lagrange",
+        "url": "https://connectlagrangepd.org",
+        "city": "Lagrange",
+        "state": "GA",
+        "registry": "https://lagrangepd.fususregistry.com/camera-registry",
+        "org": "lagrangepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/69f3b8f790f68f0012394edf/9f9b113a04ccda495087462c8e3a3cad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98237,
+          33.95185
+        ]
+      },
+      "properties": {
+        "id": "lawrenceville",
+        "title": "Connect Lawrenceville",
+        "url": "https://lawrencevilleconnect.org",
+        "city": "Lawrenceville, Georgia",
+        "state": "GA",
+        "registry": "https://lawrencevillepdga.fususregistry.com/camera-registry",
+        "org": "lawrencevillepdga",
+        "image": "https://cdn.swell.store/fusus-atlanta/6847293ce15ff50012c16620/079f5f18a74c871ed9299307dfaf6e52?width=1500&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8314752,
+          33.6291682
+        ]
+      },
+      "properties": {
+        "id": "newton-county",
+        "title": "Connect Newton County",
+        "url": "https://connectnewtoncounty.org",
+        "city": "Newton County",
+        "state": "GA",
+        "registry": "https://newtonsheriff.fususregistry.com/camera-registry",
+        "org": "newtonsheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/6627b416ac037d0012448c44/9e86dafa4c1e1907c5b35a191cb9bf1c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23216169999999,
+          33.9560768
+        ]
+      },
+      "properties": {
+        "id": "peachtree",
+        "title": "Connect Peachtree",
+        "url": "https://connectpeachtreecorners.org",
+        "city": "Peachtree Corners",
+        "state": "GA",
+        "registry": "https://peachtreecorners.fususregistry.com/camera-registry",
+        "org": "peachtreecorners",
+        "image": "https://cdn.swell.store/fusus-atlanta/67b634f20d447d0012b6c6c0/81d777c9d538933570c93c2eb9fa4a88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.67264589999999,
+          33.8629889
+        ]
+      },
+      "properties": {
+        "id": "powder-spring",
+        "title": "Connect Powder Springs",
+        "url": "https://connectpowdersprings.org",
+        "city": "Powder Springs",
+        "state": "GA",
+        "registry": "https://powderspringspd.fususregistry.com/camera-registry",
+        "org": "powderspringspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f6b9cdf406d00012730416/7d40eb6d5ce8778369851d085447c0e5/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96085,
+          33.46479
+        ]
+      },
+      "properties": {
+        "id": "richmond-co",
+        "title": "Connect Richmond County",
+        "url": "https://connectrichmondcounty.org",
+        "city": "Richmond County",
+        "state": "GA",
+        "registry": "https://richmondcsoga.fususregistry.com/camera-registry",
+        "org": "richmondcsoga",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c2a106a26d81001209c7e0/8e7beb89abf88d29712936798d8512cf?width=1750&height=700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3595706,
+          34.0212662
+        ]
+      },
+      "properties": {
+        "id": "roswell",
+        "title": "Connect Roswell",
+        "url": "https://connectroswell.org",
+        "city": "Roswell",
+        "state": "GA",
+        "registry": "https://cityofroswell.fususregistry.com/camera-registry",
+        "org": "cityofroswell",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f6c7e99a2fc700126fb1d1/14badb44683fadce3ac26264c1f1bc38/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3595536,
+          33.9713107
+        ]
+      },
+      "properties": {
+        "id": "sandy-springs",
+        "title": "Connect Sandy Springs",
+        "url": "https://connectsandyspringsga.org",
+        "city": "Sandy Springs",
+        "state": "GA",
+        "registry": "https://sandyspringspd.fususregistry.com/camera-registry",
+        "org": "sandyspringspd",
+        "image": "https://cdn.schema.io/fusus-atlanta/642c34591988f800124922b3/3aacd0a9db29442b8dcb3b9d054c0a15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1111015,
+          32.0182983
+        ]
+      },
+      "properties": {
+        "id": "savannah",
+        "title": "Connect Savannah",
+        "url": "https://keepsavannahsafe.org",
+        "city": "Savannah",
+        "state": "GA",
+        "registry": "https://savannahpd.fususregistry.com/camera-registry",
+        "org": "savannahpd",
+        "image": "https://d33wubrfki0l68.cloudfront.net/983a2c230fe10a1c080fa9491091082cde8606b8/019fa/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51719849999999,
+          33.8884764
+        ]
+      },
+      "properties": {
+        "id": "smyrna",
+        "title": "Connect Smyrna",
+        "url": "https://connectsmyrna.org",
+        "city": "Smyrna",
+        "state": "GA",
+        "registry": "https://smyrnaga.fususregistry.com/camera-registry",
+        "org": "smyrnaga",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f6bf4e4668e00012444fc8/c9fb9fa49fd1e0937b4ee5e78591cb6f/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54959649999999,
+          33.6664168
+        ]
+      },
+      "properties": {
+        "id": "south-fulton",
+        "title": "Connect South Fulton",
+        "url": "https://connectsouthfulton.org",
+        "city": "South Fulton",
+        "state": "GA",
+        "registry": "https://southfultonga.fususregistry.com/camera-registry",
+        "org": "southfultonga",
+        "image": "https://cdn.swell.store/fusus-atlanta/667043e6f8755a0012f9bade/efb5288b39e2c96eaaabe99049d99a20/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7873676,
+          32.4456204
+        ]
+      },
+      "properties": {
+        "id": "statesboro",
+        "title": "Connect Statesboro",
+        "url": "https://connectstatesboro.org",
+        "city": "Statesboro",
+        "state": "GA",
+        "registry": "https://statesboropd.fususregistry.com/camera-registry",
+        "org": "statesboropd",
+        "image": "https://d33wubrfki0l68.cloudfront.net/8c6867717f0d11d674903e281bf5aae76b769404/e0dbf/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6004655,
+          32.6199052
+        ]
+      },
+      "properties": {
+        "id": "warner-robins",
+        "title": "Connect Warner Robins",
+        "url": "https://connectwarnerrobins.org",
+        "city": "Warner Robins",
+        "state": "GA",
+        "registry": "https://warnerrobinspd.fususregistry.com/camera-registry",
+        "org": "warnerrobinspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66704610f05fa50012d96e7f/8ac48dce6d5f751040f96e75cfa2defb/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.47541400000001,
+          41.6418797
+        ]
+      },
+      "properties": {
+        "id": "altoona",
+        "title": "Connect Altoona",
+        "url": "https://connectaltoona.org",
+        "city": "Altoona",
+        "state": "IA",
+        "registry": "https://altoonapd.fususregistry.com/camera-registry",
+        "org": "altoonapd",
+        "image": "https://cdn.swell.store/fusus-atlanta/67d831ee2ddedc0012159dfb/aafb622ebd5ca8ecc6d4a2a2fee08ac0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.69107,
+          43.66847
+        ]
+      },
+      "properties": {
+        "id": "caldwell",
+        "title": "Connect Caldwell",
+        "url": "https://connectcaldwell.org",
+        "city": "Caldwell",
+        "state": "ID",
+        "registry": "https://caldwellpdid.fususregistry.com/camera-registry",
+        "org": "caldwellpdid",
+        "image": "https://cdn.swell.store/fusus-atlanta/696f951e2a78a50012496582/bc4dea42bd4dc309234fdb0f8f7fda80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7300303,
+          41.6548585
+        ]
+      },
+      "properties": {
+        "id": "alsip",
+        "title": "Connect Alsip",
+        "url": "https://connectalsip.org",
+        "city": "Alsip",
+        "state": "IL",
+        "registry": "https://alsipil.fususregistry.com/camera-registry",
+        "org": "alsipil",
+        "image": "https://cdn.swell.store/fusus-atlanta/669ab3464733dd0012c7d072/a932af59503e21e982530cf99ef9fec1/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97898599999999,
+          42.0812907
+        ]
+      },
+      "properties": {
+        "id": "arlington-heights",
+        "title": "Connect Arlington Heights",
+        "url": "https://connectarlingtonheights.org",
+        "city": "Arlington Heights",
+        "state": "IL",
+        "registry": "https://arlingtonheightspd.fususregistry.com/camera-registry",
+        "org": "arlingtonheightspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/669ea430604fae0012a50b8c/81f9ac382da3a355e00644337dbb5f2d/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8181784,
+          41.7699311
+        ]
+      },
+      "properties": {
+        "id": "bedford",
+        "title": "Connect Bedford Park",
+        "url": "https://connectbedfordpark.org",
+        "city": "Bedford Park",
+        "state": "IL",
+        "registry": "https://bedfordparkpd.fususregistry.com/camera-registry",
+        "org": "bedfordparkpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66a12d0e0572cd001230322e/de8f1cd7ef19471b1669da097125c336/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7628026,
+          41.7559872
+        ]
+      },
+      "properties": {
+        "id": "burbank",
+        "title": "Connect Burbank",
+        "url": "https://connectburbankil.org",
+        "city": "Burbank",
+        "state": "IL",
+        "registry": "https://burbankpdil.fususregistry.com/camera-registry",
+        "org": "burbankpdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/66a1108568b1790012b47f17/adb57d46c73c5dc68e0496276abf1a84/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6356812,
+          41.50182
+        ]
+      },
+      "properties": {
+        "id": "chicago-heights",
+        "title": "Connect Chicago Heights",
+        "url": "https://connectchicagoheights.org",
+        "city": "Chicago Heights",
+        "state": "IL",
+        "registry": "https://chicagoheights.fususregistry.com/camera-registry",
+        "org": "chicagoheights",
+        "image": "https://cdn.swell.store/fusus-atlanta/66a12f04a40c9700129f8d33/39b3777035a9c404c34261d4d04d4aed/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74792,
+          41.85099
+        ]
+      },
+      "properties": {
+        "id": "cicero",
+        "title": "Cicero SAFE (Shared Access For Enforcement)",
+        "url": "https://cicerosafe.org",
+        "city": "Cicero",
+        "state": "IL",
+        "registry": "https://ciceropd.fususregistry.com/camera-registry",
+        "org": "ciceropd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d085c98cdbdc00123b374a/7f8b251d29221f59452eb8d5c22f52b6/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6709,
+          41.61201
+        ]
+      },
+      "properties": {
+        "id": "harvey",
+        "title": "Connect Harvey",
+        "url": "https://connectharvey.org",
+        "city": "Harvey",
+        "state": "IL",
+        "registry": "https://harveypdil.fususregistry.com/camera-registry",
+        "org": "harveypdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/685e998108063500124713f5/7f6f4a1983ba69266c1b794b19cdeec6?width=1024&height=400&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64717,
+          39.7934
+        ]
+      },
+      "properties": {
+        "id": "illinois",
+        "title": "Connect Illinois",
+        "url": "https://connectillinoisstatepolice.org",
+        "city": "Illinois",
+        "state": "IL",
+        "registry": "https://ilstatepolice.fususregistry.com/camera-registry",
+        "org": "ilstatepolice",
+        "image": "https://cdn.swell.store/fusus-atlanta/665e261e33e00e001226f2f6/857458dfa5e2840a55fed1419e7629cd/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85614,
+          41.8908
+        ]
+      },
+      "properties": {
+        "id": "melrose-park",
+        "title": "Connect Melrose Park",
+        "url": "https://connectmelrosepark.org",
+        "city": "Melrose Park",
+        "state": "IL",
+        "registry": "https://melroseparkpdil.fususregistry.com/camera-registry",
+        "org": "melroseparkpdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c14ec1a1dc740012a3ca54/172f2231d3a240f33aa0fe1c4c8282a2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9467514,
+          41.8330936
+        ]
+      },
+      "properties": {
+        "id": "oak-brook",
+        "title": "Connect Oak Brook",
+        "url": "https://connectoakbrook.org",
+        "city": "Oak Brook",
+        "state": "IL",
+        "registry": "https://oakbrookpd.fususregistry.com/camera-registry",
+        "org": "oakbrookpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/664789f85ddf9800124f7158/bd7e9ab6dda1bbb129d4dafd5088fb45/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75319069999999,
+          41.7206392
+        ]
+      },
+      "properties": {
+        "id": "oak-lawn",
+        "title": "Connect Oak Lawn",
+        "url": "https://connectoaklawn.org",
+        "city": "Oak Lawn",
+        "state": "IL",
+        "registry": "https://oaklawn.fususregistry.com/camera-registry",
+        "org": "oaklawn",
+        "image": "https://cdn.swell.store/fusus-atlanta/66c501581988790012cb9f3c/3cc5585420eb2f77137b8ea85524d339/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9646133,
+          41.8540315
+        ]
+      },
+      "properties": {
+        "id": "oakbrook-te",
+        "title": "Connect Oakbrook Terrace",
+        "url": "https://connectoakbrookterrace.org",
+        "city": "Oakbrook Terrace",
+        "state": "IL",
+        "registry": "https://obterracepd.fususregistry.com/camera-registry",
+        "org": "obterracepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f450fcb87d9800129947b1/787937712236c5ecbc2d74a2ee594219/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8573335,
+          41.6153493
+        ]
+      },
+      "properties": {
+        "id": "orland-park",
+        "title": "Connect Orland Park",
+        "url": "https://connectorlandpark.org",
+        "city": "Orland Park",
+        "state": "IL",
+        "registry": "https://orlandparkpd.fususregistry.com/camera-registry",
+        "org": "orlandparkpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fd5de9a011f30012d2edff/9b9e3c0bbfebd26c124a712b7ed5f42c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64979,
+          40.56866
+        ]
+      },
+      "properties": {
+        "id": "pekin",
+        "title": "Connect Pekin",
+        "url": "https://connectpekin.org",
+        "city": "Pekin",
+        "state": "IL",
+        "registry": "https://pekinpdil.fususregistry.com/camera-registry",
+        "org": "pekinpdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/6945a46e2c19410012b5b763/85e1383388ce2f7c0e3168be0c06493f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5960661,
+          40.6872864
+        ]
+      },
+      "properties": {
+        "id": "peoria",
+        "title": "Connect Peoria",
+        "url": "https://connectpeoria.org",
+        "city": "Peoria",
+        "state": "IL",
+        "registry": "https://peoriapd.fususregistry.com/camera-registry",
+        "org": "peoriapd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66bb701d33bf7f001284f4d9/fc671a618e63dce2b400421a561f138a/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6399412,
+          41.64589369999999
+        ]
+      },
+      "properties": {
+        "id": "riverdale",
+        "title": "Connect Riverdale",
+        "url": "https://connectriverdale.org",
+        "city": "Riverdale",
+        "state": "IL",
+        "registry": "https://riverdalepd.fususregistry.com/camera-registry",
+        "org": "riverdalepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f5a56cc2c8b70012b225bd/1f294f308709938d9a2202f85c1215df/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6444556,
+          39.7990176
+        ]
+      },
+      "properties": {
+        "id": "springfield",
+        "title": "Sync Springfield",
+        "url": "https://syncspringfield.org",
+        "city": "Springfield",
+        "state": "IL",
+        "registry": "https://springfieldpd.fususregistry.com/camera-registry",
+        "org": "springfieldpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fff416ee8efb0013e1e198/bb04b0ed93916c7c5ccf31b5956dd550/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22358,
+          40.1136
+        ]
+      },
+      "properties": {
+        "id": "uni-illinois",
+        "title": "Connect University of Illinois Urbana-Champaign",
+        "url": "https://connectuipd.org",
+        "city": "University of Illinois Urbana-Champaign",
+        "state": "IL",
+        "registry": "https://uillinoispd.fususregistry.com/camera-registry",
+        "org": "uillinoispd",
+        "image": "https://cdn.swell.store/fusus-atlanta/688382eeac7c6b0012c151c9/71d6b221cc19c87a57980d2f2b0fe137?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12067789999999,
+          41.863781
+        ]
+      },
+      "properties": {
+        "id": "wheaton",
+        "title": "Connect Wheaton",
+        "url": "https://connectwheaton.org",
+        "city": "Wheaton",
+        "state": "IL",
+        "registry": "https://wheatonpd.fususregistry.com/camera-registry",
+        "org": "wheatonpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66ff00828da57200122eadf6/f6c50b06fc81cfbab926ebc132c7d40e/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3492741,
+          41.600817
+        ]
+      },
+      "properties": {
+        "id": "gary",
+        "title": "Connect Gary",
+        "url": "https://connectgary.org",
+        "city": "Gary",
+        "state": "IN",
+        "registry": "https://garypd.fususregistry.com/camera-registry",
+        "org": "garypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f4994ca5207001314a2d7/2236e28e45b85957953c775490737e74/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5160083,
+          41.6156938
+        ]
+      },
+      "properties": {
+        "id": "hammond",
+        "title": "Hammond BlueNET",
+        "url": "https://hammondbluenet.org",
+        "city": "Hammond",
+        "state": "IN",
+        "registry": "https://hammondpd.fususregistry.com/camera-registry",
+        "org": "hammondpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6661cbd7354dcd001228c84c/2633eb5d70b53a38b4296a0df2fb07fc/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50393,
+          41.56247
+        ]
+      },
+      "properties": {
+        "id": "munster",
+        "title": "Connect Munster",
+        "url": "https://connectmunster.org",
+        "city": "Munster",
+        "state": "IN",
+        "registry": "https://munsterpdin.fususregistry.com/camera-registry",
+        "org": "munsterpdin",
+        "image": "https://cdn.swell.store/fusus-atlanta/69406e31e2733500127a7543/9c325037a3aa31caec94cefb1b7a170a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25855399999999,
+          41.6658647
+        ]
+      },
+      "properties": {
+        "id": "south-bend",
+        "title": "Sync South Bend",
+        "url": "https://syncsouthbend.org",
+        "city": "South Bend",
+        "state": "IN",
+        "registry": "https://southbendpd.fususregistry.com/camera-registry",
+        "org": "southbendpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/63cac55f3f4c9e0013a5582a/70a307b5cb1abbfd993990b940bd6201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.62701419999999,
+          39.116217
+        ]
+      },
+      "properties": {
+        "id": "kansas-city",
+        "title": "Connect KCK",
+        "url": "https://connectkck.org",
+        "city": "Kansas City, Kansas",
+        "state": "KS",
+        "registry": "https://kansascitykspd.fususregistry.com/camera-registry",
+        "org": "kansascitykspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66edca57aec57a0012714bda/fc8e3981ec51df1402cfc6d0d7a52a30/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.31073,
+          38.97678
+        ]
+      },
+      "properties": {
+        "id": "lawrence",
+        "title": "Connect Lawrence",
+        "url": "https://connectlawrence.org",
+        "city": "Lawrence",
+        "state": "KS",
+        "registry": "https://lawrencepdks.fususregistry.com/camera-registry",
+        "org": "lawrencepdks",
+        "image": "https://cdn.swell.store/fusus-atlanta/684c31834b5858001120ba60/36dbb95f6de211613cc517f8d8ac8dc9?width=1500&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.75366,
+          38.92985
+        ]
+      },
+      "properties": {
+        "id": "lenexa",
+        "title": "Connect Lenexa",
+        "url": "https://connectlenexa.org",
+        "city": "Lenexa",
+        "state": "KS",
+        "registry": "https://lenexapdks.fususregistry.com/camera-registry",
+        "org": "lenexapdks",
+        "image": "https://cdn.swell.store/fusus-atlanta/69a70482943cb50012442c5c/05334cb0d1c7628ba9750678be86a272?width=1600&height=600&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.673009,
+          38.90424
+        ]
+      },
+      "properties": {
+        "id": "overland-park",
+        "title": "Secure OP",
+        "url": "https://secureop.org",
+        "city": "Overland Park",
+        "state": "KS",
+        "registry": "https://overlandparkpdks.fususregistry.com/camera-registry",
+        "org": "overlandparkpdks",
+        "image": "https://cdn.swell.store/fusus-atlanta/6970e80b7b7d970012eed483/09ce499e2bdcb6e62faec6a84ebc8f89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.63226,
+          38.98873
+        ]
+      },
+      "properties": {
+        "id": "prairie-village",
+        "title": "Connect Prairie Village",
+        "url": "https://connectprairievillage.org",
+        "city": "Prairie Village",
+        "state": "KS",
+        "registry": "https://prairievillagepdks.fususregistry.com/camera-registry",
+        "org": "prairievillagepdks",
+        "image": "https://cdn.swell.store/fusus-atlanta/682c82b0a943b300128aa0bd/03d9e7d435efa954722fe75008fc662b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.60239,
+          39.1705
+        ]
+      },
+      "properties": {
+        "id": "riley-co",
+        "title": "Connect Riley County",
+        "url": "https://connectrileycounty.org",
+        "city": "Riley County",
+        "state": "KS",
+        "registry": "https://rileycountypd.fususregistry.com/camera-registry",
+        "org": "rileycountypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/69824380f6bfbd0012bd28aa/29ab3287737a003ef823da7ce393f81f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.670327,
+          39.0546256
+        ]
+      },
+      "properties": {
+        "id": "shawnee-co",
+        "title": "Connect Shawnee County and the City of Topeka",
+        "url": "https://connectshawneecounty.org",
+        "city": "Shawnee County and the City of Topeka",
+        "state": "KS",
+        "registry": "https://shawneecosheriff.fususregistry.com/camera-registry",
+        "org": "shawneecosheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/66ba12639942fe0012aa7f99/d80642bc13ef07ed66a0874638a03100/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33903,
+          37.69301
+        ]
+      },
+      "properties": {
+        "id": "wichita",
+        "title": "Connected Wichita",
+        "url": "https://connectedwichita.org",
+        "city": "Wichita",
+        "state": "KS",
+        "registry": "https://wichitapdks.fususregistry.com/camera-registry",
+        "org": "wichitapdks",
+        "image": "https://cdn.swell.store/fusus-atlanta/69f4b75a86b53c001200ba6f/81ac0cc286dab98b956f134cf15360f8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4961184,
+          38.0453512
+        ]
+      },
+      "properties": {
+        "id": "lexington",
+        "title": "Connect Lexington",
+        "url": "https://connectlex.org",
+        "city": "Lexington",
+        "state": "KY",
+        "registry": "https://lexingtonky.fususregistry.com/camera-registry",
+        "org": "lexingtonky",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f2cb31d59abe00128426f0/0984ea3339e3c9cf16933c376d3f933b/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7732881,
+          38.2078407
+        ]
+      },
+      "properties": {
+        "id": "louisville-me",
+        "title": "Connect Louisville",
+        "url": "https://connectlouisvillemetro.org",
+        "city": "Louisville",
+        "state": "KY",
+        "registry": "https://louisvillemetro.fususregistry.com/camera-registry",
+        "org": "louisvillemetro",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f31a2d9024ea00121ae48c/1df7d564ad7bf2d8b66249a4a327e267/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1420026,
+          30.2266423
+        ]
+      },
+      "properties": {
+        "id": "calcasieu-parish",
+        "title": "Connect Calcasieu Parish",
+        "url": "https://connectcalcasieuparish.org",
+        "city": "Calcasieu Parish",
+        "state": "LA",
+        "registry": "https://calcasieusheriff.fususregistry.com/camera-registry",
+        "org": "calcasieusheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/67ae5a643da5f60011249003/bdfe39f1eef58229fb94926cabf9cf54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.049931,
+          30.3262654
+        ]
+      },
+      "properties": {
+        "id": "carencro",
+        "title": "Connect Carencro",
+        "url": "https://connectcarencro.org",
+        "city": "Carencro",
+        "state": "LA",
+        "registry": "https://carencropd.fususregistry.com/camera-registry",
+        "org": "carencropd",
+        "image": "https://cdn.swell.store/fusus-atlanta/67ed76f3782968001297c6c7/1a21a31d75e2d348f61c6b85ab3b45de"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.15695,
+          30.52886
+        ]
+      },
+      "properties": {
+        "id": "east-baton-ro",
+        "title": "Connect East Baton Rouge",
+        "url": "https://keepeastbatonrougesafe.org",
+        "city": "East Baton Rouge",
+        "state": "LA",
+        "registry": "https://eastbatonrougesola.fususregistry.com/camera-registry",
+        "org": "eastbatonrougesola",
+        "image": "https://cdn.swell.store/fusus-atlanta/69160e7aef96cd00128c45e5/9588fbd4183f408867d32242464a8044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0115,
+          30.21123
+        ]
+      },
+      "properties": {
+        "id": "lafayette",
+        "title": "Connect Lafayette",
+        "url": "https://keeplafayettesafe.org",
+        "city": "Lafayette",
+        "state": "LA",
+        "registry": "https://lafayettepd.fususregistry.com/camera-registry",
+        "org": "lafayettepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/69aaecb5095de20012ce0246/5b810bc2250048a903b036c3a28f5325?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8186106,
+          29.7979453
+        ]
+      },
+      "properties": {
+        "id": "lafourche-pa",
+        "title": "Connect Lafourche Parish",
+        "url": "https://connectlafourcheparish.org",
+        "city": "Lafourche Parish",
+        "state": "LA",
+        "registry": "https://lafourcheparishso.fususregistry.com/camera-registry",
+        "org": "lafourcheparishso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f1daa0ec65c0001228d8f8/a73587b9e0043c067bd11244cf59dde6/background.jpg?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9927672,
+          29.8596435
+        ]
+      },
+      "properties": {
+        "id": "plaquemines",
+        "title": "Connect Plaquemines Parish",
+        "url": "https://connectplaqueminesparish.org",
+        "city": "Plaquemines Parish",
+        "state": "LA",
+        "registry": "https://plaqueminesparishso.fususregistry.com/camera-registry",
+        "org": "plaqueminesparishso",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f452e35e6f60012b3006c/00a61a03ceb981f69e019b7ed12cdaf4/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.75080679999999,
+          32.5130858
+        ]
+      },
+      "properties": {
+        "id": "shreveport",
+        "title": "Connect Shreveport",
+        "url": "https://connectshreveport.org",
+        "city": "Shreveport",
+        "state": "LA",
+        "registry": "https://cityofshreveport.fususregistry.com/camera-registry",
+        "org": "cityofshreveport",
+        "image": "https://cdn.schema.io/fusus-atlanta/635ac0e93454270012d8216a/e76403292e365598fb9749c6747d88ac?width=2000&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9735996,
+          29.9413442
+        ]
+      },
+      "properties": {
+        "id": "st-bernard-pa",
+        "title": "Protect St. Bernard",
+        "url": "https://protectstbernard.com",
+        "city": "St. Bernard Parish",
+        "state": "LA",
+        "registry": "https://stbernardso.fususregistry.com/camera-registry",
+        "org": "stbernardso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66ffe8ee58283500125f5ad8/d321b5778272f1842bdbff1624d95a26/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.14646,
+          30.6531
+        ]
+      },
+      "properties": {
+        "id": "zachary",
+        "title": "Connect Zachary",
+        "url": "https://connectzachary.org",
+        "city": "Zachary",
+        "state": "LA",
+        "registry": "https://zacharypdla.fususregistry.com/camera-registry",
+        "org": "zacharypdla",
+        "image": "https://cdn.swell.store/fusus-atlanta/68e3f7ac88e7a40012c0d941/3eb5ac2c948cde7d55310328f31aa6c2?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5848314,
+          42.1561621
+        ]
+      },
+      "properties": {
+        "id": "chicopee",
+        "title": "Connect Chicopee",
+        "url": "https://connectchicopee.org",
+        "city": "Chicopee",
+        "state": "MA",
+        "registry": "https://chicopee.fususregistry.com/camera-registry",
+        "org": "chicopee",
+        "image": "https://cdn.swell.store/fusus-atlanta/669fea5d40e3220012fcd17b/1e3eb2bb225fcdd0b4d369f964cf9f39/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6257475,
+          39.0992853
+        ]
+      },
+      "properties": {
+        "id": "anne-arundel",
+        "title": "Connect Anne Arundel",
+        "url": "https://connectannearundel.org",
+        "city": "Anne Arundel County",
+        "state": "MD",
+        "registry": "https://aacounty.fususregistry.com/camera-registry",
+        "org": "aacounty",
+        "image": "https://cdn.swell.store/fusus-atlanta/663a32898d80810012476c4c/904f2f9ae9164384150968c749a85561/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58895,
+          39.40052
+        ]
+      },
+      "properties": {
+        "id": "baltimore-co",
+        "title": "Connect Baltimore County",
+        "url": "https://camsharebaltimorecounty.org",
+        "city": "Baltimore County",
+        "state": "MD",
+        "registry": "https://baltimorecountypd.fususregistry.com/camera-registry",
+        "org": "baltimorecountypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/686fc8bdb6dac200125358a0/e2384254a794671d0c5f2bdc85989944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2367433,
+          39.1131974
+        ]
+      },
+      "properties": {
+        "id": "montgomery-county",
+        "title": "MoCoConnect",
+        "url": "https://mococonnect.org",
+        "city": "Montgomery County",
+        "state": "MD",
+        "registry": "https://mcpdmd.fususregistry.com/camera-registry",
+        "org": "mcpdmd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6697c816ea80a90012a0e193/423123f7c24c1e96d03336ec39ddfbf4/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8517126,
+          38.82706779999999
+        ]
+      },
+      "properties": {
+        "id": "prince-george-co",
+        "title": "Connect Prince George's County",
+        "url": "https://connectprincegeorgescounty.org",
+        "city": "Prince George's County",
+        "state": "MD",
+        "registry": "https://pgcountypd.fususregistry.com/camera-registry",
+        "org": "pgcountypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f6bd5651485700120780ea/92620a01e624a2f29cb246d1d777c561/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.903738,
+          38.8934945
+        ]
+      },
+      "properties": {
+        "id": "seat-plsnt",
+        "title": "Connect Seat Pleasant",
+        "url": "https://connectseatpleasant.org",
+        "city": "Seat Pleasant",
+        "state": "MD",
+        "registry": "https://seatpleasantmd.fususregistry.com/camera-registry",
+        "org": "seatpleasantmd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f5a69fcc307a00122bafc3/c34f17bd107189281542719eb3f76503/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42307,
+          42.29156
+        ]
+      },
+      "properties": {
+        "id": "blackman-leo",
+        "title": "Connect Blackman Leoni Township",
+        "url": "https://connectblackmanleoni.org",
+        "city": "Blackman Leoni Township",
+        "state": "MI",
+        "registry": "https://blackmanleonitwp.fususregistry.com/camera-registry",
+        "org": "blackmanleonitwp",
+        "image": "https://cdn.swell.store/fusus-atlanta/69bc138977edd70012c48061/be3024396a2ac0076e71e76b10add059?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20012,
+          42.31342
+        ]
+      },
+      "properties": {
+        "id": "dearborn",
+        "title": "Connect Dearborn",
+        "url": "https://connectdearborn.org",
+        "city": "Dearborn",
+        "state": "MI",
+        "registry": "https://dearbornpdmi.fususregistry.com/camera-registry",
+        "org": "dearbornpdmi",
+        "image": "https://cdn.swell.store/fusus-atlanta/682dc936d94c5f001262c906/eab1362b073ba7e1e4fc39487516bf06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58145929999999,
+          42.2796901
+        ]
+      },
+      "properties": {
+        "id": "kalamazoo",
+        "title": "Connect Kalamazoo",
+        "url": "https://connectkalamazoo.org",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "registry": "https://kalamazoodps.fususregistry.com/camera-registry",
+        "org": "kalamazoodps",
+        "image": "https://cdn.swell.store/fusus-atlanta/66edc52babc5590012feb3e1/4c05a9b4f74f67f25d1c1f833278d2ac/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63164,
+          42.97576
+        ]
+      },
+      "properties": {
+        "id": "kent-co",
+        "title": "The Kent Safety Network",
+        "url": "https://kentsafetynetwork.org",
+        "city": "Kent County",
+        "state": "MI",
+        "registry": "https://kentcountysd.fususregistry.com/camera-registry",
+        "org": "kentcountysd",
+        "image": "https://cdn.swell.store/fusus-atlanta/694ab402e0b21f0012f14804/903434309b0751236bcf4ba280f9478e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15548,
+          42.56438
+        ]
+      },
+      "properties": {
+        "id": "troy",
+        "title": "Connect Troy",
+        "url": "https://connecttroy.org",
+        "city": "Troy",
+        "state": "MI",
+        "registry": "https://troypdil.fususregistry.com/camera-registry",
+        "org": "troypdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a2ac69403461800124fc2a0/269eacf79fcb58b8777cbc1d5937677d?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02423,
+          42.51354
+        ]
+      },
+      "properties": {
+        "id": "warren",
+        "title": "Connect Warren",
+        "url": "https://connectwarren.org",
+        "city": "Warren",
+        "state": "MI",
+        "registry": "https://warrenpdmi.fususregistry.com/camera-registry",
+        "org": "warrenpdmi",
+        "image": "https://cdn.swell.store/fusus-atlanta/6892537acc8ea90012e63e58/3e7b94c59fcaad486b80496f7fb9232c?width=1600&height=650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30473,
+          45.21327
+        ]
+      },
+      "properties": {
+        "id": "anoka-co",
+        "title": "Anoka County Real Time Crime Center",
+        "url": "https://connectanokacounty.org",
+        "city": "Anoka County",
+        "state": "MN",
+        "registry": "https://anokacountysomn.fususregistry.com/camera-registry",
+        "org": "anokacountysomn",
+        "image": "https://cdn.swell.store/fusus-atlanta/688b6bc4a9bee00011ae8247/7b60c8318abf1ca0aa6c89c51fef226b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.43968,
+          32.84414
+        ]
+      },
+      "properties": {
+        "id": "artesia",
+        "title": "Connect Artesia",
+        "url": "https://connectartesia.org",
+        "city": "Artesia",
+        "state": "MN",
+        "registry": "https://artesianmpd.fususregistry.com/camera-registry",
+        "org": "artesianmpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c15c9b19bbbb0012bee71f/cf193d95fec2757d7d9ecabbcde5498d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.34968,
+          45.11035
+        ]
+      },
+      "properties": {
+        "id": "brooklyn-park",
+        "title": "Brooklyn Park Community Cameras",
+        "url": "https://brooklynparkcommunitycameras.org",
+        "city": "Brooklyn Park",
+        "state": "MN",
+        "registry": "https://brooklynparkpdmn.fususregistry.com/camera-registry",
+        "org": "brooklynparkpdmn",
+        "image": "https://cdn.swell.store/fusus-atlanta/69aee4507145080012ebafe3/291627dbf60ec64e016f9f934fdb222b?width=800&height=400&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.16653,
+          45.55929
+        ]
+      },
+      "properties": {
+        "id": "crestwood",
+        "title": "Connect Crestwood",
+        "url": "https://connectcrestwood.org",
+        "city": "Crestwood",
+        "state": "MN",
+        "registry": "https://crestwoodpdil.fususregistry.com/camera-registry",
+        "org": "crestwoodpdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a0606b3ceb2e000128f0ed8/a451959b0b37ec4f1647922176c2508f?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.16595,
+          44.81842
+        ]
+      },
+      "properties": {
+        "id": "eagan",
+        "title": "Connect Eagan",
+        "url": "https://connecteagan.org",
+        "city": "Eagan",
+        "state": "MN",
+        "registry": "https://eaganpdmn.fususregistry.com/camera-registry",
+        "org": "eaganpdmn",
+        "image": "https://cdn.swell.store/fusus-atlanta/69b9a506cc5cc200134b7f04/75713fd47df1443287c89a79323e8fdf?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3989917,
+          45.1049558
+        ]
+      },
+      "properties": {
+        "id": "hennepin",
+        "title": "Connect Hennepin County",
+        "url": "https://connecthennepincounty.org",
+        "city": "Hennepin County",
+        "state": "MN",
+        "registry": "https://hennepincountyso.fususregistry.com/camera-registry/",
+        "org": "hennepincountyso",
+        "image": "https://cdn.swell.store/fusus-atlanta/667d6c7b0d80af00112c4dd7/8828895c87a30b592c6447b5675908fa/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2652365,
+          44.9772839
+        ]
+      },
+      "properties": {
+        "id": "minneapolis",
+        "title": "Connect Minneapolis",
+        "url": "https://connectminneapolis.org",
+        "city": "Minneapolis",
+        "state": "MN",
+        "registry": "https://mpls.fususregistry.com/camera-registry",
+        "org": "mpls",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f7b85be1086001205f2f5/405e5347c0613c9239862770dbe4a771/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.46573,
+          44.94014
+        ]
+      },
+      "properties": {
+        "id": "minnetonka",
+        "title": "Keep Minnetonka Safe",
+        "url": "https://keepminnetonkasafe.org",
+        "city": "Minnetonka",
+        "state": "MN",
+        "registry": "https://minnetonkapdmn.fususregistry.com/camera-registry",
+        "org": "minnetonkapdmn",
+        "image": "https://cdn.swell.store/fusus-atlanta/6802506fa2d99f0012ec646b/025abfa841fb65ebd9cae0da5909259e?width=1600&height=600&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.16652,
+          45.55932
+        ]
+      },
+      "properties": {
+        "id": "saint-cloud",
+        "title": "Saint Cloud Connect and Protect",
+        "url": "https://stcloudconnectandprotect.org",
+        "city": "Saint Cloud",
+        "state": "MN",
+        "registry": "https://stcloudpdmn.fususregistry.com/camera-registry",
+        "org": "stcloudpdmn",
+        "image": "https://cdn.swell.store/fusus-atlanta/69eb7317a78d6a0012db2247/b33ab5b0eb9764f931849ff61af627bf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08723,
+          44.95621
+        ]
+      },
+      "properties": {
+        "id": "st-paul",
+        "title": "Connect Saint Paul",
+        "url": "https://connectstpaul.org",
+        "city": "Saint Paul",
+        "state": "MN",
+        "registry": "https://stpaulpdmn.fususregistry.com/camera-registry",
+        "org": "stpaulpdmn",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c56154546d1e00132f3191/352e0968db8f2ffd092b9712a5723b38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.63111,
+          38.4952
+        ]
+      },
+      "properties": {
+        "id": "eureka",
+        "title": "Connect Eureka",
+        "url": "https://connecteureka.org",
+        "city": "Eureka",
+        "state": "MO",
+        "registry": "https://eurekapdmo.fususregistry.com/camera-registry",
+        "org": "eurekapdmo",
+        "image": "https://cdn.swell.store/fusus-atlanta/691b69c8343bf800113f9445/5fa259e9dca7f628182f813fc676af9c?width=1500&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32459,
+          38.94015
+        ]
+      },
+      "properties": {
+        "id": "uni-missouri",
+        "title": "Mizzou SafeConnect",
+        "url": "https://mizzousafeconnect.org",
+        "city": "Mizzou",
+        "state": "MO",
+        "registry": "https://universityofmissouripdmo.fususregistry.com/camera-registry",
+        "org": "universityofmissouripdmo",
+        "image": "https://cdn.swell.store/fusus-atlanta/69cd333247bf3300117f0175/858f380024eda797c11fa2caaa8719cc?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2902,
+          37.21609
+        ]
+      },
+      "properties": {
+        "id": "springfield-mo",
+        "title": "Springfield Safe",
+        "url": "https://springfieldsafe.org",
+        "city": "Springfield",
+        "state": "MO",
+        "registry": "https://springfieldpdmo.fususregistry.com/camera-registry",
+        "org": "springfieldpdmo",
+        "image": "https://cdn.swell.store/fusus-atlanta/68b085ce2854b80012c23531/b118e01bf638f68c0b8e01121adfcec5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9012029,
+          30.3976027
+        ]
+      },
+      "properties": {
+        "id": "biloxi",
+        "title": "Connect Biloxi",
+        "url": "https://connectbiloxi.org",
+        "city": "Biloxi",
+        "state": "MS",
+        "registry": "https://biloxi.fususregistry.com/camera-registry",
+        "org": "biloxi",
+        "image": "https://cdn.swell.store/fusus-atlanta/662290ff1fee3a0012c0c968/e4b9c6f6e88b505da21a8cbb7018a9e3/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.44092570000001,
+          31.5763476
+        ]
+      },
+      "properties": {
+        "id": "brookhaven-lincoln",
+        "title": "Connect Brookhaven and Lincoln County",
+        "url": "https://brookhaven.connectlincolncounty.org",
+        "city": "Brookhaven and Lincoln County",
+        "state": "MS",
+        "registry": "https://lincolnbrookhaven.fususregistry.com/camera-registry",
+        "org": "lincolnbrookhaven",
+        "image": "https://cdn.swell.store/fusus-atlanta/664bb72e1f51e70011354b8f/f85bbec889f65585e5a7b3c67543c913/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0334006,
+          32.6166794
+        ]
+      },
+      "properties": {
+        "id": "canton",
+        "title": "Connect Canton",
+        "url": "https://connectcanton.org",
+        "city": "Canton",
+        "state": "MS",
+        "registry": "https://cityofcanton.fususregistry.com/camera-registry",
+        "org": "cityofcanton",
+        "image": "https://cdn.schema.io/fusus-atlanta/634ee55063290a0012cd335e/2297e066cffbb817405bf85ad645d2dc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0547035,
+          30.4391616
+        ]
+      },
+      "properties": {
+        "id": "harrison-co",
+        "title": "Connect Harrison County",
+        "url": "https://connectharrisoncounty.org",
+        "city": "Harrison County",
+        "state": "MS",
+        "registry": "https://harrisoncso.fususregistry.com/camera-registry",
+        "org": "harrisoncso",
+        "image": "https://cdn.swell.store/fusus-atlanta/67ffd9791fa3860011fed4b1/2f7f9e6b57fa847d2e2c646048f072e4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18381,
+          32.29706
+        ]
+      },
+      "properties": {
+        "id": "jackson-ms",
+        "title": "Connect Jackson MS",
+        "url": "https://connectjacksonms.org",
+        "city": "Jackson",
+        "state": "MS",
+        "registry": "https://jacksonms.fususregistry.com/camera-registry",
+        "org": "jacksonms",
+        "image": "https://cdn.swell.store/fusus-atlanta/6629771181d6d4001207cc8b/e66d5c66a28a22984e1acdbf72882826/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12283819999999,
+          32.4642742
+        ]
+      },
+      "properties": {
+        "id": "madison",
+        "title": "Connect Madison",
+        "url": "https://connectmadison.org",
+        "city": "Madison",
+        "state": "MS",
+        "registry": "https://madisonthecity.fususregistry.com/camera-registry",
+        "org": "madisonthecity",
+        "image": "https://cdn.swell.store/fusus-atlanta/662036a5d627de00120224ba/6121cf85fe8e270f029a137e5f572721/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7026,
+          32.36399
+        ]
+      },
+      "properties": {
+        "id": "meridian-ms",
+        "title": "Connect Meridian",
+        "url": "https://connectmeridian.org",
+        "city": "Meridian",
+        "state": "MS",
+        "registry": "https://meridianpdms.fususregistry.com/camera-registry",
+        "org": "meridianpdms",
+        "image": "https://cdn.swell.store/fusus-atlanta/69c5658896ffe600128aaadf/cb4c399d30adcbecbd675d2ef591151f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.98586340000001,
+          32.2747811
+        ]
+      },
+      "properties": {
+        "id": "rankin-co",
+        "title": "Connect Rankin County",
+        "url": "https://connectrankincounty.org",
+        "city": "Rankin County",
+        "state": "MS",
+        "registry": "https://rankincounty.fususregistry.com/camera-registry",
+        "org": "rankincounty",
+        "image": "https://cdn.schema.io/fusus-atlanta/6399fe66c6cd8b0012b6a742/8a1f64d08b3c0e9ab7d62504ddefae66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.81586659999999,
+          33.4630855
+        ]
+      },
+      "properties": {
+        "id": "starkville",
+        "title": "Connect Starkville",
+        "url": "https://connectstarkville.org",
+        "city": "Starkville",
+        "state": "MS",
+        "registry": "https://cityofstarkville.fususregistry.com/camera-registry",
+        "org": "cityofstarkville",
+        "image": "https://cdn.schema.io/fusus-atlanta/62c5f69834f02f0012d99c8e/fc2e8ea1b61b38cf2620c48dfc8162ea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7030253,
+          34.2623249
+        ]
+      },
+      "properties": {
+        "id": "tupelo",
+        "title": "Connect Tupelo",
+        "url": "https://connecttupelopolice.org",
+        "city": "Tupelo",
+        "state": "MS",
+        "registry": "https://tupeloms.fususregistry.com/camera-registry",
+        "org": "tupeloms",
+        "image": "https://cdn.swell.store/fusus-atlanta/66faec27fb70b20011871fa0/701ca097dd818d529c7cf3a6e122280c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9951,
+          46.87457
+        ]
+      },
+      "properties": {
+        "id": "missoula",
+        "title": "Connect Missoula",
+        "url": "https://connectmissoula.org",
+        "city": "Missoula",
+        "state": "MT",
+        "registry": "https://missoulapdmt.fususregistry.com/camera-registry",
+        "org": "missoulapdmt",
+        "image": "https://cdn.swell.store/fusus-atlanta/696948c27408a100125946d7/ac0f50796aad9d7194dc14022b27221c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55013,
+          35.59511
+        ]
+      },
+      "properties": {
+        "id": "asheville",
+        "title": "Connect Asheville",
+        "url": "https://connectasheville.org",
+        "city": "Asheville",
+        "state": "NC",
+        "registry": "https://ashevillepdnc.fususregistry.com/camera-registry",
+        "org": "ashevillepdnc",
+        "image": "https://cdn.swell.store/fusus-atlanta/698609ae1c693300120ba4ae/fce83dfa442ee84f3e64a4353617e1f2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54859979999999,
+          35.5959908
+        ]
+      },
+      "properties": {
+        "id": "buncombe-co",
+        "title": "Connect Buncombe County",
+        "url": "https://connectbcso.org",
+        "city": "Buncombe County",
+        "state": "NC",
+        "registry": "https://buncombesheriff.fususregistry.com/camera-registry",
+        "org": "buncombesheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/679a417c40680e00125fbc18/c1bee6d67c3f7493793dfdd114320d9b/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77959,
+          35.78991
+        ]
+      },
+      "properties": {
+        "id": "cary",
+        "title": "Connect Cary",
+        "url": "https://connect-cary-5e5b2c77.netlify.app",
+        "city": "Cary",
+        "state": "NC",
+        "registry": "https://carypd.fususregistry.com/camera-registry/",
+        "org": "carypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/664395b1f4f28f001282c2ee/4b927cf1d010f1ffd6a3c167aef0ba7c/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83722440000001,
+          35.2226924
+        ]
+      },
+      "properties": {
+        "id": "charlotte-mecklenburg",
+        "title": "Connect Charlotte",
+        "url": "https://connectcharlotte.org",
+        "city": "Charlotte",
+        "state": "NC",
+        "registry": "https://charlottemecklenburg.fususregistry.com/camera-registry",
+        "org": "charlottemecklenburg",
+        "image": "https://cdn.swell.store/fusus-atlanta/6627f4b3baa70000121a2c81/3e3e702b07dfcd2abd655b995369bf15/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8843851,
+          35.0541801
+        ]
+      },
+      "properties": {
+        "id": "fayetteville",
+        "title": "Connect Fayetteville",
+        "url": "https://connectfayetteville.org",
+        "city": "Fayetteville",
+        "state": "NC",
+        "registry": "https://fayettevillepd.fususregistry.com/camera-registry",
+        "org": "fayettevillepd",
+        "image": "https://cdn.schema.io/fusus-atlanta/63fe32afa9c5ac0012b4b508/1ef3642183adba2732a56ae8848c3e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7930351,
+          36.0694054
+        ]
+      },
+      "properties": {
+        "id": "greensboro",
+        "title": "Connect Greensboro",
+        "url": "https://connectgreensboro.org",
+        "city": "Greensboro",
+        "state": "NC",
+        "registry": "https://greensboropd.fususregistry.com/camera-registry",
+        "org": "greensboropd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66608ef0700cc30013f2710e/a87ff3d91e6478a60d28509a1d4ee013/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7946961,
+          36.0708118
+        ]
+      },
+      "properties": {
+        "id": "guilford-co",
+        "title": "Connect Guilford County",
+        "url": "https://connectguilfordcounty.org",
+        "city": "Guilford County ",
+        "state": "NC",
+        "registry": "https://guilfordsheriff.fususregistry.com/camera-registry",
+        "org": "guilfordsheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/66db0a779732640012e9ecd4/a2f915d551d2e726de7beb4f3b26dfd8/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0344531,
+          35.9458689
+        ]
+      },
+      "properties": {
+        "id": "high-point",
+        "title": "Link High Point",
+        "url": "https://connecthighpoint.org",
+        "city": "High Point",
+        "state": "NC",
+        "registry": "https://highpointncpd.fususregistry.com/camera-registry",
+        "org": "highpointncpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fc095843655c00123f03e4/51ff80435fa36f679e82e03a3990e5c6/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9592479,
+          34.9735021
+        ]
+      },
+      "properties": {
+        "id": "hope-mills",
+        "title": "Connect Hope Mills",
+        "url": "https://connecthopemills.com",
+        "city": "Hope Mills",
+        "state": "NC",
+        "registry": "https://hopemillspd.fususregistry.com/camera-registry",
+        "org": "hopemillspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66edc047d934bc0012681b70/3303d525acefba3d4c493b1119595bae/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8398101,
+          35.578529
+        ]
+      },
+      "properties": {
+        "id": "mooresville",
+        "title": "Connect Mooresville",
+        "url": "https://connectmooresville.org",
+        "city": "Mooresville",
+        "state": "NC",
+        "registry": "https://mooresvillepd.fususregistry.com/camera-registry",
+        "org": "mooresvillepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f44ee81c8a410012109fe6/a2221eda0bb275e2bad8d0fbf4317c87/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.70153959999999,
+          35.7918654
+        ]
+      },
+      "properties": {
+        "id": "raleigh",
+        "title": "CONNECTRALEIGH",
+        "url": "https://connectraleigh.org",
+        "city": "Raleigh",
+        "state": "NC",
+        "registry": "https://raleighncpd.fususregistry.com/camera-registry",
+        "org": "raleighncpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/68d408f36f90f80012002e86/86567a00e18974883c75321ba96d3bed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.248469,
+          36.1041318
+        ]
+      },
+      "properties": {
+        "id": "winston-salem",
+        "title": "Connect Winston-Salem",
+        "url": "https://connectwinstonsalem.org",
+        "city": "the City of Winston-Salem",
+        "state": "NC",
+        "registry": "https://cityofws.fususregistry.com/camera-registry",
+        "org": "cityofws",
+        "image": "https://cdn.schema.io/fusus-atlanta/62bc821b321b77001930d1c5/e3ddc774e1b0f40053f0c473706f92c3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6408,
+          35.77623
+        ]
+      },
+      "properties": {
+        "id": "wake-co",
+        "title": "Connect Wake County",
+        "url": "https://connectwakeso.org",
+        "city": "Wake County",
+        "state": "NC",
+        "registry": "https://wakecounty.fususregistry.com/camera-registry",
+        "org": "wakecounty",
+        "image": "https://cdn.swell.store/fusus-atlanta/69aaf2b9fab4450012b98879/b479e5a067478e263c8622571420d242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94172,
+          34.25302
+        ]
+      },
+      "properties": {
+        "id": "wilmington",
+        "title": "Connect Wilmington",
+        "url": "https://keepwilmingtonsafe.org",
+        "city": "Wilmington",
+        "state": "NC",
+        "registry": "https://wilmingtonnc.fususregistry.com/camera-registry",
+        "org": "wilmingtonnc",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a284efd666b6e00127faa44/54664d5a3bc4cf7e943b2da794c5c304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9351011,
+          41.2551536
+        ]
+      },
+      "properties": {
+        "id": "omaha",
+        "title": "Connect Omaha",
+        "url": "https://cityofomahaconnect.org",
+        "city": "Omaha",
+        "state": "NE",
+        "registry": "https://cityofomaha.fususregistry.com/camera-registry",
+        "org": "cityofomaha",
+        "image": "https://cdn.swell.store/fusus-atlanta/67f31da62bf9de0012bd6887/8ac2a6642d27815409642e4f91fbc950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4522921,
+          42.9810484
+        ]
+      },
+      "properties": {
+        "id": "manchester",
+        "title": "Connect Manchester",
+        "url": "https://connectmanchester.org",
+        "city": "City of Manchester",
+        "state": "NH",
+        "registry": "https://cityofmanchester.fususregistry.com/camera-registry",
+        "org": "cityofmanchester",
+        "image": "https://cdn.schema.io/fusus-atlanta/6399ee90836d660012851959/25bd615a41844581457be8891339bf90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00115,
+          40.24761
+        ]
+      },
+      "properties": {
+        "id": "deal",
+        "title": "Connect Deal",
+        "url": "https://connectdealnj.org",
+        "city": "Deal",
+        "state": "NJ",
+        "registry": "https://dealpdnj.fususregistry.com/camera-registry",
+        "org": "dealpdnj",
+        "image": "https://cdn.swell.store/fusus-atlanta/6945a21828dc7f0012f082fc/7728e192b9a5dd6e38852d20227f10d6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2127508,
+          40.6669508
+        ]
+      },
+      "properties": {
+        "id": "elizabeth",
+        "title": "Connect Elizabeth",
+        "url": "https://connectelizabeth.org",
+        "city": "Elizabeth",
+        "state": "NJ",
+        "registry": "https://elizabethnj.fususregistry.com/camera-registry",
+        "org": "elizabethnj",
+        "image": "https://cdn.swell.store/fusus-atlanta/662beb9310e9ec00122393be/96c3d8a6703db850b400f5a2736285a6/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2495733,
+          40.2634821
+        ]
+      },
+      "properties": {
+        "id": "monmouth-county",
+        "title": "Connect Monmouth County",
+        "url": "https://connectmonmouthcounty.org",
+        "city": "Monmouth County",
+        "state": "NJ",
+        "registry": "https://monmouthcounty.fususregistry.com/camera-registry",
+        "org": "monmouthcounty",
+        "image": "https://cdn.schema.io/fusus-atlanta/63ea6079c6a0dd00122a3e12/78e7b477d72031d524d3fa8b6b711c31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4461,
+          40.49352
+        ]
+      },
+      "properties": {
+        "id": "new-brunswick",
+        "title": "Connect New Brunswick",
+        "url": "https://connectnewbrunswick.org",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "registry": "https://newbrunswickpdnj.fususregistry.com/camera-registry",
+        "org": "newbrunswickpdnj",
+        "image": "https://cdn.swell.store/fusus-atlanta/699878bc5de50b00121fab8b/f7e76feb6a22bd138a539aea80186430?width=1400&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1772197,
+          40.7344793
+        ]
+      },
+      "properties": {
+        "id": "newark",
+        "title": "Connect Newark",
+        "url": "https://makenewarksafer.com",
+        "city": "Newark",
+        "state": "NJ",
+        "registry": "https://cityofnewark.fususregistry.com/camera-registry",
+        "org": "cityofnewark",
+        "image": "https://cdn.schema.io/fusus-atlanta/63e114473ec1ac0012b68ef5/d8f875ce562c99fc188b21311724c058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17070509999999,
+          40.9191389
+        ]
+      },
+      "properties": {
+        "id": "paterson",
+        "title": "Connect Paterson",
+        "url": "https://connectpaterson.org",
+        "city": "Paterson",
+        "state": "NJ",
+        "registry": "https://patersonpdnj.fususregistry.com/camera-registry",
+        "org": "patersonpdnj",
+        "image": "https://cdn.swell.store/fusus-atlanta/6626a8228b81c8001246a2a5/a10822bc18484020b313c5aece8bdda1/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6514194,
+          35.0888909
+        ]
+      },
+      "properties": {
+        "id": "bernalillo",
+        "title": "Connect Bernalillo County",
+        "url": "https://connectbernalillocounty.org",
+        "city": "Bernalillo County",
+        "state": "NM",
+        "registry": "https://bernalillo.fususregistry.com/camera-registry",
+        "org": "bernalillo",
+        "image": "https://cdn.swell.store/fusus-atlanta/66450dc0c407f20012153e3a/d47d7b834363e8920950fe3b064e1801/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2162465,
+          36.7385759
+        ]
+      },
+      "properties": {
+        "id": "farmington",
+        "title": "Connect Farmington",
+        "url": "https://connectfarmington.org",
+        "city": "Farmington ",
+        "state": "NM",
+        "registry": "https://farmingtonpd.fususregistry.com/camera-registry",
+        "org": "farmingtonpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d09fac01882c001289bb59/6ec5cdbb0ecd90bd4c11338111bd2537/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2162465,
+          36.7385759
+        ]
+      },
+      "properties": {
+        "id": "farmington",
+        "title": "Connect Farmington",
+        "url": "https://connectfarmington.org",
+        "city": "Farmington ",
+        "state": "NM",
+        "registry": "https://farmingtonpd.fususregistry.com/camera-registry",
+        "org": "farmingtonpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66d09fac01882c001289bb59/6ec5cdbb0ecd90bd4c11338111bd2537/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.53877,
+          33.39417
+        ]
+      },
+      "properties": {
+        "id": "roswell-nm",
+        "title": "SaferRoswell",
+        "url": "https://saferroswellnm.org",
+        "city": "Roswell",
+        "state": "NM",
+        "registry": "https://roswellpdnm.fususregistry.com/camera-registry",
+        "org": "roswellpdnm",
+        "image": "https://cdn.swell.store/fusus-atlanta/69cec3d77c7fc0001265276c/00377bdc7740a6104ecd6dc4a7ddf2fa?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76532,
+          38.95596
+        ]
+      },
+      "properties": {
+        "id": "douglas-co",
+        "title": "Safer Douglas County",
+        "url": "https://saferdouglascounty.org",
+        "city": "Douglas County",
+        "state": "NV",
+        "registry": "https://douglascountysonv.fususregistry.com/camera-registry",
+        "org": "douglascountysonv",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a0483b706ccbc00119dc964/2526ab3b330537a477dfcafb84b18d6b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8060342,
+          39.5277227
+        ]
+      },
+      "properties": {
+        "id": "reno",
+        "title": "Connect Reno",
+        "url": "https://connectreno.org",
+        "city": "Reno",
+        "state": "NV",
+        "registry": "https://renopd.fususregistry.com/camera-registry",
+        "org": "renopd",
+        "image": "https://d33wubrfki0l68.cloudfront.net/1dcd12b1ab278e70a9ae813bb80142b9fe177791/471af/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.71018,
+          39.54183
+        ]
+      },
+      "properties": {
+        "id": "sparks",
+        "title": "Connect Sparks",
+        "url": "https://connectsparks.org",
+        "city": "Sparks",
+        "state": "NV",
+        "registry": "https://sparkspdnv.fususregistry.com/camera-registry",
+        "org": "sparkspdnv",
+        "image": "https://cdn.swell.store/fusus-atlanta/688261f4e956980012ff49b5/236bfd7886a42739c056c8aa050ad9a9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.81101,
+          39.5738
+        ]
+      },
+      "properties": {
+        "id": "washoe-co",
+        "title": "Connect Washoe County",
+        "url": "https://staysafewashoe.org",
+        "city": "Washoe County",
+        "state": "NV",
+        "registry": "https://washoesheriff.fususregistry.com/camera-registry",
+        "org": "washoesheriff",
+        "image": "https://cdn.swell.store/fusus-atlanta/68839616c12e7c0012fbf2dd/be5b2a9b4608c10b798c4eade641083f?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.613841,
+          43.1524535
+        ]
+      },
+      "properties": {
+        "id": "monroe-co",
+        "title": "Connect Monroe County",
+        "url": "https://connectmonroecountyny.org",
+        "city": "Monroe County",
+        "state": "NY",
+        "registry": "https://monroecoso.fususregistry.com/camera-registry",
+        "org": "monroecoso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66e43cf5aea73100125c61e0/0692b9675e2dcc4db607ab5025670272/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0065164,
+          40.7124142
+        ]
+      },
+      "properties": {
+        "id": "nypd",
+        "title": "Connect NYPD",
+        "url": "https://newyorkcityconnect.org",
+        "city": "New York City",
+        "state": "NY",
+        "registry": "https://nypd.fususregistry.com/camera-registry",
+        "org": "nypd",
+        "image": "https://cdn.swell.store/fusus-atlanta/67225f6421560a001207a7bf/58a3da045ef5a2a9d915775926dd1048/background-2.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78403,
+          43.08338
+        ]
+      },
+      "properties": {
+        "id": "saratoga-sp",
+        "title": "Connect Saratoga Springs",
+        "url": "https://connectsaratogasprings.org",
+        "city": "Saratoga Springs",
+        "state": "NY",
+        "registry": "https://saratogaspringspdny.fususregistry.com/camera-registry",
+        "org": "saratogaspringspdny",
+        "image": "https://cdn.swell.store/fusus-atlanta/687a49e2cccc4000120b32cb/f228a3f5abd746baafc6272e1c805176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5208748,
+          39.1095967
+        ]
+      },
+      "properties": {
+        "id": "cincinnati",
+        "title": "Connect Cincinnati",
+        "url": "https://connectcincinnati.org",
+        "city": "Cincinnati",
+        "state": "OH",
+        "registry": "https://cincinnatipd.fususregistry.com/camera-registry",
+        "org": "cincinnatipd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6722444a6eb0bd001286f81f/618a1ce0f28581752bfec0172662e2d7/background.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6934287,
+          41.5048596
+        ]
+      },
+      "properties": {
+        "id": "cleveland",
+        "title": "Safe Smart CLE",
+        "url": "https://connectcleveland.org",
+        "city": "Cleveland",
+        "state": "OH",
+        "registry": "https://clevelanddps.fususregistry.com/camera-registry",
+        "org": "clevelanddps",
+        "image": "https://cdn.swell.store/fusus-atlanta/6699521cc71c0700135ff281/c848c066a3de6ba676f73177e6d263a0/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71633,
+          41.44497
+        ]
+      },
+      "properties": {
+        "id": "cleveland-metro",
+        "title": "Cleveland Metroparks Connect",
+        "url": "https://clevelandmetroparksconnect.org",
+        "city": "Cleveland Metroparks",
+        "state": "OH",
+        "registry": "https://clevelandmetroparksoh.fususregistry.com/camera-registry",
+        "org": "clevelandmetroparksoh",
+        "image": "https://cdn.swell.store/fusus-atlanta/698e473b21126600129d9b34/5dd3a45dd3c5283b306a788ba1100615?width=1400&height=500&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1096,
+          41.36947
+        ]
+      },
+      "properties": {
+        "id": "elyria",
+        "title": "Connect Elyria",
+        "url": "https://keepelyriasafe.org",
+        "city": "Elyria",
+        "state": "OH",
+        "registry": "https://elyriapdoh.fususregistry.com/camera-registry",
+        "org": "elyriapdoh",
+        "image": "https://cdn.swell.store/fusus-atlanta/69a5ba1cb961ef00129815f0/03a61da90ec8fb2e1b0c9d13c97ade15?width=1600&height=600&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.52581,
+          41.60061
+        ]
+      },
+      "properties": {
+        "id": "euclid",
+        "title": "Connect Euclid",
+        "url": "https://realtimeeuclidpd.org",
+        "city": "Euclid",
+        "state": "OH",
+        "registry": "https://euclidpdoh.fususregistry.com/camera-registry",
+        "org": "euclidpdoh",
+        "image": "https://cdn.swell.store/fusus-atlanta/68d14d43aae2f00012c37f98/97cf05e3729d152ca8ef0af3effd63ba?width=1280&height=500&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56490339999999,
+          39.278878
+        ]
+      },
+      "properties": {
+        "id": "hamilton-co",
+        "title": "Connect Hamilton County",
+        "url": "https://connecthamiltonco.org",
+        "city": "Hamilton County",
+        "state": "OH",
+        "registry": "https://hamiltoncoso.fususregistry.com/camera-registry",
+        "org": "hamiltoncoso",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fff97f6675820012155cad/8cf52c2d03b90ff99009cf260d775b96/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8856194,
+          39.96833609999999
+        ]
+      },
+      "properties": {
+        "id": "whitehall",
+        "title": "Connect Whitehall",
+        "url": "https://connectwhitehall.org",
+        "city": "Whitehall",
+        "state": "OH",
+        "registry": "https://whitehallpd.fususregistry.com/camera-registry",
+        "org": "whitehallpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/63f7d84a37e81d001223c628/9795b8f7a778019a33d00a771272ba66?width=2000&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52523409999999,
+          35.4682986
+        ]
+      },
+      "properties": {
+        "id": "oklahoma-city",
+        "title": "Connect Oklahoma City",
+        "url": "https://connectoklahomacity.org",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "registry": "https://okcpd.fususregistry.com/camera-registry",
+        "org": "okcpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f5a331269aa001246dbc2/de24d987392cceab10d18dbace355e13/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2846452,
+          44.056
+        ]
+      },
+      "properties": {
+        "id": "bend",
+        "title": "Connect Bend",
+        "url": "https://bendconnect.org",
+        "city": "Bend",
+        "state": "OR",
+        "registry": "https://bendpd.fususregistry.com/camera-registry",
+        "org": "bendpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6643ab93c6e6040012c040f2/cf92d45ad98764e2be9ac0f035b495e5/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.929909,
+          40.107446
+        ]
+      },
+      "properties": {
+        "id": "bensalem",
+        "title": "Connect Bensalem",
+        "url": "https://connectbensalem.org",
+        "city": "Bensalem",
+        "state": "PA",
+        "registry": "https://bensalem.fususregistry.com/camera-registry",
+        "org": "bensalem",
+        "image": "https://cdn.schema.io/fusus-atlanta/63a31db8593e1f001243ec3c/33fdb715fc980b6275e466f1ab8ad557?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.29835,
+          40.07675
+        ]
+      },
+      "properties": {
+        "id": "manheim-town",
+        "title": "Connect Manheim Township",
+        "url": "https://connectmtpd.org",
+        "city": "Manheim Township",
+        "state": "PA",
+        "registry": "https://manheimtwp.fususregistry.com/camera-registry",
+        "org": "manheimtwp",
+        "image": "https://cdn.swell.store/fusus-atlanta/69de5e41025d0f001282307d/bfd4a6733007f01373d155ad5e7c40d9?width=560&height=280&anchor=bottom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.930807,
+          32.7767226
+        ]
+      },
+      "properties": {
+        "id": "charleston",
+        "title": "Connect Charleston",
+        "url": "https://charlestonconnect.org",
+        "city": "Charleston",
+        "state": "SC",
+        "registry": "https://charlestonpd.fususregistry.com/camera-registry",
+        "org": "charlestonpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/662a5a75cc3f4a0012d8451b/e8a74edb633db7a2ab30dff923b41168/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0121039,
+          32.87688
+        ]
+      },
+      "properties": {
+        "id": "forsyth-co",
+        "title": "Connect Forsyth County",
+        "url": "https://connect.gofcsonc.org",
+        "city": "Forsyth County, NC",
+        "state": "SC",
+        "registry": "https://forsyth.fususregistry.com/camera-registry",
+        "org": "forsyth",
+        "image": "https://cdn.schema.io/fusus-atlanta/63209ba3c208dd0012fb0297/1fd5aa38021e0e6dd4a76265de7b7f6f?width=1600&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.38742,
+          34.8533
+        ]
+      },
+      "properties": {
+        "id": "greenville-co",
+        "title": "Connect Greenville County",
+        "url": "https://connectgreenvillecounty.org",
+        "city": "Greenville County",
+        "state": "SC",
+        "registry": "https://greenvillecsosc.fususregistry.com/camera-registry",
+        "org": "greenvillecsosc",
+        "image": "https://cdn.swell.store/fusus-atlanta/68d151d758cdd900122c4a6f/b694d65e1c002bd2a5a65bea2a014bf7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01245999999999,
+          32.8767327
+        ]
+      },
+      "properties": {
+        "id": "north-charles",
+        "title": "Connect North Charleston",
+        "url": "https://connectncpd.org",
+        "city": "North Charleston",
+        "state": "SC",
+        "registry": "https://northcharlestonpd.fususregistry.com/camera-registry",
+        "org": "northcharlestonpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/633331bea017c700132f2d46/bc4264b4feac81050191793073a8f475?width=1600&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.94138099999999,
+          34.9493949
+        ]
+      },
+      "properties": {
+        "id": "spartanburg",
+        "title": "Connect Spartanburg",
+        "url": "https://safespartanburg.org",
+        "city": "Spartanburg",
+        "state": "SC",
+        "registry": "https://spartanburgpd.fususregistry.com/camera-registry",
+        "org": "spartanburgpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f6c0eb203c67001127eea6/1c4134a35515b744679ded623c59524b/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.26305,
+          35.08197
+        ]
+      },
+      "properties": {
+        "id": "chattanooga",
+        "title": "Dragonfly Community Connect",
+        "url": "https://connectchattanoogatn.org",
+        "city": "Chattanooga",
+        "state": "TN",
+        "registry": "https://chattanoogapd.fususregistry.com/camera-registry",
+        "org": "chattanoogapd",
+        "image": "https://d33wubrfki0l68.cloudfront.net/4094986cd1dea0f7c9e400f68bb19c7464a6abe0/3e47b/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8143619,
+          35.6104874
+        ]
+      },
+      "properties": {
+        "id": "jackson-tn",
+        "title": "Safe Jackson, TN",
+        "url": "https://safejacksontn.org",
+        "city": "Jackson",
+        "state": "TN",
+        "registry": "https://jacksonpdtn.fususregistry.com/camera-registry",
+        "org": "jacksonpdtn",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fff02d957cac00125baee0/f72d0555e13236732f190276759021ef/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92628,
+          35.99193
+        ]
+      },
+      "properties": {
+        "id": "knoxville",
+        "title": "Connect Knoxville",
+        "url": "https://connectknoxvilletn.org",
+        "city": "Knoxville",
+        "state": "TN",
+        "registry": "https://knoxvillepdtn.fususregistry.com/camera-registry",
+        "org": "knoxvillepdtn",
+        "image": "https://cdn.swell.store/fusus-atlanta/698f38ffc4c6de0012c176c5/3eb68863d79145f9a1b7a2a70595932c?width=1400&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91596849999999,
+          35.5795727
+        ]
+      },
+      "properties": {
+        "id": "madison-county",
+        "title": "Connect Madison County",
+        "url": "https://connectmadisoncounty.org",
+        "city": "Madison County",
+        "state": "TN",
+        "registry": "https://mcso-tn.fususregistry.com/camera-registry",
+        "org": "mcso-tn",
+        "image": "https://cdn.swell.store/fusus-atlanta/66325920fdceac001234cf4a/a09bfc150de0b8aba47d1774436b21b0/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05051549999999,
+          35.14966950000001
+        ]
+      },
+      "properties": {
+        "id": "memphis",
+        "title": "Connect Memphis",
+        "url": "https://connect2memphis.org",
+        "city": "Memphis",
+        "state": "TN",
+        "registry": "https://memphispd.fususregistry.com/camera-registry",
+        "org": "memphispd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665e31a7c59a930012bdf0e2/575d3826354ccfa49b4689834e21cbb8/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0479869,
+          35.149049
+        ]
+      },
+      "properties": {
+        "id": "shelby",
+        "title": "Connect Shelby County",
+        "url": "https://connect2shelbycounty.org",
+        "city": "Shelby County",
+        "state": "TN",
+        "registry": "https://shelbycoso.fususregistry.com/camera-registry",
+        "org": "shelbycoso",
+        "image": "https://cdn.swell.store/fusus-atlanta/664ded889a9752001267d52b/30de88cc05ca38ce2daf36fab25953a7/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4473211,
+          36.3860761
+        ]
+      },
+      "properties": {
+        "id": "sumner",
+        "title": "Connect Sumner",
+        "url": "https://connectsumner.org",
+        "city": "Sumner",
+        "state": "TN",
+        "registry": "https://sumnercounty.fususregistry.com/camera-registry",
+        "org": "sumnercounty",
+        "image": "https://cdn.swell.store/fusus-atlanta/67b8b19020bd1f00123e44bd/89e2c6654a1b7c742da8b5f17213441a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88498,
+          35.90002
+        ]
+      },
+      "properties": {
+        "id": "williamson-co",
+        "title": "Connect Williamson",
+        "url": "https://connectwilliamson.org",
+        "city": "Williamson County",
+        "state": "TN",
+        "registry": "https://williamsoncsotn.fususregistry.com/camera-registry",
+        "org": "williamsoncsotn",
+        "image": "https://cdn.swell.store/fusus-atlanta/69de8172f6f18c0012a29eb3/3ed5225f7e16095df675e4add1a34e2a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8348201,
+          35.2103898
+        ]
+      },
+      "properties": {
+        "id": "amarillo",
+        "title": "Connect Amarillo",
+        "url": "https://amarilloconnect.org",
+        "city": "Amarillo",
+        "state": "TX",
+        "registry": "https://amarillopd.fususregistry.com/camera-registry",
+        "org": "amarillopd",
+        "image": "https://cdn.swell.store/fusus-atlanta/695fc48d65644f001249e383/628401c833777c07aa0a93d19a2ad06a?width=1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.71249,
+          29.76612
+        ]
+      },
+      "properties": {
+        "id": "boerne",
+        "title": "Connect Boerne",
+        "url": "https://connectboerne.org",
+        "city": "Boerne",
+        "state": "TX",
+        "registry": "https://boernepdtx.fususregistry.com/camera-registry",
+        "org": "boernepdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/696f9e323f405f001254eab7/083ca3d8a29522ca6ce76482b3ae422a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.39304680000001,
+          30.6763253
+        ]
+      },
+      "properties": {
+        "id": "brazos",
+        "title": "Connect Brazos County",
+        "url": "https://connectbrazoscounty.org",
+        "city": "Brazos County",
+        "state": "TX",
+        "registry": "https://brazostx.fususregistry.com/camera-registry",
+        "org": "brazostx",
+        "image": "https://cdn.swell.store/fusus-atlanta/6675ad957d30e900124ffad4/699a23410d73b40a93387a2fe63b958d/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4986897,
+          25.908208
+        ]
+      },
+      "properties": {
+        "id": "brownsville",
+        "title": "Connect Brownsville",
+        "url": "https://connectbrownsville.org",
+        "city": "Brownsville",
+        "state": "TX",
+        "registry": "https://brownsvillepd.fususregistry.com/camera-registry",
+        "org": "brownsvillepd",
+        "image": "https://cdn.schema.io/fusus-atlanta/64120b4c6d4d660012ea3e01/f2440b8287c9dc44fb564fd9f9fc6e2d?width=1600&height=700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7954821,
+          32.7679623
+        ]
+      },
+      "properties": {
+        "id": "dallas",
+        "title": "Connect Dallas",
+        "url": "https://connectdallas.org",
+        "city": "Dallas",
+        "state": "TX",
+        "registry": "https://dallaspd.fususregistry.com/camera-registry",
+        "org": "dallaspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66213857bf71b6001275ba37/bf2dcf9de5badc1bb5cf94cdcfb63abb/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13094,
+          33.21752
+        ]
+      },
+      "properties": {
+        "id": "denton",
+        "title": "Denton Connects",
+        "url": "https://dentonconnects.org",
+        "city": "Denton",
+        "state": "TX",
+        "registry": "https://dentonpdtx.fususregistry.com/camera-registry",
+        "org": "dentonpdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/69d4116bb97fa00012b81fcb/43bd607ad47b2a608bc8fedf21761595?width=1800&height=600&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.90626,
+          32.6466
+        ]
+      },
+      "properties": {
+        "id": "duncanville",
+        "title": "Connect Duncanville",
+        "url": "https://connectduncanville.org",
+        "city": "Duncanville",
+        "state": "TX",
+        "registry": "https://duncanvillepdtx.fususregistry.com/camera-registry",
+        "org": "duncanvillepdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/699c6aee17185500124414f0/943b386306499886cd69d04d458f4db1?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.746397,
+          29.5890457
+        ]
+      },
+      "properties": {
+        "id": "fort-bend",
+        "title": "Connect Fort Bend",
+        "url": "https://fortbendconnect.org",
+        "city": "Fort Bend County",
+        "state": "TX",
+        "registry": "https://fortbendcounty.fususregistry.com/camera-registry",
+        "org": "fortbendcounty",
+        "image": "https://cdn.schema.io/fusus-atlanta/641492c554aad900116c54ff/dfcdcbdb024e44a633d7e11cf90cbbbe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.08705,
+          32.93143
+        ]
+      },
+      "properties": {
+        "id": "grapevine",
+        "title": "Connect Grapevine",
+        "url": "https://connectgrapevine.org",
+        "city": "Grapevine",
+        "state": "TX",
+        "registry": "https://grapevinepdtx.fususregistry.com/camera-registry",
+        "org": "grapevinepdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/6851621cc7468e0012f17a16/910de9152a7e6b565c40703236c63b86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.950895,
+          32.8163703
+        ]
+      },
+      "properties": {
+        "id": "irving",
+        "title": "Connect Irving",
+        "url": "https://connectirving.org",
+        "city": "Irving",
+        "state": "TX",
+        "registry": "https://irvingpdtx.fususregistry.com/camera-registry",
+        "org": "irvingpdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/66f452852bfc280012c8d07d/28dfd93a4dcab31f625c8e0b5403ed02/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7199706,
+          31.0375303
+        ]
+      },
+      "properties": {
+        "id": "killeen",
+        "title": "KPD Connect",
+        "url": "https://kpdconnect.org",
+        "city": "Killeen",
+        "state": "TX",
+        "registry": "https://killeenpd.fususregistry.com/camera-registry",
+        "org": "killeenpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/668c13a944243400120826f0/17d3c077114686266a571014041f1772/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8614157,
+          30.0276666
+        ]
+      },
+      "properties": {
+        "id": "kyle",
+        "title": "Connect Kyle",
+        "url": "https://connectkyle.org",
+        "city": "Kyle",
+        "state": "TX",
+        "registry": "https://kylepdtx.fususregistry.com/camera-registry",
+        "org": "kylepdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fef62d0f31f9001289b18c/d61c169ca04db769209819dd9a28ec93/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026729,
+          33.0183744
+        ]
+      },
+      "properties": {
+        "id": "plano",
+        "title": "Keep Plano Safe",
+        "url": "https://keepplanosafe.org",
+        "city": "Plano",
+        "state": "TX",
+        "registry": "https://planotx.fususregistry.com/camera-registry",
+        "org": "planotx",
+        "image": "https://cdn.swell.store/fusus-atlanta/672e76d2cc460900125159a1/67eecf27c8970353b6fdf90bb3c72260/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9575,
+          29.85499
+        ]
+      },
+      "properties": {
+        "id": "san-marcos",
+        "title": "Connect San Marcos",
+        "url": "https://connectsanmarcos.org",
+        "city": "San Marcos",
+        "state": "TX",
+        "registry": "https://sanmarcospdtx.fususregistry.com/camera-registry",
+        "org": "sanmarcospdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/68b9fa4bf7d6f300115a85d4/d5a22925fca4041f97213e8d26646b5d?width=1500&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55457,
+          32.67012
+        ]
+      },
+      "properties": {
+        "id": "seagoville",
+        "title": "Seagoville Connect and Protect",
+        "url": "https://seagovilleconnectandprotect.org",
+        "city": "Seagoville",
+        "state": "TX",
+        "registry": "https://seagovillepdtx.fususregistry.com/camera-registry",
+        "org": "seagovillepdtx",
+        "image": "https://cdn.swell.store/fusus-atlanta/69f4b507c0d2000012b1075a/08e80564bc6addb109e567a5984c9090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.09450969999999,
+          30.0803512
+        ]
+      },
+      "properties": {
+        "id": "beaumont",
+        "title": "Connect Southeast Texas",
+        "url": "https://connectsetx.org",
+        "city": "Southeast Texas",
+        "state": "TX",
+        "registry": "https://beaumonttx.fususregistry.com/camera-registry",
+        "org": "beaumonttx",
+        "image": "https://cdn.swell.store/fusus-atlanta/6626d54f4c47a400128cbdb0/1e959e57300b95170c03a31a566125be/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.50534,
+          27.50831
+        ]
+      },
+      "properties": {
+        "id": "webb-co",
+        "title": "Connect Webb County",
+        "url": "https://connectwebbcounty.org",
+        "city": "Webb County",
+        "state": "TX",
+        "registry": "https://webbcountyso.fususregistry.com/camera-registry",
+        "org": "webbcountyso",
+        "image": "https://cdn.swell.store/fusus-atlanta/683eebdad186cd00120b2cf6/2a8ccf340574341f1acf6de212fa03c0?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5078229,
+          37.3764746
+        ]
+      },
+      "properties": {
+        "id": "chesterfield",
+        "title": "Chesterfield Community Connect Program",
+        "url": "https://connectchesterfield.org",
+        "city": "Chesterfield County",
+        "state": "VA",
+        "registry": "https://chesterfieldcounty.fususregistry.com/camera-registry",
+        "org": "chesterfieldcounty",
+        "image": "https://cdn.schema.io/fusus-atlanta/6335aaea3203b800122f63aa/72bc4014ae4c82fe3a580a75d5c7043c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.434776,
+          36.5708558
+        ]
+      },
+      "properties": {
+        "id": "danville",
+        "title": "One Community, Connect Danville",
+        "url": "https://onecommunityconnectdanville.org",
+        "city": "Danville",
+        "state": "VA",
+        "registry": "https://danvillepd.fususregistry.com/camera-registry/",
+        "org": "danvillepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f6f8d25516e0012cc7bcf/3efe4381dd6b44983998174803fbf35b/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3564846,
+          38.8540458
+        ]
+      },
+      "properties": {
+        "id": "fairfax-co",
+        "title": "Connect Fairfax County",
+        "url": "https://connectfairfaxcounty.org",
+        "city": "Fairfax County",
+        "state": "VA",
+        "registry": "https://fairfaxcopd.fususregistry.com/camera-registry",
+        "org": "fairfaxcopd",
+        "image": "https://cdn.swell.store/fusus-atlanta/674fe84619669a00115bba8c/fecb5099c6a634ecd23ce023d5b5f608?width=1600&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34321,
+          37.02888
+        ]
+      },
+      "properties": {
+        "id": "hampton",
+        "title": "Connect Hampton",
+        "url": "https://connecthampton.org",
+        "city": "Hampton",
+        "state": "VA",
+        "registry": "https://hamptonpdva.fususregistry.com/camera-registry",
+        "org": "hamptonpdva",
+        "image": "https://cdn.swell.store/fusus-atlanta/682f2ccfe2153b00122277ce/17fc6e51a336f20ee0c4e63ea8b3dbc5?width=800&height=800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52873,
+          37.6305
+        ]
+      },
+      "properties": {
+        "id": "henrico-co",
+        "title": "Connect Henrico County",
+        "url": "https://connecthenricocounty.org",
+        "city": "Henrico County",
+        "state": "VA",
+        "registry": "https://henricocountypdva.fususregistry.com/camera-registry",
+        "org": "henricocountypdva",
+        "image": "https://cdn.swell.store/fusus-atlanta/69037d0c0559d100123c3d60/6fb0278fc4a4677aef899241ec51b29b?width=1600&height=600&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37182,
+          38.9611
+        ]
+      },
+      "properties": {
+        "id": "herndon",
+        "title": "Connect Herndon",
+        "url": "https://connectherndonpd.org",
+        "city": "Herndon",
+        "state": "VA",
+        "registry": "https://herndonpdva.fususregistry.com/camera-registry",
+        "org": "herndonpdva",
+        "image": "https://cdn.swell.store/fusus-atlanta/69e2388befea0d001167ec91/a5104928bc3de6e54d46462ede7a3a7a?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1444442,
+          37.4133299
+        ]
+      },
+      "properties": {
+        "id": "lynchburg",
+        "title": "Hill City Connect",
+        "url": "https://hillcityconnect.com",
+        "city": "Lynchburg",
+        "state": "VA",
+        "registry": "https://lynchburgpd.fususregistry.com/camera-registry",
+        "org": "lynchburgpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/675b0da1aafd1900125f9d68/eec5f22dc4776317a83844b7a41ccc70/background-1.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47519,
+          38.7466
+        ]
+      },
+      "properties": {
+        "id": "manassas",
+        "title": "Connect Manassas City",
+        "url": "https://keepmanassasvasafe.org",
+        "city": "Manassas City",
+        "state": "VA",
+        "registry": "https://manassaspdva.fususregistry.com/camera-registry",
+        "org": "manassaspdva",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a2853647c95e80012396477/8eed9392974e9f20f86c8635ea55d5af?width=1600&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44984,
+          37.02977
+        ]
+      },
+      "properties": {
+        "id": "newport-news",
+        "title": "Connect Newport News",
+        "url": "https://connectnewportnews.org",
+        "city": "Newport News",
+        "state": "VA",
+        "registry": "https://newportnewspd.fususregistry.com/camera-registry",
+        "org": "newportnewspd",
+        "image": "https://cdn.swell.store/fusus-atlanta/682626cc6237d80012993b3b/f071c56d072df23f1f50c7cec3170ba7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23641529999999,
+          36.8543907
+        ]
+      },
+      "properties": {
+        "id": "norfolk",
+        "title": "Connect Norfolk",
+        "url": "https://connectnorfolk.org",
+        "city": "Norfolk",
+        "state": "VA",
+        "registry": "https://norfolkpd.fususregistry.com/camera-registry",
+        "org": "norfolkpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/63ff8cbf0f138f00144dcf2c/9166c7fda010848f2f20ad4cd4e713ae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4024194,
+          37.2310371
+        ]
+      },
+      "properties": {
+        "id": "petersburg",
+        "title": "Connect Petersburg",
+        "url": "https://connectpetersburg.org",
+        "city": "Petersburg",
+        "state": "VA",
+        "registry": "https://petersburgpd.fususregistry.com/camera-registry",
+        "org": "petersburgpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f3bfe64328f0013dbc90e/6a42a55cb0ed424965e568d1d6bf7dea/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2990672,
+          36.8358858
+        ]
+      },
+      "properties": {
+        "id": "portsmouth",
+        "title": "Portsmouth Connect",
+        "url": "https://connectportsmouthva.org",
+        "city": "Portsmouth",
+        "state": "VA",
+        "registry": "https://portsmouthpd.fususregistry.com/camera-registry",
+        "org": "portsmouthpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/66fdaa3c9965400012225926/c04a0f4d056949edca952b5803f4985e/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44464959999999,
+          37.5463451
+        ]
+      },
+      "properties": {
+        "id": "richmond",
+        "title": "Connect Richmond",
+        "url": "https://richmondconnect.org",
+        "city": "Richmond",
+        "state": "VA",
+        "registry": "https://richmondva.fususregistry.com/camera-registry",
+        "org": "richmondva",
+        "image": "https://cdn.swell.store/fusus-atlanta/6633e26b36f8a90012234544/dc7996112a0e502fe83f9c50778a2b57/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.05741689999999,
+          36.7510134
+        ]
+      },
+      "properties": {
+        "id": "va-beach",
+        "title": "Connect Virginia Beach",
+        "url": "https://keepvirginiabeachsafe.org",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "registry": "https://virginiabeachpd.fususregistry.com/camera-registry",
+        "org": "virginiabeachpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/665f43ead4472400129db611/2dc46277b39694c80fc8be09088b1bef/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32666,
+          47.30409
+        ]
+      },
+      "properties": {
+        "id": "federal-way",
+        "title": "Connect Federal Way",
+        "url": "https://connectfederalway.org",
+        "city": "Federal Way",
+        "state": "WA",
+        "registry": "https://federalwaypdwa.fususregistry.com/camera-registry",
+        "org": "federalwaypdwa",
+        "image": "https://cdn.swell.store/fusus-atlanta/6973b2e9a10bd50012e33601/cebb63109b6068cf94aed22f665c0a50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.09009,
+          46.23619
+        ]
+      },
+      "properties": {
+        "id": "pasco",
+        "title": "OnePasco",
+        "url": "https://onepasco.org",
+        "city": "Pasco",
+        "state": "WA",
+        "registry": "https://pascopdwa.fususregistry.com/camera-registry",
+        "org": "pascopdwa",
+        "image": "https://cdn.swell.store/fusus-atlanta/69d6786ce537ae0012073415/e9f910afd99e910554d1de5efc8c4ba2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20469,
+          47.47487
+        ]
+      },
+      "properties": {
+        "id": "renton",
+        "title": "Connect Renton",
+        "url": "https://connectrenton.org",
+        "city": "Renton",
+        "state": "WA",
+        "registry": "https://rentonpdwa.fususregistry.com/camera-registry",
+        "org": "rentonpdwa",
+        "image": "https://cdn.swell.store/fusus-atlanta/69a1b52e9a457c0012fd05f5/d8dfaa2972c93b75cf5e6d5f8a329ac8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32931,
+          47.60444
+        ]
+      },
+      "properties": {
+        "id": "seattle",
+        "title": "Connect Seattle",
+        "url": "https://communityconnectseattle.org",
+        "city": "Seattle",
+        "state": "WA",
+        "registry": "https://seattlepd.fususregistry.com/camera-registry",
+        "org": "seattlepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6931ce3b7acb980012fe23a1/ef07855a9ccbe92212410b85505d5fe4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42894,
+          47.66562
+        ]
+      },
+      "properties": {
+        "id": "spokane-co",
+        "title": "Connect Spokane County",
+        "url": "https://connectspokanecounty.org",
+        "city": "Spokane County",
+        "state": "WA",
+        "registry": "https://spokanecsowa.fususregistry.com/camera-registry",
+        "org": "spokanecsowa",
+        "image": "https://cdn.swell.store/fusus-atlanta/685d49e02c93f70012ba06b7/c8220124e7812d05e5a2e5e68d1fb197?width=1800&height=600&anchor=top"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9212718,
+          43.0426483
+        ]
+      },
+      "properties": {
+        "id": "milwaukee",
+        "title": "Community Connect Milwaukee",
+        "url": "https://communityconnectmilwaukee.org",
+        "city": "Milwaukee",
+        "state": "WI",
+        "registry": "https://milwaukeepd.fususregistry.com/camera-registry",
+        "org": "milwaukeepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6679a75c80e46a00136db60f/7762aa7017e1b40e0b271d30e357e1a0/background.jpg"
+      }
+    }
+  ]
+}

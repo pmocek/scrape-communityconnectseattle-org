@@ -38,8 +38,42 @@ def main():
     with open(OUTPUT_FILE, "w") as f:
         json.dump(data, f, indent=2)
         
-    print(f"Successfully updated portals list. Saved to {OUTPUT_FILE}")
+    # Write GeoJSON
+    geojson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+    for item in data:
+        coords = item.get("location", {}).get("coords", {})
+        lat = coords.get("lat")
+        lng = coords.get("lng")
+        if lat is not None and lng is not None:
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [lng, lat]
+                },
+                "properties": {
+                    "id": item.get("id"),
+                    "title": item.get("title"),
+                    "url": item.get("url"),
+                    "city": item.get("location", {}).get("city"),
+                    "state": item.get("location", {}).get("state"),
+                    "registry": item.get("registry"),
+                    "org": item.get("org"),
+                    "image": item.get("image")
+                }
+            }
+            geojson["features"].append(feature)
+            
+    GEOJSON_OUTPUT = Path(__file__).parent / "fusus-portals.geojson"
+    with open(GEOJSON_OUTPUT, "w") as f:
+        json.dump(geojson, f, indent=2)
+        
+    print(f"Successfully updated portals list. Saved to {OUTPUT_FILE} and {GEOJSON_OUTPUT}")
 
 if __name__ == "__main__":
     main()
+
 
