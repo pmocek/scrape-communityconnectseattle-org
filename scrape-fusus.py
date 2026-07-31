@@ -44,12 +44,41 @@ def scrape_one(loc):
             # Ensure directories exist
             slug_dir.mkdir(parents=True, exist_ok=True)
             
-            # Write stats.jsonl (append)
-            stats_line = {"ts": ts, **stats}
-            with open(slug_dir / "stats.jsonl", "a") as f:
-                f.write(json.dumps(stats_line) + "\n")
+            # Check if counts have actually changed from the last recorded line
+            stats_file = slug_dir / "stats.jsonl"
+            should_write = True
+            if stats_file.exists():
+                try:
+                    with open(stats_file, "r") as f:
+                        lines = f.readlines()
+                        if lines:
+                            last_line = ""
+                            for line in reversed(lines):
+                                if line.strip():
+                                    last_line = line.strip()
+                                    break
+                            if last_line:
+                                last_stats = json.loads(last_line)
+                                keys_to_compare = [
+                                    "totalRegisteredCameras",
+                                    "totalIntegratedCameras",
+                                    "totalOwnedCameras",
+                                    "totalSharedCameras",
+                                    "totalMaxCameras",
+                                    "subscribedCameras"
+                                ]
+                                if all(last_stats.get(k) == stats.get(k) for k in keys_to_compare):
+                                    should_write = False
+                except Exception:
+                    should_write = True
+
+            if should_write:
+                # Write stats.jsonl (append)
+                stats_line = {"ts": ts, **stats}
+                with open(stats_file, "a") as f:
+                    f.write(json.dumps(stats_line) + "\n")
                 
-            return {"slug": slug, "success": True, "stats": stats}
+            return {"slug": slug, "success": True, "stats": stats, "wrote": should_write}
             
     except urllib.error.HTTPError as e:
         slug_dir.mkdir(parents=True, exist_ok=True)
@@ -98,7 +127,8 @@ def main():
                 if res["success"]:
                     reg = res["stats"].get("totalRegisteredCameras", 0)
                     integ = res["stats"].get("totalIntegratedCameras", 0)
-                    print(f"  {res['slug']}: OK (Registered: {reg}, Integrated: {integ})")
+                    status_str = "updated" if res.get("wrote") else "no change"
+                    print(f"  {res['slug']}: OK ({status_str} - Registered: {reg}, Integrated: {integ})")
                 else:
                     print(f"  {res['slug']}: FAILED - {res['error']}")
             except Exception as e:

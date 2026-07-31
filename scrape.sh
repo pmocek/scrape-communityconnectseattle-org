@@ -1,6 +1,10 @@
 #!/bin/bash
+# Automatically discover and update the list of Fusus portals and geojson
+./update-portals.py
+
 # Fetch camera stats for all Fusus portals
 ./scrape-fusus.py
+
 
 
 # Download Seattle specific web pages for page diff tracking
