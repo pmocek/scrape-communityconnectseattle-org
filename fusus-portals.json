@@ -848,6 +848,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/68385648218e700011f968e0/8e66f9a060d0510952670fc9458dc5c3?width=1600&height=600"
   },
   {
+    "id": "stockton",
+    "title": "SaferStockton",
+    "url": "https://saferstockton.org",
+    "location": {
+      "city": "Stockton",
+      "state": "CA",
+      "coords": {
+        "lat": 37.95138,
+        "lng": -121.29005
+      }
+    },
+    "registry": "https://stocktonpdca.fususregistry.com/camera-registry",
+    "org": "stocktonpdca",
+    "image": "https://cdn.swell.store/fusus-atlanta/69d7c1330f587300128660f4/4269bbe2b2df76a80cd0e0c59935b3bc"
+  },
+  {
     "id": "torrance",
     "title": "Secure Torrance",
     "url": "https://securetorrance.org",
@@ -1392,9 +1408,9 @@
     "image": "https://cdn.schema.io/fusus-atlanta/636e794da29dfe0012fa3232/7d08b18f70d224342f9eeb068cde2185?width=1600&height=800"
   },
   {
-    "id": "martin-co-reg",
+    "id": "martin-co",
     "title": "Connect Martin County",
-    "url": "https://martinconnectregistry.org",
+    "url": "https://martinconnect.org",
     "location": {
       "city": "Martin County",
       "state": "FL",
@@ -1408,9 +1424,9 @@
     "image": "https://cdn.swell.store/fusus-atlanta/66f32329bd349000124b8f2e/9adf72d16629f7ee20c9e55ffc5b4c9c/background.jpg"
   },
   {
-    "id": "martin-co",
+    "id": "martin-co-reg",
     "title": "Connect Martin County",
-    "url": "https://martinconnect.org",
+    "url": "https://martinconnectregistry.org",
     "location": {
       "city": "Martin County",
       "state": "FL",
@@ -1470,6 +1486,22 @@
     "registry": "https://miamidadepd.fususregistry.com/camera-registry",
     "org": "miamidadepd",
     "image": "https://cdn.swell.store/fusus-atlanta/664794ab861edf0012479771/23f479f99036c9eecc87de90343a0144/background.jpg"
+  },
+  {
+    "id": "new-port-ri",
+    "title": "Connect New Port Richey",
+    "url": "https://connectnewportrichey.org",
+    "location": {
+      "city": "New Port Richey",
+      "state": "FL",
+      "coords": {
+        "lat": 28.25572,
+        "lng": -82.71919
+      }
+    },
+    "registry": "https://connectnewportrichey.fususregistry.com/camera-registry",
+    "org": "connectnewportrichey",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a3d2501747df70012d62c4d/a7543d0802ad99aa142f939f4e76a3b9"
   },
   {
     "id": "north-port",
@@ -2016,6 +2048,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/69f3b8f790f68f0012394edf/9f9b113a04ccda495087462c8e3a3cad"
   },
   {
+    "id": "lawrenceville",
+    "title": "Connect Lawrenceville",
+    "url": "https://lawrencevilleconnect.org",
+    "location": {
+      "city": "Lawrenceville, Georgia",
+      "state": "GA",
+      "coords": {
+        "lat": 33.95185,
+        "lng": -83.98237
+      }
+    },
+    "registry": "https://lawrencevillepdga.fususregistry.com/camera-registry",
+    "org": "lawrencevillepdga",
+    "image": "https://cdn.swell.store/fusus-atlanta/6847293ce15ff50012c16620/079f5f18a74c871ed9299307dfaf6e52?width=1500&height=600"
+  },
+  {
     "id": "newton-county",
     "title": "Connect Newton County",
     "url": "https://connectnewtoncounty.org",
@@ -2496,6 +2544,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/66fff416ee8efb0013e1e198/bb04b0ed93916c7c5ccf31b5956dd550/background.jpg"
   },
   {
+    "id": "uni-illinois",
+    "title": "Connect University of Illinois Urbana-Champaign",
+    "url": "https://connectuipd.org",
+    "location": {
+      "city": "University of Illinois Urbana-Champaign",
+      "state": "IL",
+      "coords": {
+        "lat": 40.1136,
+        "lng": -88.22358
+      }
+    },
+    "registry": "https://uillinoispd.fususregistry.com/camera-registry",
+    "org": "uillinoispd",
+    "image": "https://cdn.swell.store/fusus-atlanta/688382eeac7c6b0012c151c9/71d6b221cc19c87a57980d2f2b0fe137?width=1800&height=600"
+  },
+  {
     "id": "wheaton",
     "title": "Connect Wheaton",
     "url": "https://connectwheaton.org",
@@ -2622,6 +2686,22 @@
     "registry": "https://lenexapdks.fususregistry.com/camera-registry",
     "org": "lenexapdks",
     "image": "https://cdn.swell.store/fusus-atlanta/69a70482943cb50012442c5c/05334cb0d1c7628ba9750678be86a272?width=1600&height=600&anchor=bottom"
+  },
+  {
+    "id": "overland-park",
+    "title": "Secure OP",
+    "url": "https://secureop.org",
+    "location": {
+      "city": "Overland Park",
+      "state": "KS",
+      "coords": {
+        "lat": 38.90424,
+        "lng": -94.673009
+      }
+    },
+    "registry": "https://overlandparkpdks.fususregistry.com/camera-registry",
+    "org": "overlandparkpdks",
+    "image": "https://cdn.swell.store/fusus-atlanta/6970e80b7b7d970012eed483/09ce499e2bdcb6e62faec6a84ebc8f89"
   },
   {
     "id": "prairie-village",
@@ -3632,6 +3712,38 @@
     "image": "https://cdn.schema.io/fusus-atlanta/62bc821b321b77001930d1c5/e3ddc774e1b0f40053f0c473706f92c3"
   },
   {
+    "id": "wake-co",
+    "title": "Connect Wake County",
+    "url": "https://connectwakeso.org",
+    "location": {
+      "city": "Wake County",
+      "state": "NC",
+      "coords": {
+        "lat": 35.77623,
+        "lng": -78.6408
+      }
+    },
+    "registry": "https://wakecounty.fususregistry.com/camera-registry",
+    "org": "wakecounty",
+    "image": "https://cdn.swell.store/fusus-atlanta/69aaf2b9fab4450012b98879/b479e5a067478e263c8622571420d242"
+  },
+  {
+    "id": "wilmington",
+    "title": "Connect Wilmington",
+    "url": "https://keepwilmingtonsafe.org",
+    "location": {
+      "city": "Wilmington",
+      "state": "NC",
+      "coords": {
+        "lat": 34.25302,
+        "lng": -77.94172
+      }
+    },
+    "registry": "https://wilmingtonnc.fususregistry.com/camera-registry",
+    "org": "wilmingtonnc",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a284efd666b6e00127faa44/54664d5a3bc4cf7e943b2da794c5c304"
+  },
+  {
     "id": "omaha",
     "title": "Connect Omaha",
     "url": "https://cityofomahaconnect.org",
@@ -4096,6 +4208,22 @@
     "image": "https://cdn.schema.io/fusus-atlanta/63a31db8593e1f001243ec3c/33fdb715fc980b6275e466f1ab8ad557?width=1600&height=600"
   },
   {
+    "id": "manheim-town",
+    "title": "Connect Manheim Township",
+    "url": "https://connectmtpd.org",
+    "location": {
+      "city": "Manheim Township",
+      "state": "PA",
+      "coords": {
+        "lat": 40.07675,
+        "lng": -76.29835
+      }
+    },
+    "registry": "https://manheimtwp.fususregistry.com/camera-registry",
+    "org": "manheimtwp",
+    "image": "https://cdn.swell.store/fusus-atlanta/69de5e41025d0f001282307d/bfd4a6733007f01373d155ad5e7c40d9?width=560&height=280&anchor=bottom"
+  },
+  {
     "id": "charleston",
     "title": "Connect Charleston",
     "url": "https://charlestonconnect.org",
@@ -4286,6 +4414,22 @@
     "registry": "https://sumnercounty.fususregistry.com/camera-registry",
     "org": "sumnercounty",
     "image": "https://cdn.swell.store/fusus-atlanta/67b8b19020bd1f00123e44bd/89e2c6654a1b7c742da8b5f17213441a"
+  },
+  {
+    "id": "williamson-co",
+    "title": "Connect Williamson",
+    "url": "https://connectwilliamson.org",
+    "location": {
+      "city": "Williamson County",
+      "state": "TN",
+      "coords": {
+        "lat": 35.90002,
+        "lng": -86.88498
+      }
+    },
+    "registry": "https://williamsoncsotn.fususregistry.com/camera-registry",
+    "org": "williamsoncsotn",
+    "image": "https://cdn.swell.store/fusus-atlanta/69de8172f6f18c0012a29eb3/3ed5225f7e16095df675e4add1a34e2a"
   },
   {
     "id": "amarillo",
@@ -4672,6 +4816,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/675b0da1aafd1900125f9d68/eec5f22dc4776317a83844b7a41ccc70/background-1.webp"
   },
   {
+    "id": "manassas",
+    "title": "Connect Manassas City",
+    "url": "https://keepmanassasvasafe.org",
+    "location": {
+      "city": "Manassas City",
+      "state": "VA",
+      "coords": {
+        "lat": 38.7466,
+        "lng": -77.47519
+      }
+    },
+    "registry": "https://manassaspdva.fususregistry.com/camera-registry",
+    "org": "manassaspdva",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a2853647c95e80012396477/8eed9392974e9f20f86c8635ea55d5af?width=1600&height=500"
+  },
+  {
     "id": "newport-news",
     "title": "Connect Newport News",
     "url": "https://connectnewportnews.org",
@@ -4782,6 +4942,38 @@
     "registry": "https://federalwaypdwa.fususregistry.com/camera-registry",
     "org": "federalwaypdwa",
     "image": "https://cdn.swell.store/fusus-atlanta/6973b2e9a10bd50012e33601/cebb63109b6068cf94aed22f665c0a50"
+  },
+  {
+    "id": "pasco",
+    "title": "OnePasco",
+    "url": "https://onepasco.org",
+    "location": {
+      "city": "Pasco",
+      "state": "WA",
+      "coords": {
+        "lat": 46.23619,
+        "lng": -119.09009
+      }
+    },
+    "registry": "https://pascopdwa.fususregistry.com/camera-registry",
+    "org": "pascopdwa",
+    "image": "https://cdn.swell.store/fusus-atlanta/69d6786ce537ae0012073415/e9f910afd99e910554d1de5efc8c4ba2"
+  },
+  {
+    "id": "renton",
+    "title": "Connect Renton",
+    "url": "https://connectrenton.org",
+    "location": {
+      "city": "Renton",
+      "state": "WA",
+      "coords": {
+        "lat": 47.47487,
+        "lng": -122.20469
+      }
+    },
+    "registry": "https://rentonpdwa.fususregistry.com/camera-registry",
+    "org": "rentonpdwa",
+    "image": "https://cdn.swell.store/fusus-atlanta/69a1b52e9a457c0012fd05f5/d8dfaa2972c93b75cf5e6d5f8a329ac8"
   },
   {
     "id": "seattle",
