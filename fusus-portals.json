@@ -240,6 +240,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/6945a5de7bea6f00128d4aba/5dd02276d004d7babb4e048a8aab21f5"
   },
   {
+    "id": "apache-jun",
+    "title": "Connect Apache Junction",
+    "url": "https://connectaj.org",
+    "location": {
+      "city": "Apache Junction",
+      "state": "AZ",
+      "coords": {
+        "lat": 33.42398,
+        "lng": -111.54514
+      }
+    },
+    "registry": "https://apachejunctionpdaz.fususregistry.com/camera-registry",
+    "org": "apachejunctionpdaz",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a105f9085a37c00126f0fc3/2cc36a5ab51765a1a90127e73b0c4c19"
+  },
+  {
     "id": "peoria-az",
     "title": "Connect Peoria",
     "url": "https://connectpeoriaaz.org",
@@ -510,6 +526,22 @@
     "registry": "https://lasd.fususregistry.com/camera-registry",
     "org": "lasd",
     "image": "https://cdn.swell.store/fusus-atlanta/66297a066439250012d20317/aa99fa9347103bdfcfb194c81be10898/background.jpg"
+  },
+  {
+    "id": "los-gatos",
+    "title": "Community Protecht",
+    "url": "https://communityprotecht.org",
+    "location": {
+      "city": "Los Gatos",
+      "state": "CA",
+      "coords": {
+        "lat": 37.22062,
+        "lng": -121.9787
+      }
+    },
+    "registry": "https://losgatospdca.fususregistry.com/camera-registry",
+    "org": "losgatospdca",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a0609ec208ca30012e54eb1/b5243d1e0bfd3b6e7095ff2760d3cd61?width=1400&height=600"
   },
   {
     "id": "manhattan-beach",
@@ -1230,6 +1262,22 @@
     "registry": "https://clermontpd.fususregistry.com/camera-registry",
     "org": "clermontpd",
     "image": "https://cdn.swell.store/fusus-atlanta/66d0b41daad95000122b2bf2/70d2f4673d5a154a0b1adbd55dad244d/background.jpg"
+  },
+  {
+    "id": "crestview",
+    "title": "Connect Crestview",
+    "url": "https://keepcrestviewsafe.org",
+    "location": {
+      "city": "Crestview",
+      "state": "FL",
+      "coords": {
+        "lat": 30.77384,
+        "lng": -86.56225
+      }
+    },
+    "registry": "https://crestviewpdfl.fususregistry.com/camera-registry",
+    "org": "crestviewpdfl",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a6103ed06e0c80012265d97/53d27679e934994059c2b363525648d6"
   },
   {
     "id": "daytona-beach",
@@ -2672,6 +2720,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/684c31834b5858001120ba60/36dbb95f6de211613cc517f8d8ac8dc9?width=1500&height=600"
   },
   {
+    "id": "leavenworth",
+    "title": "Connect Leavenworth",
+    "url": "https://connectleavenworth.org",
+    "location": {
+      "city": "Leavenworth",
+      "state": "KS",
+      "coords": {
+        "lat": 39.31444,
+        "lng": -94.91063
+      }
+    },
+    "registry": "https://leavenworthpdks.fususregistry.com/camera-registry",
+    "org": "leavenworthpdks",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a5539521779820012fef456/e59bfb1be3b1b10ffe5ace8fad97e10e"
+  },
+  {
     "id": "lenexa",
     "title": "Connect Lenexa",
     "url": "https://connectlenexa.org",
@@ -3888,6 +3952,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/66450dc0c407f20012153e3a/d47d7b834363e8920950fe3b064e1801/background.jpg"
   },
   {
+    "id": "carlsbad",
+    "title": "Connect Carlsbad",
+    "url": "https://connectcarlsbad.org",
+    "location": {
+      "city": "Carlsbad",
+      "state": "NM",
+      "coords": {
+        "lat": 32.42103,
+        "lng": -104.23326
+      }
+    },
+    "registry": "https://carlsbadpdnm.fususregistry.com/camera-registry",
+    "org": "carlsbadpdnm",
+    "image": "https://cdn.swell.store/fusus-atlanta/69d7bd2d2aa3ab0013ae5d24/1bd83cc47081c69ec179c127fc634008?width=1800&height=700"
+  },
+  {
     "id": "farmington",
     "title": "Connect Farmington",
     "url": "https://connectfarmington.org",
@@ -4046,6 +4126,22 @@
     "registry": "https://saratogaspringspdny.fususregistry.com/camera-registry",
     "org": "saratogaspringspdny",
     "image": "https://cdn.swell.store/fusus-atlanta/687a49e2cccc4000120b32cb/f228a3f5abd746baafc6272e1c805176"
+  },
+  {
+    "id": "schenectady",
+    "title": "Connect Schenectady",
+    "url": "https://connectady.org",
+    "location": {
+      "city": "Schenectady",
+      "state": "NY",
+      "coords": {
+        "lat": 42.8152,
+        "lng": -73.93686
+      }
+    },
+    "registry": "https://schenectadypdny.fususregistry.com/camera-registry",
+    "org": "schenectadypdny",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a43ddca86d70f001300d0f1/452dabae71d42e0945991c5375cd2622?width=1800&height=700"
   },
   {
     "id": "cincinnati",
@@ -4222,6 +4318,22 @@
     "registry": "https://manheimtwp.fususregistry.com/camera-registry",
     "org": "manheimtwp",
     "image": "https://cdn.swell.store/fusus-atlanta/69de5e41025d0f001282307d/bfd4a6733007f01373d155ad5e7c40d9?width=560&height=280&anchor=bottom"
+  },
+  {
+    "id": "scranton",
+    "title": "Connect Scranton",
+    "url": "https://safescranton.com",
+    "location": {
+      "city": "Scranton",
+      "state": "PA",
+      "coords": {
+        "lat": 41.40605,
+        "lng": -75.66675
+      }
+    },
+    "registry": "https://scrantonpd.fususregistry.com/camera-registry",
+    "org": "scrantonpd",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a58db12255f540012c072b8/599e9955a13908233694a637e9641493"
   },
   {
     "id": "charleston",
