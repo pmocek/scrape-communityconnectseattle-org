@@ -1226,6 +1226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.25077,
+          40.01837
+        ]
+      },
+      "properties": {
+        "id": "boulder",
+        "title": "Boulder Community Connect",
+        "url": "https://bouldercommunityconnect.org",
+        "city": "Boulder",
+        "state": "CO",
+        "registry": "https://boulderpdco.fususregistry.com/camera-registry",
+        "org": "boulderpdco",
+        "image": "https://cdn.swell.store/fusus-atlanta/69dcf3a33dad5c0012d7c098/235e2b5d21d7a26860553f0c480cbb70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.8218762,
           38.8242393
         ]
@@ -1339,6 +1359,26 @@
         "registry": "https://newhavenct.fususregistry.com/camera-registry",
         "org": "newhavenct",
         "image": "https://cdn.swell.store/fusus-atlanta/6671c3d57e7f870011297e3f/a96abbb518ef5c2f2a7cdf9aa63a4c6a/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.09595,
+          41.35715
+        ]
+      },
+      "properties": {
+        "id": "new-london",
+        "title": "Connect New London",
+        "url": "https://connectnewlondon.org",
+        "city": "New London",
+        "state": "CT",
+        "registry": "https://newlondonpdct.fususregistry.com/camera-registry",
+        "org": "newlondonpdct",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a58dca610f88600123785d9/67c29974356fd01d9996d07fa5f8294a"
       }
     },
     {
@@ -3026,6 +3066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.14554,
+          41.98814
+        ]
+      },
+      "properties": {
+        "id": "hanover-park",
+        "title": "Connect Hanover Park",
+        "url": "https://connecthanoverpark.org",
+        "city": "Hanover Park",
+        "state": "IL",
+        "registry": "https://hanoverparkpdil.fususregistry.com/camera-registry",
+        "org": "hanoverparkpdil",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a2857b983f5090012a5937c/e2f65700b965ac898e166f62d9daea28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.6709,
           41.61201
         ]
@@ -4706,6 +4766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.79878,
+          35.93994
+        ]
+      },
+      "properties": {
+        "id": "rocky-mount",
+        "title": "Connect Rocky Mount",
+        "url": "https://connectrockymount.org",
+        "city": "Rocky Mount",
+        "state": "NC",
+        "registry": "https://rockymountpd.fususregistry.com/camera-registry/",
+        "org": "rockymountpd",
+        "image": "https://cdn.schema.io/fusus-atlanta/6390b1069516060012166710/1cdbad2a051432e9911bffcb5501779b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.248469,
           36.1041318
         ]
@@ -5326,6 +5406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -98.38666,
+          34.60765
+        ]
+      },
+      "properties": {
+        "id": "lawton",
+        "title": "Connect Lawton",
+        "url": "https://connectlawton.org",
+        "city": "Lawton",
+        "state": "OK",
+        "registry": "https://lawtonpdok.fususregistry.com/camera-registry",
+        "org": "lawtonpdok",
+        "image": "https://cdn.swell.store/fusus-atlanta/69fa0c8ba8de88001226db3d/0c5042a21bf1dca3f972137eb1ef1e3d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.52523409999999,
           35.4682986
         ]
@@ -5866,6 +5966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.80503,
+          32.44456
+        ]
+      },
+      "properties": {
+        "id": "hood-co",
+        "title": "Connect Hood County",
+        "url": "https://connecthoodcounty.org",
+        "city": "Hood County",
+        "state": "TX",
+        "registry": "https://hoodcoso.fususregistry.com/camera-registry",
+        "org": "hoodcoso",
+        "image": "https://cdn.swell.store/fusus-atlanta/69f4b17de798d40012f4f8ae/7fb8d28f4f3c0bf67a31fa1f22e797ea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.950895,
           32.8163703
         ]
@@ -6359,6 +6479,26 @@
         "registry": "https://rentonpdwa.fususregistry.com/camera-registry",
         "org": "rentonpdwa",
         "image": "https://cdn.swell.store/fusus-atlanta/69a1b52e9a457c0012fd05f5/d8dfaa2972c93b75cf5e6d5f8a329ac8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2747,
+          46.2785
+        ]
+      },
+      "properties": {
+        "id": "richland",
+        "title": "Connect Richland",
+        "url": "https://connectrichland.org",
+        "city": "Richland",
+        "state": "WA",
+        "registry": "https://richlandpdwa.fususregistry.com/camera-registry",
+        "org": "richlandpdwa",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a15eb06ca61120012014ea2/34ec95592ef0712517505f6e21bc0a0e"
       }
     },
     {

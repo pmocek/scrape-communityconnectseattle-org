@@ -976,6 +976,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/669ea678055c31001200f70f/de7b540a8b81f708a03ffcd9a3a37136/background.jpg"
   },
   {
+    "id": "boulder",
+    "title": "Boulder Community Connect",
+    "url": "https://bouldercommunityconnect.org",
+    "location": {
+      "city": "Boulder",
+      "state": "CO",
+      "coords": {
+        "lat": 40.01837,
+        "lng": -105.25077
+      }
+    },
+    "registry": "https://boulderpdco.fususregistry.com/camera-registry",
+    "org": "boulderpdco",
+    "image": "https://cdn.swell.store/fusus-atlanta/69dcf3a33dad5c0012d7c098/235e2b5d21d7a26860553f0c480cbb70"
+  },
+  {
     "id": "colorado-springs",
     "title": "Together COS",
     "url": "https://togethercos.org",
@@ -1070,6 +1086,22 @@
     "registry": "https://newhavenct.fususregistry.com/camera-registry",
     "org": "newhavenct",
     "image": "https://cdn.swell.store/fusus-atlanta/6671c3d57e7f870011297e3f/a96abbb518ef5c2f2a7cdf9aa63a4c6a/background.jpg"
+  },
+  {
+    "id": "new-london",
+    "title": "Connect New London",
+    "url": "https://connectnewlondon.org",
+    "location": {
+      "city": "New London",
+      "state": "CT",
+      "coords": {
+        "lat": 41.35715,
+        "lng": -72.09595
+      }
+    },
+    "registry": "https://newlondonpdct.fususregistry.com/camera-registry",
+    "org": "newlondonpdct",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a58dca610f88600123785d9/67c29974356fd01d9996d07fa5f8294a"
   },
   {
     "id": "metro-dc",
@@ -2416,6 +2448,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/66d085c98cdbdc00123b374a/7f8b251d29221f59452eb8d5c22f52b6/background.jpg"
   },
   {
+    "id": "hanover-park",
+    "title": "Connect Hanover Park",
+    "url": "https://connecthanoverpark.org",
+    "location": {
+      "city": "Hanover Park",
+      "state": "IL",
+      "coords": {
+        "lat": 41.98814,
+        "lng": -88.14554
+      }
+    },
+    "registry": "https://hanoverparkpdil.fususregistry.com/camera-registry",
+    "org": "hanoverparkpdil",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a2857b983f5090012a5937c/e2f65700b965ac898e166f62d9daea28"
+  },
+  {
     "id": "harvey",
     "title": "Connect Harvey",
     "url": "https://connectharvey.org",
@@ -3760,6 +3808,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/68d408f36f90f80012002e86/86567a00e18974883c75321ba96d3bed"
   },
   {
+    "id": "rocky-mount",
+    "title": "Connect Rocky Mount",
+    "url": "https://connectrockymount.org",
+    "location": {
+      "city": "Rocky Mount",
+      "state": "NC",
+      "coords": {
+        "lat": 35.93994,
+        "lng": -77.79878
+      }
+    },
+    "registry": "https://rockymountpd.fususregistry.com/camera-registry/",
+    "org": "rockymountpd",
+    "image": "https://cdn.schema.io/fusus-atlanta/6390b1069516060012166710/1cdbad2a051432e9911bffcb5501779b"
+  },
+  {
     "id": "winston-salem",
     "title": "Connect Winston-Salem",
     "url": "https://connectwinstonsalem.org",
@@ -4256,6 +4320,22 @@
     "image": "https://cdn.schema.io/fusus-atlanta/63f7d84a37e81d001223c628/9795b8f7a778019a33d00a771272ba66?width=2000&height=800"
   },
   {
+    "id": "lawton",
+    "title": "Connect Lawton",
+    "url": "https://connectlawton.org",
+    "location": {
+      "city": "Lawton",
+      "state": "OK",
+      "coords": {
+        "lat": 34.60765,
+        "lng": -98.38666
+      }
+    },
+    "registry": "https://lawtonpdok.fususregistry.com/camera-registry",
+    "org": "lawtonpdok",
+    "image": "https://cdn.swell.store/fusus-atlanta/69fa0c8ba8de88001226db3d/0c5042a21bf1dca3f972137eb1ef1e3d"
+  },
+  {
     "id": "oklahoma-city",
     "title": "Connect Oklahoma City",
     "url": "https://connectoklahomacity.org",
@@ -4688,6 +4768,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/6851621cc7468e0012f17a16/910de9152a7e6b565c40703236c63b86"
   },
   {
+    "id": "hood-co",
+    "title": "Connect Hood County",
+    "url": "https://connecthoodcounty.org",
+    "location": {
+      "city": "Hood County",
+      "state": "TX",
+      "coords": {
+        "lat": 32.44456,
+        "lng": -97.80503
+      }
+    },
+    "registry": "https://hoodcoso.fususregistry.com/camera-registry",
+    "org": "hoodcoso",
+    "image": "https://cdn.swell.store/fusus-atlanta/69f4b17de798d40012f4f8ae/7fb8d28f4f3c0bf67a31fa1f22e797ea"
+  },
+  {
     "id": "irving",
     "title": "Connect Irving",
     "url": "https://connectirving.org",
@@ -5086,6 +5182,22 @@
     "registry": "https://rentonpdwa.fususregistry.com/camera-registry",
     "org": "rentonpdwa",
     "image": "https://cdn.swell.store/fusus-atlanta/69a1b52e9a457c0012fd05f5/d8dfaa2972c93b75cf5e6d5f8a329ac8"
+  },
+  {
+    "id": "richland",
+    "title": "Connect Richland",
+    "url": "https://connectrichland.org",
+    "location": {
+      "city": "Richland",
+      "state": "WA",
+      "coords": {
+        "lat": 46.2785,
+        "lng": -119.2747
+      }
+    },
+    "registry": "https://richlandpdwa.fususregistry.com/camera-registry",
+    "org": "richlandpdwa",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a15eb06ca61120012014ea2/34ec95592ef0712517505f6e21bc0a0e"
   },
   {
     "id": "seattle",
