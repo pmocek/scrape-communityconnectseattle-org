@@ -40,3 +40,4 @@
 {"ts": "2026-08-04T09:15:45.091287Z", "totalRegisteredCameras": 278, "totalIntegratedCameras": 664, "totalOwnedCameras": 661, "totalSharedCameras": 3, "totalMaxCameras": 1500, "subscribedCameras": 630}
 {"ts": "2026-08-28T18:50:02.095701Z", "totalRegisteredCameras": 285, "totalIntegratedCameras": 664, "totalOwnedCameras": 661, "totalSharedCameras": 3, "totalMaxCameras": 1500, "subscribedCameras": 630}
 {"ts": "2026-09-01T11:47:54.307259Z", "totalRegisteredCameras": 285, "totalIntegratedCameras": 668, "totalOwnedCameras": 665, "totalSharedCameras": 3, "totalMaxCameras": 1500, "subscribedCameras": 634}
+{"ts": "2026-09-02T11:28:44.461645Z", "totalRegisteredCameras": 285, "totalIntegratedCameras": 714, "totalOwnedCameras": 667, "totalSharedCameras": 3, "totalMaxCameras": 1500, "subscribedCameras": 636}
