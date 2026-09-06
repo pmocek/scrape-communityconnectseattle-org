@@ -1,0 +1,24 @@
+{
+  "id": "d202289b-83cf-494c-8090-f20a799d916d",
+  "name": "SCHENECTADY CITY POLICE DEPT. - NY",
+  "publicName": "Schenectady Police Department",
+  "logoUrl": null,
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/New_York",
+    "allowSsss": true,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": "Schenectady",
+    "state": "NY"
+  },
+  "mou": null,
+  "favicoUrl": null,
+  "loginVideoUrl": null,
+  "backgroundUrl": null,
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": true,
+  "registryHasMou": true,
+  "registryRequireEmailConfirmation": false
+}

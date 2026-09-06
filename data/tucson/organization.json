@@ -1,0 +1,27 @@
+{
+  "id": "86726ada-2f26-4362-91f2-01b008482bf0",
+  "name": "Tucson Police Dept - AZ",
+  "publicName": "Tucson Police Department",
+  "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/tucson%20pd-%20az/logos/999870cb-9ee8-45e0-b6cd-bcab3cd2393c.jpg",
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/Phoenix",
+    "allowSsss": true,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "mou": {
+    "updatedTimestamp": "2025-05-07T19:43:55.946636Z",
+    "mouTemplate": "<p><strong style=\"color: rgb(200, 38, 19);\">TPD MOU:</strong></p><p><br></p><p><strong style=\"color: rgb(200, 38, 19);\">Welcome to the Tucson Police Department's Camera&nbsp;Registry.</strong></p><p><strong style=\"color: rgb(200, 38, 19);\">&nbsp;</strong></p><p><strong style=\"color: rgb(200, 38, 19);\">The Tucson Police Department camera registry allows residents and business owners to voluntarily register their surveillance cameras with the police department. Police will not have access to the camera systems but will be aware that a camera exists when investigating a crime in or around the neighborhood.&nbsp;</strong></p><p><br></p><p><strong style=\"color: rgb(200, 38, 19);\">The goal of the Tucson Police Department's Cameras Registry program is to help investigate crime and promote public safety through collaboration between the Tucson Police Department and the community we serve.&nbsp;</strong></p><p><br></p><p><strong style=\"color: rgb(200, 38, 19);\">You are not required to provide footage to the Tucson Police Department solely based on the fact that you have registered your cameras.&nbsp;</strong></p><p><br></p><p><strong style=\"color: rgb(200, 38, 19);\">If necessary, the Tucson Police Department will contact you directly using the information provided on this site to request the appropriate video surveillance footage.&nbsp;Participants in the registry are not obligated to consensually provide any images, videos, or documents.&nbsp;</strong></p><p><br></p><p><strong style=\"color: rgb(200, 38, 19);\">Under no circumstances shall registrants construe that they are acting as an agent/or employee of the Tucson Police Department through the camera registry program. The Tucson Police Department will not utilize any information obtained from the registry to view or access footage/feeds directly from cameras owned by registrants. Footage obtained by the police department will be provided solely through registrants&nbsp;choosing to provide such footage at their discretion. Information provided to the Tucson Police Department and the entirety of this registry is subject to disclosure under Arizona laws.&nbsp;</strong></p><p><br></p><p><strong style=\"color: rgb(200, 38, 19);\">The Tucson Police Department greatly appreciates your voluntary participation as it&nbsp;will greatly assist officers and detectives with tracking and identifying&nbsp;criminal suspects.</strong></p>"
+  },
+  "favicoUrl": null,
+  "loginVideoUrl": null,
+  "backgroundUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/tucson%20pd-%20az/logos/babf9e4c-a81d-4e54-b206-6505c9ecaf59.png",
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": true,
+  "registryHasMou": true,
+  "registryRequireEmailConfirmation": false
+}

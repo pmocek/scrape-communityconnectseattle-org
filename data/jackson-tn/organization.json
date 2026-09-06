@@ -1,0 +1,24 @@
+{
+  "id": "108b18e9-22de-4c8f-8c3c-7c4ae1aa7c33",
+  "name": "Jackson PD - TN",
+  "publicName": "City of Jackson Police Department",
+  "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/jackson%20pd%20-%20tn/logos/009f11b9-0945-4252-8b9a-3ba575ffd9b0.jpg",
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/Chicago",
+    "allowSsss": false,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": null,
+    "state": "TN"
+  },
+  "mou": null,
+  "favicoUrl": null,
+  "loginVideoUrl": null,
+  "backgroundUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/jackson%20pd%20-%20tn/logos/8791ba2a-7732-4b1b-8da8-fabebf8910f2.jpg",
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": true,
+  "registryHasMou": false,
+  "registryRequireEmailConfirmation": false
+}

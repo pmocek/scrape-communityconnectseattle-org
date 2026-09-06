@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "version": "2026.31.3",
+  "domains": {
+    "fususone": "https://fususone.com",
+    "fususoneApi": "https://api.fususone.com",
+    "fususvault": "https://<prefix>.fususvault.com",
+    "fususregistry": "https://{}.fususregistry.com",
+    "fusustips": "https://<prefix>.fususvault.com",
+    "livelink": "https://livelink.fususone.com",
+    "fususrecordingProxy": "https://fususcore-cloud.fususone.com",
+    "fususcoreProxy": "https://fususcore-cloud.fususone.com",
+    "fususstream": "https://<prefix>.videolink.io",
+    "lprApi": "https://lpr-api.fususone.com",
+    "websocketUrl": "https://wstunnel.fususone.com",
+    "panicApi": "https://panic-api.fususone.com",
+    "alarmsExperienceApi": null
+  },
+  "clientVersions": {
+    "DASHBOARD": {
+      "optional": "4.7.0"
+    }
+  },
+  "serviceVersions": {
+    "ruleengine": {
+      "version": "2026.8",
+      "reachable": true
+    }
+  }
+}

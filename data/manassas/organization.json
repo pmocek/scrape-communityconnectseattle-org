@@ -1,0 +1,24 @@
+{
+  "id": "b6d6baa6-f70b-4337-886f-4751c615918d",
+  "name": "Manassas City Police Dept. - VA",
+  "publicName": "Manassas City PD",
+  "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/manassas%20city%20police%20dept.%20-%20va/logos/5513a882-4bb1-4bb8-b3e0-7988845b3020.png",
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/New_York",
+    "allowSsss": false,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": "Manassas",
+    "state": "VA"
+  },
+  "mou": null,
+  "favicoUrl": null,
+  "loginVideoUrl": null,
+  "backgroundUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/manassas%20city%20police%20dept.%20-%20va/logos/9f0f2cbe-0ebd-49b0-873c-e0b5fa596109.jpg",
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": false,
+  "registryHasMou": true,
+  "registryRequireEmailConfirmation": false
+}

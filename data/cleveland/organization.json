@@ -1,0 +1,24 @@
+{
+  "id": "e13740e9-0a39-4cbd-9e8c-233c8b661252",
+  "name": "Cleveland Police Department - OH",
+  "publicName": "Cleveland Department of Public Safety",
+  "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/cleveland%20department%20of%20public%20safety%20-%20oh/logos/e911d44d-845a-4edf-8fca-427b115daae9.png",
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/New_York",
+    "allowSsss": true,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "mou": null,
+  "favicoUrl": null,
+  "loginVideoUrl": null,
+  "backgroundUrl": null,
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": true,
+  "registryHasMou": false,
+  "registryRequireEmailConfirmation": false
+}

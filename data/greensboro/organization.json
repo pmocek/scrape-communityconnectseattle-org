@@ -1,0 +1,27 @@
+{
+  "id": "dcba15d4-6411-4c27-9c6e-7ab33076ec6a",
+  "name": "GREENSBORO POLICE DEPT.",
+  "publicName": "Greensboro Police Department",
+  "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/greensboro%20pd%20-%20nc/logos/34faf549-981f-4f92-a05f-abe2300735b0.jpg",
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/New_York",
+    "allowSsss": true,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": "Greensboro",
+    "state": "NC"
+  },
+  "mou": {
+    "updatedTimestamp": "2024-12-11T20:44:01.150359Z",
+    "mouTemplate": "<p><strong><u>Camera Registry Program Policy</u></strong></p><p><br></p><p>The City of Greensboro and the Greensboro Police Department are dedicated to improving</p><p>the quality of life of residents of the City of Greensboro. Private security cameras installed</p><p>throughout the City may sometimes capture footage of emergencies or criminal activity.</p><p><br></p><p>Residents and business owners are invited to voluntarily register their video surveillance</p><p>systems with the Greensboro Police Department as part of the Connect Greensboro</p><p>Camera Registry Program to aid in crime prevention and investigation.</p><p><br></p><p>When a crime occurs, the registered cameras in the vicinity can assist the police in</p><p>collecting video evidence. This program enables the Greensboro Police Department to</p><p>contact registrants, requesting them to check their surveillance systems for specific dates</p><p>and times related to criminal activity. Registration is voluntary, with no associated costs,</p><p>and it does not grant direct access to your camera. You can delete your registration at any</p><p>time, and your personal information will be confidential unless a court order mandates</p><p>disclosure.</p><p><br></p><p>The Greensboro Police Department will only contact registrants if a criminal incident</p><p>occurs near their security camera. If necessary, law enforcement officers may request a</p><p>copy of relevant video footage to aid in the investigation.</p><p><br></p><p><br></p><p><strong><u>Terms and Conditions of Use</u></strong></p><p><br></p><p>By participating in the Connect Greensboro Camera System Registry Program, registrants</p><p>hereby represent, understand, consent, and agree to the following:</p><p><br></p><p>\u2022 The registrant is the owner or authorized person in charge of the camera system identified</p><p>herein and authorized to grant access to the Greensboro Police Department for video</p><p>retrieval.</p><p><br></p><p>\u2022 Any footage containing or related to criminal activity may be collected by the Greensboro</p><p>Police Department for use as evidence during any stage of a criminal proceeding.</p><p><br></p><p>\u2022 The registrant understands that the Greensboro Police Department will contact the</p><p>registrant directly using the information provided on this site, to request the appropriate</p><p>video surveillance footage.</p><p><br></p><p>\u2022 Under no circumstances shall registrants construe that they are acting as an agent and/or</p><p>employee of the City of Greensboro and/or the Greensboro Police Department through the</p><p>Program.</p><p><br></p><p>\u2022 The registrant understands that the City of Greensboro and/or the Greensboro Police</p><p>Department are not responsible for any crimes that occur on the registrant\u2019s property.</p><p><br></p><p>\u2022 The registrant understands that they can delete their registration at any time, and their</p><p>personal information will be confidential unless a court order mandates disclosure.</p><p><br></p><p>By submitting information, the camera registrant acknowledges and agrees to abide by the</p><p>stated policy and terms of use, contributing to the collective effort to deter crime and</p><p>enhance public safety in the City of Greensboro.</p>"
+  },
+  "favicoUrl": null,
+  "loginVideoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/greensboro%20pd%20-%20nc/logos/8b6012aa-472f-4133-b0d7-322122b70c23.mp4",
+  "backgroundUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/greensboro%20pd%20-%20nc/logos/cd9013eb-7209-4e8b-9319-dc49d19bf0fd.jpg",
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": true,
+  "registryHasMou": true,
+  "registryRequireEmailConfirmation": false
+}
