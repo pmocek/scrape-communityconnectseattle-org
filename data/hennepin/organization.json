@@ -1,11 +1,11 @@
 {
   "id": "f2e6c9fd-3505-49a5-8b34-fccd99be81a6",
-  "name": "Hennepin County SO - MN",
+  "name": "Hennepin County Sheriffs Office - MN",
   "publicName": "Hennepin County Sheriff",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/hennepin%20county%20so%20-%20mn/logos/5f3f0ba1-2113-4ec5-957d-facc03a3c09c.png",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Central",
+    "timezone": "America/Chicago",
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
