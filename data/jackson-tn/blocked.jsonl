@@ -10,3 +10,4 @@
 {"ts": "2026-09-14T13:03:53.419959Z", "endpoint": "organization", "error": "'NoneType' object has no attribute 'get'"}
 {"ts": "2026-09-15T11:55:28.559048Z", "endpoint": "organization", "error": "'NoneType' object has no attribute 'get'"}
 {"ts": "2026-09-16T11:49:48.476886Z", "endpoint": "organization", "error": "'NoneType' object has no attribute 'get'"}
+{"ts": "2026-09-17T11:53:06.250827Z", "endpoint": "organization", "error": "'NoneType' object has no attribute 'get'"}

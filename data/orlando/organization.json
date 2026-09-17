@@ -5,7 +5,7 @@
   "logoUrl": "https://storage.fususone.com/orlando/logo.jpg",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Eastern",
+    "timezone": "America/New_York",
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,

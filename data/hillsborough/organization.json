@@ -1,11 +1,11 @@
 {
   "id": "f63d7b1e-394f-47ba-a842-3a887a81dd6c",
-  "name": "Hillsborough CO SO - FL",
+  "name": "HILLSBOROUGH COUNTY SHERIFF -FL",
   "publicName": "Hillsborough CO SO - FL",
   "logoUrl": "https://storage.fususone.com/hcso/logo_login.png",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Eastern",
+    "timezone": "America/New_York",
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
