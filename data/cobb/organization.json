@@ -1,11 +1,11 @@
 {
   "id": "1ea14ab8-20fe-4e73-b6a5-3a4ad2b9fa6f",
-  "name": "Cobb County PD - GA",
+  "name": "Cobb County Police Department",
   "publicName": "Cobb County Police Department",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/cobb%20county%20pd-%20ga/logos/ae436ffd-693a-46f9-a440-f1f892fc6d8d.png",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Eastern",
+    "timezone": "America/New_York",
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,

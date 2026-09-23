@@ -1,11 +1,11 @@
 {
   "id": "8a21bf94-2ddb-4d2f-98a7-924e78e5d4c6",
-  "name": "Spartanburg PD - SC",
+  "name": "Spartanburg Dept of Public Safety - SC",
   "publicName": "Spartanburg Police Department",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/spartanburg%20pd%20-%20sc/logos/4dca957f-ba8c-4858-a7f0-15d5ccd461c4.jfif",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Eastern",
+    "timezone": "America/New_York",
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
