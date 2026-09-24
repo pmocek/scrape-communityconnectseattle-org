@@ -1,6 +1,6 @@
 {
   "id": "1dc40ce0-2969-4f0a-ab21-8ed1c7aa961b",
-  "name": "Seattle PD - WA",
+  "name": "Seattle Police Dept",
   "publicName": "Seattle PD",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/seattle%20pd%20-%20wa/logos/c4d2e621-833d-4e08-ae3c-1ca6c7bf99b8.png",
   "supportUrl": null,
@@ -9,7 +9,7 @@
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
-    "city": null,
+    "city": "Seattle",
     "state": "WA"
   },
   "mou": {

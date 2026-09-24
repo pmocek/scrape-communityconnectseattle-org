@@ -6,7 +6,7 @@
   "supportUrl": null,
   "settings": {
     "timezone": "America/New_York",
-    "allowSsss": true,
+    "allowSsss": false,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
     "city": "Asheville",
